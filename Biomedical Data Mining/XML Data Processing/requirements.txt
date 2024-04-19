@@ -1,0 +1,7 @@
+edit-distance==1.0.4
+joblib==0.15.1
+lxml==4.5.1
+numpy==1.18.5
+scikit-learn==0.23.1
+scipy==1.4.1
+threadpoolctl==2.1.0
