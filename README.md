@@ -1,4 +1,4 @@
-# Archived Work from Xu Zuo
+# Archived Work
 ## Overview
 This repository archived a collection of biomedical data science work from Xu Zuo, Ph.D. in Biomedical Informatics at UTHealth Houston.
 
@@ -14,6 +14,21 @@ The directory archived a set of Jupyter Notebooks for a varity of tasks in biome
 - Retina Image Analysis: The notebook implements a pretrained inception v3 model as a base and retraining some modified final layers with attention. The goal is to train a retinopathy model for retina image analysis. 
 
 - PubMed Abstract Generation: The notebook trains and inferences a character-level RNN model to generate PubMed abstracts.
+
+**Biomedical Data Mining**
+
+The directory archived a series of projects in biomedical data mining. The analysis scripts are all in Python. Before running the analysis, nevigate to the sub-directory, create a virtual environment and install essential packages using `pip install -r requirements.txt`. The analysis can be executed using `python analysis.py`.
+
+- Supervised Classification on EHR: This directory implements algorithms of supervised classification and unsupervised clustering for biomedical text data.
+
+- Tabular Data Analysis: This directory includes modules that preprocess and summarize tabular EHR data.
+
+- Text Classification & Clustering: This directory implements algorithms of supervised classification and unsupervised clustering for structured EHR data.
+
+
+- Using FHIR API: This directory includes modules that load and preprocess EHR data from FHIR API.
+
+- XML Data Processing: This directory includes modules that preprocess and summarize EHR data in XML format.
 
 
 **Preprint Classification**
