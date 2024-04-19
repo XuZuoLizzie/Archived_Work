@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 16.1 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="5.50in" height="4.00in" viewBox="0 0 3960 2880" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Stata Graph - plotC</desc>
+	<rect x="0" y="0" width="3960" height="2880" style="fill:#EAF2F3;stroke:none"/>
+	<rect x="0.00" y="0.00" width="3959.88" height="2880.00" style="fill:#EAF2F3"/>
+	<rect x="2.88" y="2.88" width="3954.12" height="2874.24" style="fill:none;stroke:#EAF2F3;stroke-width:5.76"/>
+	<rect x="390.80" y="100.86" width="3468.22" height="2648.33" style="fill:#FFFFFF"/>
+	<rect x="393.68" y="103.74" width="3462.46" height="2642.57" style="fill:none;stroke:#FFFFFF;stroke-width:5.76"/>
+	<line x1="390.80" y1="2648.46" x2="3859.02" y2="2648.46" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="390.80" y1="1832.79" x2="3859.02" y2="1832.79" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="390.80" y1="1017.26" x2="3859.02" y2="1017.26" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="390.80" y1="201.60" x2="3859.02" y2="201.60" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<rect x="958.20" y="879.02" width="2333.43" height="625.08" style="fill:#8DA3B7"/>
+	<rect x="962.52" y="883.34" width="2324.79" height="616.44" style="fill:none;stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="958.20" y1="1273.67" x2="3291.63" y2="1273.67" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="2124.91" y1="1504.10" x2="2124.91" y2="2148.37" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="2124.91" y1="879.02" x2="2124.91" y2="208.90" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="1343.31" y1="2148.37" x2="2906.64" y2="2148.37" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="1343.31" y1="208.90" x2="2906.64" y2="208.90" style="stroke:#1A476F;stroke-width:8.64"/>
+	<circle cx="2124.91" cy="2570.74" r="26.35" style="fill:#1A476F"/>
+	<circle cx="2124.91" cy="2570.74" r="22.03" style="fill:none;stroke:#1A476F;stroke-width:8.64"/>
+	<circle cx="2124.91" cy="2481.14" r="26.35" style="fill:#1A476F"/>
+	<circle cx="2124.91" cy="2481.14" r="22.03" style="fill:none;stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="390.80" y1="2749.19" x2="390.80" y2="100.86" style="stroke:#000000;stroke-width:5.76"/>
+	<line x1="390.80" y1="2648.46" x2="350.83" y2="2648.46" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="2648.46" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,2648.46)" text-anchor="middle">-40</text>
+	<line x1="390.80" y1="1832.79" x2="350.83" y2="1832.79" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="1832.79" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,1832.79)" text-anchor="middle">-20</text>
+	<line x1="390.80" y1="1017.26" x2="350.83" y2="1017.26" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="1017.26" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,1017.26)" text-anchor="middle">0</text>
+	<line x1="390.80" y1="201.60" x2="350.83" y2="201.60" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="201.60" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,201.60)" text-anchor="middle">20</text>
+	<text x="190.71" y="1425.03" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 190.71,1425.03)" text-anchor="middle">C</text>
+	<line x1="390.80" y1="2749.19" x2="3859.02" y2="2749.19" style="stroke:#000000;stroke-width:5.76"/>
+</svg>

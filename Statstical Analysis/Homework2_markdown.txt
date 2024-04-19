@@ -1,0 +1,84 @@
+**Answer 2.36**
+~~~~
+<<dd_do: quietly>>
+clear
+import excel "\\tsclient\Drives\PH1700\Data_1.xlsx", sheet("Sheet1") firstrow
+graph box I U, name(plotIU, replace)
+<</dd_do>>
+~~~~
+
+Below are the box plots for the I and U groups. The distribution shows that plants in the I group generally have heavier pod weights. Sample 7 in the U group has the pot weight of 2.11 and was plotted as an outliner in the graph.
+
+<<dd_graph: saving(plotIU) alt("Box plots of I and U groups.") replace>>
+
+**Answer 2.37**
+
+Plants in the I group generally grow better than plants in the U group, since the I group has higher mean and lower standard deviation in terms of pod weights. If the pod weight is one of the metrics that assesses the plant growth, then the statistics indicate that inoculation is effective for soybean growth.
+
+**Answer 2.38**
+~~~~
+<<dd_do: quietly>>
+clear
+import excel "\\tsclient\Drives\PH1700\boneden.xls", sheet("bone2") firstrow
+generate A = ls2 - ls1
+generate B = (ls1 + ls2)/2
+generate C = 100 * A/B
+
+graph box C, name(plotC, replace)
+<</dd_do>>
+~~~~
+
+Below is the descriptive statistics for variable C. Obs: number of observations; Std. Dev.: standard deviation; Min: minimum; Max: maximum.
+
+~~~~
+<<dd_do: nocommands>>
+summarize C
+<</dd_do>>
+~~~~
+
+Below is the box plot of the variable C. The median of C is below zero. The third quartile is above zero. There are two outliners below zeros.
+
+<<dd_graph: saving(plotC) alt("Box plot of variable C.") replace>>
+
+**Answer 2.39**
+~~~~
+<<dd_do: quietly>>
+generate diff_pyr = abs(pyr1 - pyr2)
+generate cat_pyr = . 
+replace cat_pyr = 1 if diff_pyr <= 9.9
+replace cat_pyr = 2 if diff_pyr > 9.9 & diff_pyr <= 19.9
+replace cat_pyr = 3 if diff_pyr > 19.9 & diff_pyr <= 29.9
+replace cat_pyr = 4 if diff_pyr > 29.9 & diff_pyr <= 39.9
+replace cat_pyr = 5 if diff_pyr > 39.9
+
+label define pyr_label 1 "0-9.9" 2 "10-19.9" 3 "20-29.9" 4 "30-39.9" 5 "40+"
+label values cat_pyr pyr_label
+
+graph twoway (scatter C cat_pyr), name(plotpyr, replace)
+<</dd_do>>
+~~~~
+
+Below is the scatter plot for variable C by tobacco use group. The x-aixs variable **Cat_pyr** indicates categories of 10 pack-year groups. Each group number corresponds to a pack year group: 1-> 0-9.9 pack years; 2-> 10-19.9 pack years; 3-> 20-29.9 pack years; 4-> 30-39.9 pack years; 5-> 40+ pack years.
+
+<<dd_graph: saving(plotpyr) alt("Scatter plot for variable C by tobacco use group.") replace>>
+
+**Answer 2.40**
+
+The figure implies that C is decreasing as the difference in pack-years increases. This might indicate that the heavier-smoking twin has a smaller lumbar spine bone mineral density, which suggests that tobacco use has a negative relationship with lumbar spine bone mineral density.
+
+**Answer 4.61**
+
+~~~~
+<<dd_do>>
+dis binomialp(10,0,.0067)
+<</dd_do>>
+~~~~
+
+The probability of become blind over 10 years = 1 - 0.935 = 0.065
+
+**Answer 4.62**
+
+The probability of not becoming blind over n years = 1 - 0.1 = 0.9. Thus binomialp (n,0,.0074). The number n is 14.2 years. The logarithmic calculation is completed with my own calculator.
+
+
+End of assignment.
