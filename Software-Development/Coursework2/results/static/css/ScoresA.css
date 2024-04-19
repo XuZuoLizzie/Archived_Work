@@ -1,7 +1,0 @@
-        $(document).ready(function(){
-            $('#selectionA').on('change', function(){
-              var demovalue = $(this).val();
-                $("div.ScoresADiv").hide();
-                $("#ScoresA"+demovalue).show();
-            });
-        });
