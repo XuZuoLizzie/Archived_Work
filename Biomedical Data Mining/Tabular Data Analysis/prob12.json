@@ -1,0 +1,7128 @@
+{
+  "tuberculosis":{
+    "Anderson County":[
+      "0",
+      "0"
+    ],
+    "Andrews County":[
+      "0",
+      "0"
+    ],
+    "Angelina County":[
+      "2",
+      "2"
+    ],
+    "Aransas County":[
+      "0",
+      "2"
+    ],
+    "Archer County":[
+      "0",
+      "0"
+    ],
+    "Armstrong County":[
+      "0",
+      "0"
+    ],
+    "Atascosa County":[
+      "4",
+      "1"
+    ],
+    "Austin County":[
+      "0",
+      "0"
+    ],
+    "Bailey County":[
+      "0",
+      "0"
+    ],
+    "Bandera County":[
+      "1",
+      "0"
+    ],
+    "Bastrop County":[
+      "3",
+      "2"
+    ],
+    "Baylor County":[
+      "0",
+      "0"
+    ],
+    "Bee County":[
+      "0",
+      "2"
+    ],
+    "Bell County":[
+      "4",
+      "10"
+    ],
+    "Bexar County":[
+      "91",
+      "72"
+    ],
+    "Blanco County":[
+      "0",
+      "0"
+    ],
+    "Borden County":[
+      "0",
+      "0"
+    ],
+    "Bosque County":[
+      "1",
+      "1"
+    ],
+    "Bowie County":[
+      "5",
+      "2"
+    ],
+    "Brazoria County":[
+      "5",
+      "11"
+    ],
+    "Brazos County":[
+      "3",
+      "9"
+    ],
+    "Brewster County":[
+      "0",
+      "0"
+    ],
+    "Briscoe County":[
+      "0",
+      "0"
+    ],
+    "Brooks County":[
+      "0",
+      "0"
+    ],
+    "Brown County":[
+      "2",
+      "0"
+    ],
+    "Burleson County":[
+      "0",
+      "1"
+    ],
+    "Burnet County":[
+      "2",
+      "0"
+    ],
+    "Caldwell County":[
+      "0",
+      "1"
+    ],
+    "Calhoun County":[
+      "1",
+      "1"
+    ],
+    "Callahan County":[
+      "0",
+      "0"
+    ],
+    "Cameron County":[
+      "64",
+      "74"
+    ],
+    "Camp County":[
+      "2",
+      "0"
+    ],
+    "Carson County":[
+      "0",
+      "0"
+    ],
+    "Cass County":[
+      "3",
+      "1"
+    ],
+    "Castro County":[
+      "0",
+      "0"
+    ],
+    "Chambers County":[
+      "1",
+      "2"
+    ],
+    "Cherokee County":[
+      "3",
+      "0"
+    ],
+    "Childress County":[
+      "0",
+      "0"
+    ],
+    "Clay County":[
+      "0",
+      "1"
+    ],
+    "Cochran County":[
+      "0",
+      "1"
+    ],
+    "Coke County":[
+      "1",
+      "0"
+    ],
+    "Coleman County":[
+      "1",
+      "0"
+    ],
+    "Collin County":[
+      "34",
+      "32"
+    ],
+    "Collingsworth County":[
+      "0",
+      "0"
+    ],
+    "Colorado County":[
+      "1",
+      "1"
+    ],
+    "Comal County":[
+      "1",
+      "3"
+    ],
+    "Comanche County":[
+      "0",
+      "0"
+    ],
+    "Concho County":[
+      "0",
+      "0"
+    ],
+    "Cooke County":[
+      "0",
+      "2"
+    ],
+    "Coryell County":[
+      "0",
+      "0"
+    ],
+    "Cottle County":[
+      "0",
+      "0"
+    ],
+    "Crane County":[
+      "0",
+      "0"
+    ],
+    "Crockett County":[
+      "1",
+      "0"
+    ],
+    "Crosby County":[
+      "0",
+      "0"
+    ],
+    "Culberson County":[
+      "1",
+      "0"
+    ],
+    "Dallam County":[
+      "1",
+      "0"
+    ],
+    "Dallas County":[
+      "244",
+      "219"
+    ],
+    "Dawson County":[
+      "0",
+      "1"
+    ],
+    "Deaf Smith County":[
+      "2",
+      "1"
+    ],
+    "Delta County":[
+      "0",
+      "0"
+    ],
+    "Denton County":[
+      "13",
+      "12"
+    ],
+    "DeWitt County":[
+      "1",
+      "1"
+    ],
+    "Dickens County":[
+      "0",
+      "0"
+    ],
+    "Dimmit County":[
+      "2",
+      "1"
+    ],
+    "Donley County":[
+      "0",
+      "1"
+    ],
+    "Duval County":[
+      "0",
+      "0"
+    ],
+    "Eastland County":[
+      "1",
+      "0"
+    ],
+    "Ector County":[
+      "6",
+      "2"
+    ],
+    "Edwards County":[
+      "0",
+      "0"
+    ],
+    "Ellis County":[
+      "5",
+      "3"
+    ],
+    "El Paso County":[
+      "72",
+      "40"
+    ],
+    "Erath County":[
+      "1",
+      "1"
+    ],
+    "Falls County":[
+      "2",
+      "0"
+    ],
+    "Fannin County":[
+      "1",
+      "0"
+    ],
+    "Fayette County":[
+      "2",
+      "2"
+    ],
+    "Fisher County":[
+      "0",
+      "0"
+    ],
+    "Floyd County":[
+      "1",
+      "0"
+    ],
+    "Foard County":[
+      "0",
+      "0"
+    ],
+    "Fort Bend County":[
+      "22",
+      "40"
+    ],
+    "Franklin County":[
+      "0",
+      "0"
+    ],
+    "Freestone County":[
+      "0",
+      "0"
+    ],
+    "Frio County":[
+      "18",
+      "23"
+    ],
+    "Gaines County":[
+      "0",
+      "1"
+    ],
+    "Galveston County":[
+      "17",
+      "15"
+    ],
+    "Garza County":[
+      "0",
+      "0"
+    ],
+    "Gillespie County":[
+      "0",
+      "0"
+    ],
+    "Glasscock County":[
+      "0",
+      "0"
+    ],
+    "Goliad County":[
+      "1",
+      "0"
+    ],
+    "Gonzales County":[
+      "0",
+      "1"
+    ],
+    "Gray County":[
+      "0",
+      "0"
+    ],
+    "Grayson County":[
+      "2",
+      "1"
+    ],
+    "Gregg County":[
+      "9",
+      "19"
+    ],
+    "Grimes County":[
+      "0",
+      "0"
+    ],
+    "Guadalupe County":[
+      "4",
+      "3"
+    ],
+    "Hale County":[
+      "0",
+      "0"
+    ],
+    "Hall County":[
+      "0",
+      "0"
+    ],
+    "Hamilton County":[
+      "0",
+      "1"
+    ],
+    "Hansford County":[
+      "0",
+      "0"
+    ],
+    "Hardeman County":[
+      "0",
+      "0"
+    ],
+    "Hardin County":[
+      "1",
+      "2"
+    ],
+    "Harris County":[
+      "413",
+      "397"
+    ],
+    "Harrison County":[
+      "7",
+      "0"
+    ],
+    "Hartley County":[
+      "0",
+      "0"
+    ],
+    "Haskell County":[
+      "1",
+      "0"
+    ],
+    "Hays County":[
+      "2",
+      "4"
+    ],
+    "Hemphill County":[
+      "0",
+      "0"
+    ],
+    "Henderson County":[
+      "5",
+      "2"
+    ],
+    "Hidalgo County":[
+      "68",
+      "76"
+    ],
+    "Hill County":[
+      "0",
+      "1"
+    ],
+    "Hockley County":[
+      "0",
+      "1"
+    ],
+    "Hood County":[
+      "1",
+      "0"
+    ],
+    "Hopkins County":[
+      "1",
+      "0"
+    ],
+    "Houston County":[
+      "2",
+      "0"
+    ],
+    "Howard County":[
+      "0",
+      "0"
+    ],
+    "Hudspeth County":[
+      "1",
+      "0"
+    ],
+    "Hunt County":[
+      "1",
+      "2"
+    ],
+    "Hutchinson County":[
+      "0",
+      "0"
+    ],
+    "Irion County":[
+      "0",
+      "0"
+    ],
+    "Jack County":[
+      "0",
+      "0"
+    ],
+    "Jackson County":[
+      "0",
+      "0"
+    ],
+    "Jasper County":[
+      "0",
+      "0"
+    ],
+    "Jeff Davis County":[
+      "0",
+      "1"
+    ],
+    "Jefferson County":[
+      "8",
+      "10"
+    ],
+    "Jim Hogg County":[
+      "0",
+      "0"
+    ],
+    "Jim Wells County":[
+      "0",
+      "2"
+    ],
+    "Johnson County":[
+      "7",
+      "5"
+    ],
+    "Jones County":[
+      "0",
+      "1"
+    ],
+    "Karnes County":[
+      "0",
+      "0"
+    ],
+    "Kaufman County":[
+      "1",
+      "3"
+    ],
+    "Kendall County":[
+      "0",
+      "4"
+    ],
+    "Kenedy County":[
+      "0",
+      "0"
+    ],
+    "Kent County":[
+      "0",
+      "0"
+    ],
+    "Kerr County":[
+      "1",
+      "2"
+    ],
+    "Kimble County":[
+      "0",
+      "0"
+    ],
+    "King County":[
+      "0",
+      "0"
+    ],
+    "Kinney County":[
+      "1",
+      "1"
+    ],
+    "Kleberg County":[
+      "1",
+      "1"
+    ],
+    "Knox County":[
+      "0",
+      "0"
+    ],
+    "Lamar County":[
+      "4",
+      "3"
+    ],
+    "Lamb County":[
+      "0",
+      "0"
+    ],
+    "Lampasas County":[
+      "0",
+      "0"
+    ],
+    "La Salle County":[
+      "2",
+      "3"
+    ],
+    "Lavaca County":[
+      "0",
+      "0"
+    ],
+    "Lee County":[
+      "1",
+      "0"
+    ],
+    "Leon County":[
+      "0",
+      "2"
+    ],
+    "Liberty County":[
+      "2",
+      "2"
+    ],
+    "Limestone County":[
+      "1",
+      "1"
+    ],
+    "Lipscomb County":[
+      "0",
+      "0"
+    ],
+    "Live Oak County":[
+      "0",
+      "0"
+    ],
+    "Llano County":[
+      "0",
+      "2"
+    ],
+    "Loving County":[
+      "0",
+      "0"
+    ],
+    "Lubbock County":[
+      "8",
+      "5"
+    ],
+    "Lynn County":[
+      "0",
+      "0"
+    ],
+    "McCulloch County":[
+      "0",
+      "0"
+    ],
+    "McLennan County":[
+      "4",
+      "8"
+    ],
+    "McMullen County":[
+      "0",
+      "0"
+    ],
+    "Madison County":[
+      "1",
+      "0"
+    ],
+    "Marion County":[
+      "0",
+      "0"
+    ],
+    "Martin County":[
+      "0",
+      "0"
+    ],
+    "Mason County":[
+      "0",
+      "0"
+    ],
+    "Matagorda County":[
+      "0",
+      "2"
+    ],
+    "Maverick County":[
+      "15",
+      "6"
+    ],
+    "Medina County":[
+      "7",
+      "1"
+    ],
+    "Menard County":[
+      "0",
+      "0"
+    ],
+    "Midland County":[
+      "4",
+      "4"
+    ],
+    "Milam County":[
+      "1",
+      "1"
+    ],
+    "Mills County":[
+      "0",
+      "0"
+    ],
+    "Mitchell County":[
+      "0",
+      "0"
+    ],
+    "Montague County":[
+      "0",
+      "0"
+    ],
+    "Montgomery County":[
+      "12",
+      "20"
+    ],
+    "Moore County":[
+      "1",
+      "0"
+    ],
+    "Morris County":[
+      "0",
+      "0"
+    ],
+    "Motley County":[
+      "0",
+      "0"
+    ],
+    "Nacogdoches County":[
+      "5",
+      "1"
+    ],
+    "Navarro County":[
+      "1",
+      "0"
+    ],
+    "Newton County":[
+      "0",
+      "0"
+    ],
+    "Nolan County":[
+      "0",
+      "0"
+    ],
+    "Nueces County":[
+      "34",
+      "16"
+    ],
+    "Ochiltree County":[
+      "0",
+      "0"
+    ],
+    "Oldham County":[
+      "0",
+      "0"
+    ],
+    "Orange County":[
+      "1",
+      "0"
+    ],
+    "Palo Pinto County":[
+      "1",
+      "6"
+    ],
+    "Panola County":[
+      "2",
+      "0"
+    ],
+    "Parker County":[
+      "6",
+      "0"
+    ],
+    "Parmer County":[
+      "0",
+      "1"
+    ],
+    "Pecos County":[
+      "0",
+      "0"
+    ],
+    "Polk County":[
+      "2",
+      "1"
+    ],
+    "Potter County":[
+      "4",
+      "4"
+    ],
+    "Presidio County":[
+      "0",
+      "2"
+    ],
+    "Rains County":[
+      "0",
+      "1"
+    ],
+    "Randall County":[
+      "3",
+      "0"
+    ],
+    "Reagan County":[
+      "0",
+      "0"
+    ],
+    "Real County":[
+      "0",
+      "0"
+    ],
+    "Red River County":[
+      "1",
+      "1"
+    ],
+    "Reeves County":[
+      "3",
+      "0"
+    ],
+    "Refugio County":[
+      "0",
+      "0"
+    ],
+    "Roberts County":[
+      "0",
+      "0"
+    ],
+    "Robertson County":[
+      "1",
+      "2"
+    ],
+    "Rockwall County":[
+      "3",
+      "0"
+    ],
+    "Runnels County":[
+      "0",
+      "0"
+    ],
+    "Rusk County":[
+      "1",
+      "0"
+    ],
+    "Sabine County":[
+      "0",
+      "0"
+    ],
+    "San Augustine County":[
+      "0",
+      "1"
+    ],
+    "San Jacinto County":[
+      "0",
+      "0"
+    ],
+    "San Patricio County":[
+      "3",
+      "2"
+    ],
+    "San Saba County":[
+      "0",
+      "1"
+    ],
+    "Schleicher County":[
+      "0",
+      "0"
+    ],
+    "Scurry County":[
+      "0",
+      "0"
+    ],
+    "Shackelford County":[
+      "0",
+      "0"
+    ],
+    "Shelby County":[
+      "0",
+      "1"
+    ],
+    "Sherman County":[
+      "0",
+      "0"
+    ],
+    "Smith County":[
+      "7",
+      "7"
+    ],
+    "Somervell County":[
+      "0",
+      "1"
+    ],
+    "Starr County":[
+      "8",
+      "9"
+    ],
+    "Stephens County":[
+      "0",
+      "0"
+    ],
+    "Sterling County":[
+      "0",
+      "0"
+    ],
+    "Stonewall County":[
+      "0",
+      "0"
+    ],
+    "Sutton County":[
+      "0",
+      "0"
+    ],
+    "Swisher County":[
+      "0",
+      "0"
+    ],
+    "Tarrant County":[
+      "108",
+      "106"
+    ],
+    "Taylor County":[
+      "3",
+      "3"
+    ],
+    "Terrell County":[
+      "0",
+      "0"
+    ],
+    "Terry County":[
+      "0",
+      "0"
+    ],
+    "Throckmorton County":[
+      "0",
+      "0"
+    ],
+    "Titus County":[
+      "1",
+      "0"
+    ],
+    "Tom Green County":[
+      "2",
+      "3"
+    ],
+    "Travis County":[
+      "41",
+      "55"
+    ],
+    "Trinity County":[
+      "0",
+      "1"
+    ],
+    "Tyler County":[
+      "0",
+      "0"
+    ],
+    "Upshur County":[
+      "0",
+      "0"
+    ],
+    "Upton County":[
+      "0",
+      "0"
+    ],
+    "Uvalde County":[
+      "1",
+      "0"
+    ],
+    "Val Verde County":[
+      "10",
+      "5"
+    ],
+    "Van Zandt County":[
+      "0",
+      "1"
+    ],
+    "Victoria County":[
+      "2",
+      "2"
+    ],
+    "Walker County":[
+      "3",
+      "4"
+    ],
+    "Waller County":[
+      "1",
+      "1"
+    ],
+    "Ward County":[
+      "0",
+      "2"
+    ],
+    "Washington County":[
+      "5",
+      "1"
+    ],
+    "Webb County":[
+      "36",
+      "40"
+    ],
+    "Wharton County":[
+      "4",
+      "2"
+    ],
+    "Wheeler County":[
+      "0",
+      "0"
+    ],
+    "Wichita County":[
+      "4",
+      "3"
+    ],
+    "Wilbarger County":[
+      "0",
+      "0"
+    ],
+    "Willacy County":[
+      "1",
+      "1"
+    ],
+    "Williamson County":[
+      "6",
+      "4"
+    ],
+    "Wilson County":[
+      "0",
+      "0"
+    ],
+    "Winkler County":[
+      "0",
+      "0"
+    ],
+    "Wise County":[
+      "0",
+      "2"
+    ],
+    "Wood County":[
+      "1",
+      "1"
+    ],
+    "Yoakum County":[
+      "1",
+      "0"
+    ],
+    "Young County":[
+      "0",
+      "1"
+    ],
+    "Zapata County":[
+      "3",
+      "2"
+    ],
+    "Zavala County":[
+      "1",
+      "0"
+    ]
+  },
+  "syphilis":{
+    "Anderson County":[
+      "0",
+      "0"
+    ],
+    "Andrews County":[
+      "0",
+      "0"
+    ],
+    "Angelina County":[
+      "1",
+      "1"
+    ],
+    "Aransas County":[
+      "0",
+      "0"
+    ],
+    "Archer County":[
+      "0",
+      "0"
+    ],
+    "Armstrong County":[
+      "0",
+      "0"
+    ],
+    "Atascosa County":[
+      "1",
+      "0"
+    ],
+    "Austin County":[
+      "0",
+      "0"
+    ],
+    "Bailey County":[
+      "0",
+      "0"
+    ],
+    "Bandera County":[
+      "0",
+      "0"
+    ],
+    "Bastrop County":[
+      "2",
+      "0"
+    ],
+    "Baylor County":[
+      "0",
+      "0"
+    ],
+    "Bee County":[
+      "0",
+      "0"
+    ],
+    "Bell County":[
+      "2",
+      "7"
+    ],
+    "Bexar County":[
+      "131",
+      "153"
+    ],
+    "Blanco County":[
+      "0",
+      "0"
+    ],
+    "Borden County":[
+      "0",
+      "0"
+    ],
+    "Bosque County":[
+      "0",
+      "0"
+    ],
+    "Bowie County":[
+      "0",
+      "2"
+    ],
+    "Brazoria County":[
+      "7",
+      "12"
+    ],
+    "Brazos County":[
+      "4",
+      "3"
+    ],
+    "Brewster County":[
+      "0",
+      "0"
+    ],
+    "Briscoe County":[
+      "0",
+      "0"
+    ],
+    "Brooks County":[
+      "0",
+      "0"
+    ],
+    "Brown County":[
+      "1",
+      "0"
+    ],
+    "Burleson County":[
+      "0",
+      "0"
+    ],
+    "Burnet County":[
+      "0",
+      "0"
+    ],
+    "Caldwell County":[
+      "0",
+      "1"
+    ],
+    "Calhoun County":[
+      "0",
+      "1"
+    ],
+    "Callahan County":[
+      "0",
+      "0"
+    ],
+    "Cameron County":[
+      "6",
+      "2"
+    ],
+    "Camp County":[
+      "0",
+      "1"
+    ],
+    "Carson County":[
+      "0",
+      "0"
+    ],
+    "Cass County":[
+      "0",
+      "0"
+    ],
+    "Castro County":[
+      "0",
+      "0"
+    ],
+    "Chambers County":[
+      "0",
+      "0"
+    ],
+    "Cherokee County":[
+      "0",
+      "1"
+    ],
+    "Childress County":[
+      "0",
+      "0"
+    ],
+    "Clay County":[
+      "0",
+      "0"
+    ],
+    "Cochran County":[
+      "0",
+      "0"
+    ],
+    "Coke County":[
+      "0",
+      "0"
+    ],
+    "Coleman County":[
+      "0",
+      "0"
+    ],
+    "Collin County":[
+      "7",
+      "7"
+    ],
+    "Collingsworth County":[
+      "0",
+      "0"
+    ],
+    "Colorado County":[
+      "0",
+      "1"
+    ],
+    "Comal County":[
+      "2",
+      "1"
+    ],
+    "Comanche County":[
+      "0",
+      "0"
+    ],
+    "Concho County":[
+      "0",
+      "0"
+    ],
+    "Cooke County":[
+      "0",
+      "0"
+    ],
+    "Coryell County":[
+      "0",
+      "0"
+    ],
+    "Cottle County":[
+      "0",
+      "0"
+    ],
+    "Crane County":[
+      "0",
+      "0"
+    ],
+    "Crockett County":[
+      "0",
+      "0"
+    ],
+    "Crosby County":[
+      "0",
+      "0"
+    ],
+    "Culberson County":[
+      "0",
+      "0"
+    ],
+    "Dallam County":[
+      "0",
+      "0"
+    ],
+    "Dallas County":[
+      "209",
+      "155"
+    ],
+    "Dawson County":[
+      "0",
+      "0"
+    ],
+    "Deaf Smith County":[
+      "0",
+      "0"
+    ],
+    "Delta County":[
+      "0",
+      "0"
+    ],
+    "Denton County":[
+      "1",
+      "2"
+    ],
+    "DeWitt County":[
+      "0",
+      "0"
+    ],
+    "Dickens County":[
+      "0",
+      "0"
+    ],
+    "Dimmit County":[
+      "0",
+      "0"
+    ],
+    "Donley County":[
+      "0",
+      "0"
+    ],
+    "Duval County":[
+      "0",
+      "0"
+    ],
+    "Eastland County":[
+      "0",
+      "0"
+    ],
+    "Ector County":[
+      "0",
+      "1"
+    ],
+    "Edwards County":[
+      "0",
+      "0"
+    ],
+    "Ellis County":[
+      "4",
+      "5"
+    ],
+    "El Paso County":[
+      "14",
+      "10"
+    ],
+    "Erath County":[
+      "0",
+      "0"
+    ],
+    "Falls County":[
+      "11",
+      "0"
+    ],
+    "Fannin County":[
+      "0",
+      "0"
+    ],
+    "Fayette County":[
+      "0",
+      "1"
+    ],
+    "Fisher County":[
+      "0",
+      "0"
+    ],
+    "Floyd County":[
+      "0",
+      "0"
+    ],
+    "Foard County":[
+      "0",
+      "0"
+    ],
+    "Fort Bend County":[
+      "7",
+      "18"
+    ],
+    "Franklin County":[
+      "0",
+      "0"
+    ],
+    "Freestone County":[
+      "0",
+      "0"
+    ],
+    "Frio County":[
+      "0",
+      "0"
+    ],
+    "Gaines County":[
+      "0",
+      "0"
+    ],
+    "Galveston County":[
+      "7",
+      "13"
+    ],
+    "Garza County":[
+      "0",
+      "0"
+    ],
+    "Gillespie County":[
+      "0",
+      "0"
+    ],
+    "Glasscock County":[
+      "0",
+      "0"
+    ],
+    "Goliad County":[
+      "0",
+      "0"
+    ],
+    "Gonzales County":[
+      "0",
+      "0"
+    ],
+    "Gray County":[
+      "0",
+      "0"
+    ],
+    "Grayson County":[
+      "2",
+      "0"
+    ],
+    "Gregg County":[
+      "1",
+      "4"
+    ],
+    "Grimes County":[
+      "0",
+      "0"
+    ],
+    "Guadalupe County":[
+      "2",
+      "0"
+    ],
+    "Hale County":[
+      "0",
+      "0"
+    ],
+    "Hall County":[
+      "0",
+      "0"
+    ],
+    "Hamilton County":[
+      "0",
+      "0"
+    ],
+    "Hansford County":[
+      "0",
+      "0"
+    ],
+    "Hardeman County":[
+      "0",
+      "0"
+    ],
+    "Hardin County":[
+      "0",
+      "0"
+    ],
+    "Harris County":[
+      "370",
+      "461"
+    ],
+    "Harrison County":[
+      "2",
+      "2"
+    ],
+    "Hartley County":[
+      "0",
+      "0"
+    ],
+    "Haskell County":[
+      "0",
+      "0"
+    ],
+    "Hays County":[
+      "1",
+      "3"
+    ],
+    "Hemphill County":[
+      "0",
+      "0"
+    ],
+    "Henderson County":[
+      "0",
+      "0"
+    ],
+    "Hidalgo County":[
+      "5",
+      "2"
+    ],
+    "Hill County":[
+      "0",
+      "0"
+    ],
+    "Hockley County":[
+      "0",
+      "0"
+    ],
+    "Hood County":[
+      "0",
+      "0"
+    ],
+    "Hopkins County":[
+      "0",
+      "0"
+    ],
+    "Houston County":[
+      "0",
+      "0"
+    ],
+    "Howard County":[
+      "0",
+      "2"
+    ],
+    "Hudspeth County":[
+      "0",
+      "0"
+    ],
+    "Hunt County":[
+      "1",
+      "2"
+    ],
+    "Hutchinson County":[
+      "0",
+      "0"
+    ],
+    "Irion County":[
+      "0",
+      "0"
+    ],
+    "Jack County":[
+      "0",
+      "0"
+    ],
+    "Jackson County":[
+      "0",
+      "1"
+    ],
+    "Jasper County":[
+      "0",
+      "0"
+    ],
+    "Jeff Davis County":[
+      "0",
+      "0"
+    ],
+    "Jefferson County":[
+      "4",
+      "41"
+    ],
+    "Jim Hogg County":[
+      "0",
+      "0"
+    ],
+    "Jim Wells County":[
+      "0",
+      "0"
+    ],
+    "Johnson County":[
+      "0",
+      "0"
+    ],
+    "Jones County":[
+      "0",
+      "0"
+    ],
+    "Karnes County":[
+      "0",
+      "0"
+    ],
+    "Kaufman County":[
+      "16",
+      "9"
+    ],
+    "Kendall County":[
+      "0",
+      "1"
+    ],
+    "Kenedy County":[
+      "0",
+      "0"
+    ],
+    "Kent County":[
+      "0",
+      "0"
+    ],
+    "Kerr County":[
+      "0",
+      "0"
+    ],
+    "Kimble County":[
+      "0",
+      "0"
+    ],
+    "King County":[
+      "0",
+      "0"
+    ],
+    "Kinney County":[
+      "0",
+      "0"
+    ],
+    "Kleberg County":[
+      "0",
+      "0"
+    ],
+    "Knox County":[
+      "0",
+      "0"
+    ],
+    "Lamar County":[
+      "1",
+      "0"
+    ],
+    "Lamb County":[
+      "0",
+      "0"
+    ],
+    "Lampasas County":[
+      "0",
+      "0"
+    ],
+    "La Salle County":[
+      "0",
+      "0"
+    ],
+    "Lavaca County":[
+      "0",
+      "0"
+    ],
+    "Lee County":[
+      "0",
+      "0"
+    ],
+    "Leon County":[
+      "1",
+      "0"
+    ],
+    "Liberty County":[
+      "0",
+      "4"
+    ],
+    "Limestone County":[
+      "1",
+      "0"
+    ],
+    "Lipscomb County":[
+      "0",
+      "0"
+    ],
+    "Live Oak County":[
+      "0",
+      "0"
+    ],
+    "Llano County":[
+      "1",
+      "2"
+    ],
+    "Loving County":[
+      "0",
+      "0"
+    ],
+    "Lubbock County":[
+      "6",
+      "5"
+    ],
+    "Lynn County":[
+      "0",
+      "0"
+    ],
+    "McCulloch County":[
+      "0",
+      "0"
+    ],
+    "McLennan County":[
+      "26",
+      "18"
+    ],
+    "McMullen County":[
+      "0",
+      "0"
+    ],
+    "Madison County":[
+      "0",
+      "0"
+    ],
+    "Marion County":[
+      "0",
+      "0"
+    ],
+    "Martin County":[
+      "0",
+      "0"
+    ],
+    "Mason County":[
+      "0",
+      "0"
+    ],
+    "Matagorda County":[
+      "0",
+      "1"
+    ],
+    "Maverick County":[
+      "1",
+      "0"
+    ],
+    "Medina County":[
+      "0",
+      "0"
+    ],
+    "Menard County":[
+      "0",
+      "0"
+    ],
+    "Midland County":[
+      "1",
+      "0"
+    ],
+    "Milam County":[
+      "0",
+      "0"
+    ],
+    "Mills County":[
+      "0",
+      "0"
+    ],
+    "Mitchell County":[
+      "0",
+      "0"
+    ],
+    "Montague County":[
+      "0",
+      "0"
+    ],
+    "Montgomery County":[
+      "1",
+      "1"
+    ],
+    "Moore County":[
+      "0",
+      "0"
+    ],
+    "Morris County":[
+      "0",
+      "0"
+    ],
+    "Motley County":[
+      "0",
+      "0"
+    ],
+    "Nacogdoches County":[
+      "3",
+      "8"
+    ],
+    "Navarro County":[
+      "2",
+      "1"
+    ],
+    "Newton County":[
+      "0",
+      "0"
+    ],
+    "Nolan County":[
+      "0",
+      "0"
+    ],
+    "Nueces County":[
+      "7",
+      "6"
+    ],
+    "Ochiltree County":[
+      "0",
+      "0"
+    ],
+    "Oldham County":[
+      "0",
+      "0"
+    ],
+    "Orange County":[
+      "1",
+      "1"
+    ],
+    "Palo Pinto County":[
+      "0",
+      "0"
+    ],
+    "Panola County":[
+      "0",
+      "2"
+    ],
+    "Parker County":[
+      "1",
+      "1"
+    ],
+    "Parmer County":[
+      "0",
+      "0"
+    ],
+    "Pecos County":[
+      "0",
+      "0"
+    ],
+    "Polk County":[
+      "1",
+      "0"
+    ],
+    "Potter County":[
+      "7",
+      "7"
+    ],
+    "Presidio County":[
+      "0",
+      "0"
+    ],
+    "Rains County":[
+      "0",
+      "0"
+    ],
+    "Randall County":[
+      "3",
+      "3"
+    ],
+    "Reagan County":[
+      "0",
+      "0"
+    ],
+    "Real County":[
+      "0",
+      "0"
+    ],
+    "Red River County":[
+      "0",
+      "0"
+    ],
+    "Reeves County":[
+      "0",
+      "0"
+    ],
+    "Refugio County":[
+      "0",
+      "1"
+    ],
+    "Roberts County":[
+      "0",
+      "0"
+    ],
+    "Robertson County":[
+      "1",
+      "2"
+    ],
+    "Rockwall County":[
+      "0",
+      "0"
+    ],
+    "Runnels County":[
+      "0",
+      "0"
+    ],
+    "Rusk County":[
+      "0",
+      "0"
+    ],
+    "Sabine County":[
+      "1",
+      "0"
+    ],
+    "San Augustine County":[
+      "0",
+      "0"
+    ],
+    "San Jacinto County":[
+      "0",
+      "0"
+    ],
+    "San Patricio County":[
+      "1",
+      "0"
+    ],
+    "San Saba County":[
+      "0",
+      "0"
+    ],
+    "Schleicher County":[
+      "0",
+      "0"
+    ],
+    "Scurry County":[
+      "0",
+      "0"
+    ],
+    "Shackelford County":[
+      "0",
+      "0"
+    ],
+    "Shelby County":[
+      "0",
+      "1"
+    ],
+    "Sherman County":[
+      "0",
+      "0"
+    ],
+    "Smith County":[
+      "1",
+      "2"
+    ],
+    "Somervell County":[
+      "0",
+      "0"
+    ],
+    "Starr County":[
+      "0",
+      "0"
+    ],
+    "Stephens County":[
+      "0",
+      "0"
+    ],
+    "Sterling County":[
+      "0",
+      "0"
+    ],
+    "Stonewall County":[
+      "0",
+      "0"
+    ],
+    "Sutton County":[
+      "0",
+      "0"
+    ],
+    "Swisher County":[
+      "0",
+      "0"
+    ],
+    "Tarrant County":[
+      "84",
+      "85"
+    ],
+    "Taylor County":[
+      "0",
+      "2"
+    ],
+    "Terrell County":[
+      "0",
+      "0"
+    ],
+    "Terry County":[
+      "0",
+      "0"
+    ],
+    "Throckmorton County":[
+      "0",
+      "0"
+    ],
+    "Titus County":[
+      "0",
+      "2"
+    ],
+    "Tom Green County":[
+      "0",
+      "2"
+    ],
+    "Travis County":[
+      "82",
+      "67"
+    ],
+    "Trinity County":[
+      "0",
+      "1"
+    ],
+    "Tyler County":[
+      "0",
+      "0"
+    ],
+    "Upshur County":[
+      "0",
+      "1"
+    ],
+    "Upton County":[
+      "0",
+      "0"
+    ],
+    "Uvalde County":[
+      "0",
+      "0"
+    ],
+    "Val Verde County":[
+      "1",
+      "2"
+    ],
+    "Van Zandt County":[
+      "1",
+      "0"
+    ],
+    "Victoria County":[
+      "2",
+      "12"
+    ],
+    "Walker County":[
+      "1",
+      "0"
+    ],
+    "Waller County":[
+      "1",
+      "0"
+    ],
+    "Ward County":[
+      "0",
+      "0"
+    ],
+    "Washington County":[
+      "1",
+      "1"
+    ],
+    "Webb County":[
+      "0",
+      "0"
+    ],
+    "Wharton County":[
+      "0",
+      "1"
+    ],
+    "Wheeler County":[
+      "0",
+      "0"
+    ],
+    "Wichita County":[
+      "4",
+      "1"
+    ],
+    "Wilbarger County":[
+      "0",
+      "0"
+    ],
+    "Willacy County":[
+      "0",
+      "0"
+    ],
+    "Williamson County":[
+      "0",
+      "3"
+    ],
+    "Wilson County":[
+      "0",
+      "0"
+    ],
+    "Winkler County":[
+      "0",
+      "0"
+    ],
+    "Wise County":[
+      "0",
+      "0"
+    ],
+    "Wood County":[
+      "0",
+      "0"
+    ],
+    "Yoakum County":[
+      "0",
+      "0"
+    ],
+    "Young County":[
+      "0",
+      "0"
+    ],
+    "Zapata County":[
+      "0",
+      "0"
+    ],
+    "Zavala County":[
+      "0",
+      "0"
+    ]
+  },
+  "gonorrhea":{
+    "Anderson County":[
+      "93",
+      "66"
+    ],
+    "Andrews County":[
+      "3",
+      "9"
+    ],
+    "Angelina County":[
+      "105",
+      "109"
+    ],
+    "Aransas County":[
+      "13",
+      "16"
+    ],
+    "Archer County":[
+      "23",
+      "5"
+    ],
+    "Armstrong County":[
+      "1",
+      "0"
+    ],
+    "Atascosa County":[
+      "19",
+      "16"
+    ],
+    "Austin County":[
+      "8",
+      "12"
+    ],
+    "Bailey County":[
+      "1",
+      "4"
+    ],
+    "Bandera County":[
+      "1",
+      "4"
+    ],
+    "Bastrop County":[
+      "58",
+      "51"
+    ],
+    "Baylor County":[
+      "4",
+      "9"
+    ],
+    "Bee County":[
+      "5",
+      "10"
+    ],
+    "Bell County":[
+      "1004",
+      "872"
+    ],
+    "Bexar County":[
+      "2572",
+      "2473"
+    ],
+    "Blanco County":[
+      "0",
+      "1"
+    ],
+    "Borden County":[
+      "0",
+      "0"
+    ],
+    "Bosque County":[
+      "3",
+      "10"
+    ],
+    "Bowie County":[
+      "230",
+      "274"
+    ],
+    "Brazoria County":[
+      "150",
+      "180"
+    ],
+    "Brazos County":[
+      "311",
+      "291"
+    ],
+    "Brewster County":[
+      "4",
+      "4"
+    ],
+    "Briscoe County":[
+      "0",
+      "0"
+    ],
+    "Brooks County":[
+      "7",
+      "8"
+    ],
+    "Brown County":[
+      "42",
+      "20"
+    ],
+    "Burleson County":[
+      "26",
+      "26"
+    ],
+    "Burnet County":[
+      "19",
+      "9"
+    ],
+    "Caldwell County":[
+      "16",
+      "47"
+    ],
+    "Calhoun County":[
+      "13",
+      "10"
+    ],
+    "Callahan County":[
+      "4",
+      "2"
+    ],
+    "Cameron County":[
+      "97",
+      "95"
+    ],
+    "Camp County":[
+      "19",
+      "13"
+    ],
+    "Carson County":[
+      "3",
+      "1"
+    ],
+    "Cass County":[
+      "63",
+      "66"
+    ],
+    "Castro County":[
+      "9",
+      "13"
+    ],
+    "Chambers County":[
+      "7",
+      "15"
+    ],
+    "Cherokee County":[
+      "59",
+      "63"
+    ],
+    "Childress County":[
+      "4",
+      "5"
+    ],
+    "Clay County":[
+      "2",
+      "2"
+    ],
+    "Cochran County":[
+      "1",
+      "1"
+    ],
+    "Coke County":[
+      "10",
+      "2"
+    ],
+    "Coleman County":[
+      "4",
+      "4"
+    ],
+    "Collin County":[
+      "290",
+      "379"
+    ],
+    "Collingsworth County":[
+      "3",
+      "0"
+    ],
+    "Colorado County":[
+      "22",
+      "23"
+    ],
+    "Comal County":[
+      "26",
+      "33"
+    ],
+    "Comanche County":[
+      "3",
+      "2"
+    ],
+    "Concho County":[
+      "1",
+      "0"
+    ],
+    "Cooke County":[
+      "27",
+      "30"
+    ],
+    "Coryell County":[
+      "82",
+      "42"
+    ],
+    "Cottle County":[
+      "2",
+      "1"
+    ],
+    "Crane County":[
+      "0",
+      "0"
+    ],
+    "Crockett County":[
+      "1",
+      "0"
+    ],
+    "Crosby County":[
+      "11",
+      "10"
+    ],
+    "Culberson County":[
+      "0",
+      "0"
+    ],
+    "Dallam County":[
+      "3",
+      "4"
+    ],
+    "Dallas County":[
+      "4650",
+      "6158"
+    ],
+    "Dawson County":[
+      "19",
+      "14"
+    ],
+    "Deaf Smith County":[
+      "17",
+      "21"
+    ],
+    "Delta County":[
+      "6",
+      "3"
+    ],
+    "Denton County":[
+      "294",
+      "336"
+    ],
+    "DeWitt County":[
+      "17",
+      "10"
+    ],
+    "Dickens County":[
+      "1",
+      "0"
+    ],
+    "Dimmit County":[
+      "15",
+      "7"
+    ],
+    "Donley County":[
+      "6",
+      "2"
+    ],
+    "Duval County":[
+      "9",
+      "3"
+    ],
+    "Eastland County":[
+      "4",
+      "4"
+    ],
+    "Ector County":[
+      "153",
+      "164"
+    ],
+    "Edwards County":[
+      "0",
+      "0"
+    ],
+    "Ellis County":[
+      "101",
+      "108"
+    ],
+    "El Paso County":[
+      "343",
+      "395"
+    ],
+    "Erath County":[
+      "22",
+      "11"
+    ],
+    "Falls County":[
+      "97",
+      "58"
+    ],
+    "Fannin County":[
+      "39",
+      "21"
+    ],
+    "Fayette County":[
+      "14",
+      "20"
+    ],
+    "Fisher County":[
+      "2",
+      "3"
+    ],
+    "Floyd County":[
+      "6",
+      "2"
+    ],
+    "Foard County":[
+      "1",
+      "0"
+    ],
+    "Fort Bend County":[
+      "264",
+      "334"
+    ],
+    "Franklin County":[
+      "3",
+      "4"
+    ],
+    "Freestone County":[
+      "22",
+      "36"
+    ],
+    "Frio County":[
+      "15",
+      "4"
+    ],
+    "Gaines County":[
+      "7",
+      "2"
+    ],
+    "Galveston County":[
+      "497",
+      "575"
+    ],
+    "Garza County":[
+      "7",
+      "5"
+    ],
+    "Gillespie County":[
+      "3",
+      "4"
+    ],
+    "Glasscock County":[
+      "0",
+      "1"
+    ],
+    "Goliad County":[
+      "2",
+      "4"
+    ],
+    "Gonzales County":[
+      "14",
+      "18"
+    ],
+    "Gray County":[
+      "19",
+      "16"
+    ],
+    "Grayson County":[
+      "110",
+      "81"
+    ],
+    "Gregg County":[
+      "275",
+      "265"
+    ],
+    "Grimes County":[
+      "43",
+      "20"
+    ],
+    "Guadalupe County":[
+      "51",
+      "49"
+    ],
+    "Hale County":[
+      "56",
+      "41"
+    ],
+    "Hall County":[
+      "1",
+      "4"
+    ],
+    "Hamilton County":[
+      "1",
+      "1"
+    ],
+    "Hansford County":[
+      "0",
+      "0"
+    ],
+    "Hardeman County":[
+      "2",
+      "2"
+    ],
+    "Hardin County":[
+      "5",
+      "34"
+    ],
+    "Harris County":[
+      "6073",
+      "6374"
+    ],
+    "Harrison County":[
+      "128",
+      "101"
+    ],
+    "Hartley County":[
+      "1",
+      "0"
+    ],
+    "Haskell County":[
+      "2",
+      "4"
+    ],
+    "Hays County":[
+      "137",
+      "113"
+    ],
+    "Hemphill County":[
+      "1",
+      "0"
+    ],
+    "Henderson County":[
+      "54",
+      "57"
+    ],
+    "Hidalgo County":[
+      "162",
+      "156"
+    ],
+    "Hill County":[
+      "34",
+      "37"
+    ],
+    "Hockley County":[
+      "22",
+      "20"
+    ],
+    "Hood County":[
+      "6",
+      "3"
+    ],
+    "Hopkins County":[
+      "25",
+      "19"
+    ],
+    "Houston County":[
+      "26",
+      "34"
+    ],
+    "Howard County":[
+      "76",
+      "61"
+    ],
+    "Hudspeth County":[
+      "0",
+      "0"
+    ],
+    "Hunt County":[
+      "53",
+      "73"
+    ],
+    "Hutchinson County":[
+      "4",
+      "9"
+    ],
+    "Irion County":[
+      "1",
+      "2"
+    ],
+    "Jack County":[
+      "4",
+      "4"
+    ],
+    "Jackson County":[
+      "16",
+      "16"
+    ],
+    "Jasper County":[
+      "45",
+      "50"
+    ],
+    "Jeff Davis County":[
+      "0",
+      "0"
+    ],
+    "Jefferson County":[
+      "325",
+      "585"
+    ],
+    "Jim Hogg County":[
+      "3",
+      "2"
+    ],
+    "Jim Wells County":[
+      "29",
+      "30"
+    ],
+    "Johnson County":[
+      "56",
+      "58"
+    ],
+    "Jones County":[
+      "13",
+      "13"
+    ],
+    "Karnes County":[
+      "4",
+      "1"
+    ],
+    "Kaufman County":[
+      "108",
+      "112"
+    ],
+    "Kendall County":[
+      "3",
+      "3"
+    ],
+    "Kenedy County":[
+      "0",
+      "0"
+    ],
+    "Kent County":[
+      "0",
+      "0"
+    ],
+    "Kerr County":[
+      "8",
+      "12"
+    ],
+    "Kimble County":[
+      "0",
+      "0"
+    ],
+    "King County":[
+      "0",
+      "0"
+    ],
+    "Kinney County":[
+      "1",
+      "0"
+    ],
+    "Kleberg County":[
+      "25",
+      "42"
+    ],
+    "Knox County":[
+      "1",
+      "4"
+    ],
+    "Lamar County":[
+      "91",
+      "129"
+    ],
+    "Lamb County":[
+      "8",
+      "15"
+    ],
+    "Lampasas County":[
+      "13",
+      "12"
+    ],
+    "La Salle County":[
+      "3",
+      "2"
+    ],
+    "Lavaca County":[
+      "9",
+      "3"
+    ],
+    "Lee County":[
+      "17",
+      "13"
+    ],
+    "Leon County":[
+      "11",
+      "9"
+    ],
+    "Liberty County":[
+      "30",
+      "45"
+    ],
+    "Limestone County":[
+      "49",
+      "74"
+    ],
+    "Lipscomb County":[
+      "0",
+      "0"
+    ],
+    "Live Oak County":[
+      "3",
+      "0"
+    ],
+    "Llano County":[
+      "6",
+      "3"
+    ],
+    "Loving County":[
+      "0",
+      "1"
+    ],
+    "Lubbock County":[
+      "496",
+      "389"
+    ],
+    "Lynn County":[
+      "6",
+      "4"
+    ],
+    "McCulloch County":[
+      "1",
+      "1"
+    ],
+    "McLennan County":[
+      "509",
+      "709"
+    ],
+    "McMullen County":[
+      "0",
+      "0"
+    ],
+    "Madison County":[
+      "15",
+      "7"
+    ],
+    "Marion County":[
+      "13",
+      "15"
+    ],
+    "Martin County":[
+      "2",
+      "3"
+    ],
+    "Mason County":[
+      "0",
+      "1"
+    ],
+    "Matagorda County":[
+      "61",
+      "25"
+    ],
+    "Maverick County":[
+      "9",
+      "7"
+    ],
+    "Medina County":[
+      "16",
+      "7"
+    ],
+    "Menard County":[
+      "1",
+      "1"
+    ],
+    "Midland County":[
+      "165",
+      "162"
+    ],
+    "Milam County":[
+      "40",
+      "56"
+    ],
+    "Mills County":[
+      "0",
+      "1"
+    ],
+    "Mitchell County":[
+      "2",
+      "7"
+    ],
+    "Montague County":[
+      "9",
+      "8"
+    ],
+    "Montgomery County":[
+      "111",
+      "167"
+    ],
+    "Moore County":[
+      "9",
+      "11"
+    ],
+    "Morris County":[
+      "35",
+      "28"
+    ],
+    "Motley County":[
+      "0",
+      "0"
+    ],
+    "Nacogdoches County":[
+      "113",
+      "96"
+    ],
+    "Navarro County":[
+      "103",
+      "70"
+    ],
+    "Newton County":[
+      "15",
+      "16"
+    ],
+    "Nolan County":[
+      "23",
+      "11"
+    ],
+    "Nueces County":[
+      "436",
+      "503"
+    ],
+    "Ochiltree County":[
+      "0",
+      "1"
+    ],
+    "Oldham County":[
+      "0",
+      "0"
+    ],
+    "Orange County":[
+      "31",
+      "50"
+    ],
+    "Palo Pinto County":[
+      "14",
+      "14"
+    ],
+    "Panola County":[
+      "26",
+      "42"
+    ],
+    "Parker County":[
+      "20",
+      "23"
+    ],
+    "Parmer County":[
+      "3",
+      "3"
+    ],
+    "Pecos County":[
+      "2",
+      "3"
+    ],
+    "Polk County":[
+      "35",
+      "31"
+    ],
+    "Potter County":[
+      "521",
+      "465"
+    ],
+    "Presidio County":[
+      "0",
+      "0"
+    ],
+    "Rains County":[
+      "5",
+      "1"
+    ],
+    "Randall County":[
+      "109",
+      "78"
+    ],
+    "Reagan County":[
+      "1",
+      "0"
+    ],
+    "Real County":[
+      "2",
+      "1"
+    ],
+    "Red River County":[
+      "10",
+      "19"
+    ],
+    "Reeves County":[
+      "5",
+      "1"
+    ],
+    "Refugio County":[
+      "9",
+      "3"
+    ],
+    "Roberts County":[
+      "0",
+      "0"
+    ],
+    "Robertson County":[
+      "28",
+      "34"
+    ],
+    "Rockwall County":[
+      "16",
+      "16"
+    ],
+    "Runnels County":[
+      "9",
+      "0"
+    ],
+    "Rusk County":[
+      "46",
+      "25"
+    ],
+    "Sabine County":[
+      "3",
+      "4"
+    ],
+    "San Augustine County":[
+      "24",
+      "14"
+    ],
+    "San Jacinto County":[
+      "8",
+      "6"
+    ],
+    "San Patricio County":[
+      "16",
+      "31"
+    ],
+    "San Saba County":[
+      "1",
+      "0"
+    ],
+    "Schleicher County":[
+      "1",
+      "1"
+    ],
+    "Scurry County":[
+      "9",
+      "9"
+    ],
+    "Shackelford County":[
+      "2",
+      "0"
+    ],
+    "Shelby County":[
+      "31",
+      "29"
+    ],
+    "Sherman County":[
+      "1",
+      "1"
+    ],
+    "Smith County":[
+      "395",
+      "369"
+    ],
+    "Somervell County":[
+      "0",
+      "3"
+    ],
+    "Starr County":[
+      "6",
+      "14"
+    ],
+    "Stephens County":[
+      "2",
+      "3"
+    ],
+    "Sterling County":[
+      "0",
+      "1"
+    ],
+    "Stonewall County":[
+      "0",
+      "1"
+    ],
+    "Sutton County":[
+      "2",
+      "0"
+    ],
+    "Swisher County":[
+      "10",
+      "6"
+    ],
+    "Tarrant County":[
+      "2764",
+      "2623"
+    ],
+    "Taylor County":[
+      "231",
+      "227"
+    ],
+    "Terrell County":[
+      "0",
+      "0"
+    ],
+    "Terry County":[
+      "12",
+      "17"
+    ],
+    "Throckmorton County":[
+      "0",
+      "0"
+    ],
+    "Titus County":[
+      "26",
+      "37"
+    ],
+    "Tom Green County":[
+      "140",
+      "130"
+    ],
+    "Travis County":[
+      "2011",
+      "1655"
+    ],
+    "Trinity County":[
+      "7",
+      "13"
+    ],
+    "Tyler County":[
+      "15",
+      "13"
+    ],
+    "Upshur County":[
+      "31",
+      "29"
+    ],
+    "Upton County":[
+      "0",
+      "0"
+    ],
+    "Uvalde County":[
+      "9",
+      "4"
+    ],
+    "Val Verde County":[
+      "12",
+      "11"
+    ],
+    "Van Zandt County":[
+      "45",
+      "26"
+    ],
+    "Victoria County":[
+      "121",
+      "99"
+    ],
+    "Walker County":[
+      "46",
+      "72"
+    ],
+    "Waller County":[
+      "46",
+      "42"
+    ],
+    "Ward County":[
+      "9",
+      "5"
+    ],
+    "Washington County":[
+      "51",
+      "56"
+    ],
+    "Webb County":[
+      "36",
+      "44"
+    ],
+    "Wharton County":[
+      "40",
+      "39"
+    ],
+    "Wheeler County":[
+      "2",
+      "2"
+    ],
+    "Wichita County":[
+      "350",
+      "296"
+    ],
+    "Wilbarger County":[
+      "9",
+      "11"
+    ],
+    "Willacy County":[
+      "7",
+      "3"
+    ],
+    "Williamson County":[
+      "214",
+      "165"
+    ],
+    "Wilson County":[
+      "10",
+      "14"
+    ],
+    "Winkler County":[
+      "4",
+      "6"
+    ],
+    "Wise County":[
+      "9",
+      "10"
+    ],
+    "Wood County":[
+      "13",
+      "14"
+    ],
+    "Yoakum County":[
+      "6",
+      "0"
+    ],
+    "Young County":[
+      "10",
+      "3"
+    ],
+    "Zapata County":[
+      "1",
+      "1"
+    ],
+    "Zavala County":[
+      "7",
+      "4"
+    ]
+  },
+  "chlamydia":{
+    "Anderson County":[
+      "155",
+      "153"
+    ],
+    "Andrews County":[
+      "31",
+      "23"
+    ],
+    "Angelina County":[
+      "231",
+      "242"
+    ],
+    "Aransas County":[
+      "70",
+      "78"
+    ],
+    "Archer County":[
+      "15",
+      "15"
+    ],
+    "Armstrong County":[
+      "1",
+      "1"
+    ],
+    "Atascosa County":[
+      "86",
+      "110"
+    ],
+    "Austin County":[
+      "24",
+      "42"
+    ],
+    "Bailey County":[
+      "24",
+      "29"
+    ],
+    "Bandera County":[
+      "14",
+      "5"
+    ],
+    "Bastrop County":[
+      "150",
+      "161"
+    ],
+    "Baylor County":[
+      "3",
+      "7"
+    ],
+    "Bee County":[
+      "81",
+      "116"
+    ],
+    "Bell County":[
+      "2418",
+      "2931"
+    ],
+    "Bexar County":[
+      "7632",
+      "8087"
+    ],
+    "Blanco County":[
+      "6",
+      "6"
+    ],
+    "Borden County":[
+      "0",
+      "0"
+    ],
+    "Bosque County":[
+      "27",
+      "21"
+    ],
+    "Bowie County":[
+      "370",
+      "382"
+    ],
+    "Brazoria County":[
+      "451",
+      "645"
+    ],
+    "Brazos County":[
+      "751",
+      "725"
+    ],
+    "Brewster County":[
+      "23",
+      "36"
+    ],
+    "Briscoe County":[
+      "1",
+      "2"
+    ],
+    "Brooks County":[
+      "23",
+      "30"
+    ],
+    "Brown County":[
+      "76",
+      "70"
+    ],
+    "Burleson County":[
+      "53",
+      "45"
+    ],
+    "Burnet County":[
+      "76",
+      "59"
+    ],
+    "Caldwell County":[
+      "86",
+      "102"
+    ],
+    "Calhoun County":[
+      "34",
+      "26"
+    ],
+    "Callahan County":[
+      "14",
+      "17"
+    ],
+    "Cameron County":[
+      "994",
+      "1084"
+    ],
+    "Camp County":[
+      "39",
+      "36"
+    ],
+    "Carson County":[
+      "4",
+      "2"
+    ],
+    "Cass County":[
+      "84",
+      "76"
+    ],
+    "Castro County":[
+      "31",
+      "30"
+    ],
+    "Chambers County":[
+      "10",
+      "33"
+    ],
+    "Cherokee County":[
+      "136",
+      "159"
+    ],
+    "Childress County":[
+      "16",
+      "12"
+    ],
+    "Clay County":[
+      "6",
+      "13"
+    ],
+    "Cochran County":[
+      "6",
+      "15"
+    ],
+    "Coke County":[
+      "24",
+      "7"
+    ],
+    "Coleman County":[
+      "15",
+      "15"
+    ],
+    "Collin County":[
+      "958",
+      "1184"
+    ],
+    "Collingsworth County":[
+      "7",
+      "9"
+    ],
+    "Colorado County":[
+      "36",
+      "47"
+    ],
+    "Comal County":[
+      "182",
+      "149"
+    ],
+    "Comanche County":[
+      "9",
+      "7"
+    ],
+    "Concho County":[
+      "2",
+      "0"
+    ],
+    "Cooke County":[
+      "71",
+      "83"
+    ],
+    "Coryell County":[
+      "172",
+      "155"
+    ],
+    "Cottle County":[
+      "7",
+      "3"
+    ],
+    "Crane County":[
+      "6",
+      "5"
+    ],
+    "Crockett County":[
+      "5",
+      "5"
+    ],
+    "Crosby County":[
+      "28",
+      "26"
+    ],
+    "Culberson County":[
+      "9",
+      "6"
+    ],
+    "Dallam County":[
+      "12",
+      "23"
+    ],
+    "Dallas County":[
+      "8529",
+      "12227"
+    ],
+    "Dawson County":[
+      "57",
+      "40"
+    ],
+    "Deaf Smith County":[
+      "86",
+      "97"
+    ],
+    "Delta County":[
+      "13",
+      "9"
+    ],
+    "Denton County":[
+      "893",
+      "1188"
+    ],
+    "DeWitt County":[
+      "49",
+      "64"
+    ],
+    "Dickens County":[
+      "2",
+      "0"
+    ],
+    "Dimmit County":[
+      "36",
+      "45"
+    ],
+    "Donley County":[
+      "7",
+      "12"
+    ],
+    "Duval County":[
+      "31",
+      "41"
+    ],
+    "Eastland County":[
+      "24",
+      "17"
+    ],
+    "Ector County":[
+      "527",
+      "522"
+    ],
+    "Edwards County":[
+      "0",
+      "3"
+    ],
+    "Ellis County":[
+      "264",
+      "353"
+    ],
+    "El Paso County":[
+      "2573",
+      "2954"
+    ],
+    "Erath County":[
+      "97",
+      "108"
+    ],
+    "Falls County":[
+      "164",
+      "76"
+    ],
+    "Fannin County":[
+      "58",
+      "50"
+    ],
+    "Fayette County":[
+      "37",
+      "38"
+    ],
+    "Fisher County":[
+      "2",
+      "10"
+    ],
+    "Floyd County":[
+      "23",
+      "20"
+    ],
+    "Foard County":[
+      "4",
+      "2"
+    ],
+    "Fort Bend County":[
+      "638",
+      "894"
+    ],
+    "Franklin County":[
+      "25",
+      "15"
+    ],
+    "Freestone County":[
+      "41",
+      "29"
+    ],
+    "Frio County":[
+      "56",
+      "50"
+    ],
+    "Gaines County":[
+      "23",
+      "14"
+    ],
+    "Galveston County":[
+      "912",
+      "1122"
+    ],
+    "Garza County":[
+      "20",
+      "13"
+    ],
+    "Gillespie County":[
+      "39",
+      "20"
+    ],
+    "Glasscock County":[
+      "0",
+      "1"
+    ],
+    "Goliad County":[
+      "9",
+      "8"
+    ],
+    "Gonzales County":[
+      "76",
+      "65"
+    ],
+    "Gray County":[
+      "63",
+      "66"
+    ],
+    "Grayson County":[
+      "224",
+      "248"
+    ],
+    "Gregg County":[
+      "619",
+      "674"
+    ],
+    "Grimes County":[
+      "88",
+      "62"
+    ],
+    "Guadalupe County":[
+      "215",
+      "238"
+    ],
+    "Hale County":[
+      "187",
+      "197"
+    ],
+    "Hall County":[
+      "10",
+      "7"
+    ],
+    "Hamilton County":[
+      "13",
+      "7"
+    ],
+    "Hansford County":[
+      "6",
+      "8"
+    ],
+    "Hardeman County":[
+      "10",
+      "5"
+    ],
+    "Hardin County":[
+      "45",
+      "64"
+    ],
+    "Harris County":[
+      "11825",
+      "13469"
+    ],
+    "Harrison County":[
+      "176",
+      "192"
+    ],
+    "Hartley County":[
+      "3",
+      "1"
+    ],
+    "Haskell County":[
+      "9",
+      "10"
+    ],
+    "Hays County":[
+      "880",
+      "825"
+    ],
+    "Hemphill County":[
+      "4",
+      "5"
+    ],
+    "Henderson County":[
+      "158",
+      "155"
+    ],
+    "Hidalgo County":[
+      "1796",
+      "2178"
+    ],
+    "Hill County":[
+      "70",
+      "78"
+    ],
+    "Hockley County":[
+      "107",
+      "74"
+    ],
+    "Hood County":[
+      "35",
+      "55"
+    ],
+    "Hopkins County":[
+      "57",
+      "64"
+    ],
+    "Houston County":[
+      "68",
+      "43"
+    ],
+    "Howard County":[
+      "87",
+      "113"
+    ],
+    "Hudspeth County":[
+      "4",
+      "4"
+    ],
+    "Hunt County":[
+      "185",
+      "237"
+    ],
+    "Hutchinson County":[
+      "39",
+      "33"
+    ],
+    "Irion County":[
+      "3",
+      "4"
+    ],
+    "Jack County":[
+      "6",
+      "8"
+    ],
+    "Jackson County":[
+      "35",
+      "49"
+    ],
+    "Jasper County":[
+      "102",
+      "113"
+    ],
+    "Jeff Davis County":[
+      "1",
+      "0"
+    ],
+    "Jefferson County":[
+      "470",
+      "894"
+    ],
+    "Jim Hogg County":[
+      "14",
+      "11"
+    ],
+    "Jim Wells County":[
+      "146",
+      "179"
+    ],
+    "Johnson County":[
+      "276",
+      "293"
+    ],
+    "Jones County":[
+      "48",
+      "39"
+    ],
+    "Karnes County":[
+      "39",
+      "36"
+    ],
+    "Kaufman County":[
+      "202",
+      "238"
+    ],
+    "Kendall County":[
+      "30",
+      "28"
+    ],
+    "Kenedy County":[
+      "1",
+      "0"
+    ],
+    "Kent County":[
+      "0",
+      "1"
+    ],
+    "Kerr County":[
+      "77",
+      "72"
+    ],
+    "Kimble County":[
+      "14",
+      "5"
+    ],
+    "King County":[
+      "0",
+      "0"
+    ],
+    "Kinney County":[
+      "4",
+      "3"
+    ],
+    "Kleberg County":[
+      "186",
+      "180"
+    ],
+    "Knox County":[
+      "6",
+      "8"
+    ],
+    "Lamar County":[
+      "165",
+      "241"
+    ],
+    "Lamb County":[
+      "62",
+      "50"
+    ],
+    "Lampasas County":[
+      "27",
+      "40"
+    ],
+    "La Salle County":[
+      "26",
+      "14"
+    ],
+    "Lavaca County":[
+      "28",
+      "24"
+    ],
+    "Lee County":[
+      "24",
+      "24"
+    ],
+    "Leon County":[
+      "26",
+      "21"
+    ],
+    "Liberty County":[
+      "85",
+      "157"
+    ],
+    "Limestone County":[
+      "75",
+      "84"
+    ],
+    "Lipscomb County":[
+      "5",
+      "4"
+    ],
+    "Live Oak County":[
+      "11",
+      "16"
+    ],
+    "Llano County":[
+      "28",
+      "21"
+    ],
+    "Loving County":[
+      "0",
+      "0"
+    ],
+    "Lubbock County":[
+      "1434",
+      "1106"
+    ],
+    "Lynn County":[
+      "5",
+      "8"
+    ],
+    "McCulloch County":[
+      "19",
+      "10"
+    ],
+    "McLennan County":[
+      "1234",
+      "1179"
+    ],
+    "McMullen County":[
+      "2",
+      "1"
+    ],
+    "Madison County":[
+      "28",
+      "15"
+    ],
+    "Marion County":[
+      "27",
+      "33"
+    ],
+    "Martin County":[
+      "7",
+      "6"
+    ],
+    "Mason County":[
+      "12",
+      "3"
+    ],
+    "Matagorda County":[
+      "104",
+      "65"
+    ],
+    "Maverick County":[
+      "115",
+      "97"
+    ],
+    "Medina County":[
+      "97",
+      "70"
+    ],
+    "Menard County":[
+      "6",
+      "2"
+    ],
+    "Midland County":[
+      "511",
+      "476"
+    ],
+    "Milam County":[
+      "102",
+      "114"
+    ],
+    "Mills County":[
+      "2",
+      "2"
+    ],
+    "Mitchell County":[
+      "12",
+      "21"
+    ],
+    "Montague County":[
+      "18",
+      "16"
+    ],
+    "Montgomery County":[
+      "486",
+      "666"
+    ],
+    "Moore County":[
+      "55",
+      "69"
+    ],
+    "Morris County":[
+      "59",
+      "62"
+    ],
+    "Motley County":[
+      "1",
+      "0"
+    ],
+    "Nacogdoches County":[
+      "244",
+      "255"
+    ],
+    "Navarro County":[
+      "167",
+      "209"
+    ],
+    "Newton County":[
+      "44",
+      "52"
+    ],
+    "Nolan County":[
+      "68",
+      "72"
+    ],
+    "Nueces County":[
+      "1428",
+      "1585"
+    ],
+    "Ochiltree County":[
+      "25",
+      "12"
+    ],
+    "Oldham County":[
+      "1",
+      "1"
+    ],
+    "Orange County":[
+      "58",
+      "200"
+    ],
+    "Palo Pinto County":[
+      "15",
+      "18"
+    ],
+    "Panola County":[
+      "72",
+      "75"
+    ],
+    "Parker County":[
+      "118",
+      "150"
+    ],
+    "Parmer County":[
+      "14",
+      "19"
+    ],
+    "Pecos County":[
+      "39",
+      "44"
+    ],
+    "Polk County":[
+      "68",
+      "90"
+    ],
+    "Potter County":[
+      "883",
+      "876"
+    ],
+    "Presidio County":[
+      "17",
+      "8"
+    ],
+    "Rains County":[
+      "8",
+      "11"
+    ],
+    "Randall County":[
+      "246",
+      "219"
+    ],
+    "Reagan County":[
+      "8",
+      "3"
+    ],
+    "Real County":[
+      "3",
+      "9"
+    ],
+    "Red River County":[
+      "34",
+      "48"
+    ],
+    "Reeves County":[
+      "26",
+      "17"
+    ],
+    "Refugio County":[
+      "14",
+      "7"
+    ],
+    "Roberts County":[
+      "0",
+      "1"
+    ],
+    "Robertson County":[
+      "75",
+      "57"
+    ],
+    "Rockwall County":[
+      "72",
+      "53"
+    ],
+    "Runnels County":[
+      "36",
+      "20"
+    ],
+    "Rusk County":[
+      "115",
+      "112"
+    ],
+    "Sabine County":[
+      "13",
+      "20"
+    ],
+    "San Augustine County":[
+      "16",
+      "20"
+    ],
+    "San Jacinto County":[
+      "34",
+      "31"
+    ],
+    "San Patricio County":[
+      "122",
+      "165"
+    ],
+    "San Saba County":[
+      "17",
+      "10"
+    ],
+    "Schleicher County":[
+      "4",
+      "3"
+    ],
+    "Scurry County":[
+      "47",
+      "49"
+    ],
+    "Shackelford County":[
+      "4",
+      "4"
+    ],
+    "Shelby County":[
+      "66",
+      "59"
+    ],
+    "Sherman County":[
+      "4",
+      "4"
+    ],
+    "Smith County":[
+      "807",
+      "966"
+    ],
+    "Somervell County":[
+      "5",
+      "7"
+    ],
+    "Starr County":[
+      "126",
+      "117"
+    ],
+    "Stephens County":[
+      "16",
+      "16"
+    ],
+    "Sterling County":[
+      "1",
+      "2"
+    ],
+    "Stonewall County":[
+      "1",
+      "1"
+    ],
+    "Sutton County":[
+      "11",
+      "6"
+    ],
+    "Swisher County":[
+      "47",
+      "33"
+    ],
+    "Tarrant County":[
+      "5485",
+      "5702"
+    ],
+    "Taylor County":[
+      "522",
+      "577"
+    ],
+    "Terrell County":[
+      "1",
+      "2"
+    ],
+    "Terry County":[
+      "65",
+      "70"
+    ],
+    "Throckmorton County":[
+      "0",
+      "0"
+    ],
+    "Titus County":[
+      "105",
+      "112"
+    ],
+    "Tom Green County":[
+      "458",
+      "420"
+    ],
+    "Travis County":[
+      "5420",
+      "4785"
+    ],
+    "Trinity County":[
+      "18",
+      "13"
+    ],
+    "Tyler County":[
+      "34",
+      "35"
+    ],
+    "Upshur County":[
+      "74",
+      "91"
+    ],
+    "Upton County":[
+      "8",
+      "7"
+    ],
+    "Uvalde County":[
+      "75",
+      "119"
+    ],
+    "Val Verde County":[
+      "161",
+      "158"
+    ],
+    "Van Zandt County":[
+      "104",
+      "92"
+    ],
+    "Victoria County":[
+      "278",
+      "333"
+    ],
+    "Walker County":[
+      "153",
+      "204"
+    ],
+    "Waller County":[
+      "118",
+      "168"
+    ],
+    "Ward County":[
+      "18",
+      "29"
+    ],
+    "Washington County":[
+      "87",
+      "70"
+    ],
+    "Webb County":[
+      "552",
+      "740"
+    ],
+    "Wharton County":[
+      "99",
+      "76"
+    ],
+    "Wheeler County":[
+      "8",
+      "1"
+    ],
+    "Wichita County":[
+      "446",
+      "555"
+    ],
+    "Wilbarger County":[
+      "24",
+      "36"
+    ],
+    "Willacy County":[
+      "62",
+      "72"
+    ],
+    "Williamson County":[
+      "783",
+      "787"
+    ],
+    "Wilson County":[
+      "76",
+      "50"
+    ],
+    "Winkler County":[
+      "26",
+      "27"
+    ],
+    "Wise County":[
+      "48",
+      "86"
+    ],
+    "Wood County":[
+      "39",
+      "55"
+    ],
+    "Yoakum County":[
+      "19",
+      "11"
+    ],
+    "Young County":[
+      "21",
+      "27"
+    ],
+    "Zapata County":[
+      "18",
+      "23"
+    ],
+    "Zavala County":[
+      "24",
+      "68"
+    ]
+  },
+  "pertussis":{
+    "Anderson County":[
+      4.0,
+      "1"
+    ],
+    "Andrews County":[
+      0.0,
+      "0"
+    ],
+    "Angelina County":[
+      24.0,
+      "11"
+    ],
+    "Aransas County":[
+      0.0,
+      "0"
+    ],
+    "Archer County":[
+      0.0,
+      "0"
+    ],
+    "Armstrong County":[
+      0.0,
+      "0"
+    ],
+    "Atascosa County":[
+      7.0,
+      "3"
+    ],
+    "Austin County":[
+      0.0,
+      "0"
+    ],
+    "Bailey County":[
+      0.0,
+      "0"
+    ],
+    "Bandera County":[
+      0.0,
+      "0"
+    ],
+    "Bastrop County":[
+      8.0,
+      "3"
+    ],
+    "Baylor County":[
+      0.0,
+      "0"
+    ],
+    "Bee County":[
+      0.0,
+      "4"
+    ],
+    "Bell County":[
+      4.0,
+      "5"
+    ],
+    "Bexar County":[
+      61.0,
+      "42"
+    ],
+    "Blanco County":[
+      2.0,
+      "3"
+    ],
+    "Borden County":[
+      0.0,
+      "0"
+    ],
+    "Bosque County":[
+      1.0,
+      "1"
+    ],
+    "Bowie County":[
+      0.0,
+      "2"
+    ],
+    "Brazoria County":[
+      1.0,
+      "1"
+    ],
+    "Brazos County":[
+      13.0,
+      "2"
+    ],
+    "Brewster County":[
+      0.0,
+      "0"
+    ],
+    "Briscoe County":[
+      0.0,
+      "0"
+    ],
+    "Brooks County":[
+      0.0,
+      "0"
+    ],
+    "Brown County":[
+      1.0,
+      "0"
+    ],
+    "Burleson County":[
+      0.0,
+      "0"
+    ],
+    "Burnet County":[
+      8.0,
+      "2"
+    ],
+    "Caldwell County":[
+      4.0,
+      "1"
+    ],
+    "Calhoun County":[
+      0.0,
+      "37"
+    ],
+    "Callahan County":[
+      0.0,
+      "0"
+    ],
+    "Cameron County":[
+      10.0,
+      "6"
+    ],
+    "Camp County":[
+      0.0,
+      "4"
+    ],
+    "Carson County":[
+      1.0,
+      "1"
+    ],
+    "Cass County":[
+      1.0,
+      "1"
+    ],
+    "Castro County":[
+      0.0,
+      "0"
+    ],
+    "Chambers County":[
+      1.0,
+      "0"
+    ],
+    "Cherokee County":[
+      0.0,
+      "1"
+    ],
+    "Childress County":[
+      0.0,
+      "0"
+    ],
+    "Clay County":[
+      0.0,
+      "0"
+    ],
+    "Cochran County":[
+      0.0,
+      "0"
+    ],
+    "Coke County":[
+      0.0,
+      "1"
+    ],
+    "Coleman County":[
+      0.0,
+      "0"
+    ],
+    "Collin County":[
+      37.0,
+      "99"
+    ],
+    "Collingsworth County":[
+      0.0,
+      "0"
+    ],
+    "Colorado County":[
+      0.0,
+      "0"
+    ],
+    "Comal County":[
+      8.0,
+      "14"
+    ],
+    "Comanche County":[
+      1.0,
+      "0"
+    ],
+    "Concho County":[
+      0.0,
+      "0"
+    ],
+    "Cooke County":[
+      3.0,
+      "0"
+    ],
+    "Coryell County":[
+      0.0,
+      "1"
+    ],
+    "Cottle County":[
+      0.0,
+      "0"
+    ],
+    "Crane County":[
+      0.0,
+      "0"
+    ],
+    "Crockett County":[
+      0.0,
+      "0"
+    ],
+    "Crosby County":[
+      0.0,
+      "0"
+    ],
+    "Culberson County":[
+      0.0,
+      "0"
+    ],
+    "Dallam County":[
+      0.0,
+      "0"
+    ],
+    "Dallas County":[
+      80.0,
+      "99"
+    ],
+    "Dawson County":[
+      0.0,
+      "0"
+    ],
+    "Deaf Smith County":[
+      0.0,
+      "6"
+    ],
+    "Delta County":[
+      0.0,
+      "0"
+    ],
+    "Denton County":[
+      52.0,
+      "85"
+    ],
+    "DeWitt County":[
+      0.0,
+      "0"
+    ],
+    "Dickens County":[
+      0.0,
+      "0"
+    ],
+    "Dimmit County":[
+      0.0,
+      "0"
+    ],
+    "Donley County":[
+      0.0,
+      "0"
+    ],
+    "Duval County":[
+      0.0,
+      "0"
+    ],
+    "Eastland County":[
+      1.0,
+      "0"
+    ],
+    "Ector County":[
+      5.0,
+      "7"
+    ],
+    "Edwards County":[
+      0.0,
+      "0"
+    ],
+    "Ellis County":[
+      5.0,
+      "2"
+    ],
+    "El Paso County":[
+      9.0,
+      "3"
+    ],
+    "Erath County":[
+      0.0,
+      "1"
+    ],
+    "Falls County":[
+      0.0,
+      "0"
+    ],
+    "Fannin County":[
+      0.0,
+      "0"
+    ],
+    "Fayette County":[
+      0.0,
+      "0"
+    ],
+    "Fisher County":[
+      0.0,
+      "0"
+    ],
+    "Floyd County":[
+      0.0,
+      "0"
+    ],
+    "Foard County":[
+      0.0,
+      "0"
+    ],
+    "Fort Bend County":[
+      4.0,
+      "4"
+    ],
+    "Franklin County":[
+      1.0,
+      "0"
+    ],
+    "Freestone County":[
+      0.0,
+      "0"
+    ],
+    "Frio County":[
+      0.0,
+      "0"
+    ],
+    "Gaines County":[
+      0.0,
+      "1"
+    ],
+    "Galveston County":[
+      7.0,
+      "3"
+    ],
+    "Garza County":[
+      2.0,
+      "0"
+    ],
+    "Gillespie County":[
+      1.0,
+      "1"
+    ],
+    "Glasscock County":[
+      0.0,
+      "0"
+    ],
+    "Goliad County":[
+      1.0,
+      "0"
+    ],
+    "Gonzales County":[
+      0.0,
+      "1"
+    ],
+    "Gray County":[
+      5.0,
+      "12"
+    ],
+    "Grayson County":[
+      3.0,
+      "2"
+    ],
+    "Gregg County":[
+      1.0,
+      "2"
+    ],
+    "Grimes County":[
+      0.0,
+      "3"
+    ],
+    "Guadalupe County":[
+      3.0,
+      "16"
+    ],
+    "Hale County":[
+      0.0,
+      "1"
+    ],
+    "Hall County":[
+      0.0,
+      "0"
+    ],
+    "Hamilton County":[
+      3.0,
+      "0"
+    ],
+    "Hansford County":[
+      0.0,
+      "0"
+    ],
+    "Hardeman County":[
+      0.0,
+      "0"
+    ],
+    "Hardin County":[
+      0.0,
+      "0"
+    ],
+    "Harris County":[
+      81.0,
+      "79"
+    ],
+    "Harrison County":[
+      2.0,
+      "1"
+    ],
+    "Hartley County":[
+      0.0,
+      "0"
+    ],
+    "Haskell County":[
+      0.0,
+      "0"
+    ],
+    "Hays County":[
+      14.0,
+      "9"
+    ],
+    "Hemphill County":[
+      0.0,
+      "0"
+    ],
+    "Henderson County":[
+      1.0,
+      "4"
+    ],
+    "Hidalgo County":[
+      32.0,
+      "25"
+    ],
+    "Hill County":[
+      0.0,
+      "4"
+    ],
+    "Hockley County":[
+      0.0,
+      "1"
+    ],
+    "Hood County":[
+      0.0,
+      "1"
+    ],
+    "Hopkins County":[
+      0.0,
+      "2"
+    ],
+    "Houston County":[
+      1.0,
+      "1"
+    ],
+    "Howard County":[
+      0.0,
+      "1"
+    ],
+    "Hudspeth County":[
+      0.0,
+      "0"
+    ],
+    "Hunt County":[
+      1.0,
+      "1"
+    ],
+    "Hutchinson County":[
+      0.0,
+      "1"
+    ],
+    "Irion County":[
+      0.0,
+      "0"
+    ],
+    "Jack County":[
+      0.0,
+      "1"
+    ],
+    "Jackson County":[
+      0.0,
+      "0"
+    ],
+    "Jasper County":[
+      0.0,
+      "0"
+    ],
+    "Jeff Davis County":[
+      0.0,
+      "0"
+    ],
+    "Jefferson County":[
+      0.0,
+      "0"
+    ],
+    "Jim Hogg County":[
+      0.0,
+      "0"
+    ],
+    "Jim Wells County":[
+      0.0,
+      "0"
+    ],
+    "Johnson County":[
+      6.0,
+      "9"
+    ],
+    "Jones County":[
+      1.0,
+      "0"
+    ],
+    "Karnes County":[
+      1.0,
+      "0"
+    ],
+    "Kaufman County":[
+      16.0,
+      "2"
+    ],
+    "Kendall County":[
+      7.0,
+      "1"
+    ],
+    "Kenedy County":[
+      0.0,
+      "0"
+    ],
+    "Kent County":[
+      0.0,
+      "0"
+    ],
+    "Kerr County":[
+      1.0,
+      "2"
+    ],
+    "Kimble County":[
+      0.0,
+      "0"
+    ],
+    "King County":[
+      0.0,
+      "0"
+    ],
+    "Kinney County":[
+      1.0,
+      "0"
+    ],
+    "Kleberg County":[
+      0.0,
+      "0"
+    ],
+    "Knox County":[
+      0.0,
+      "0"
+    ],
+    "Lamar County":[
+      0.0,
+      "0"
+    ],
+    "Lamb County":[
+      0.0,
+      "1"
+    ],
+    "Lampasas County":[
+      1.0,
+      "0"
+    ],
+    "La Salle County":[
+      0.0,
+      "1"
+    ],
+    "Lavaca County":[
+      0.0,
+      "0"
+    ],
+    "Lee County":[
+      1.0,
+      "0"
+    ],
+    "Leon County":[
+      1.0,
+      "0"
+    ],
+    "Liberty County":[
+      3.0,
+      "1"
+    ],
+    "Limestone County":[
+      1.0,
+      "0"
+    ],
+    "Lipscomb County":[
+      0.0,
+      "0"
+    ],
+    "Live Oak County":[
+      2.0,
+      "0"
+    ],
+    "Llano County":[
+      2.0,
+      "2"
+    ],
+    "Loving County":[
+      0.0,
+      "0"
+    ],
+    "Lubbock County":[
+      1.0,
+      "5"
+    ],
+    "Lynn County":[
+      0.0,
+      "0"
+    ],
+    "McCulloch County":[
+      0.0,
+      "0"
+    ],
+    "McLennan County":[
+      20.0,
+      "6"
+    ],
+    "McMullen County":[
+      0.0,
+      "0"
+    ],
+    "Madison County":[
+      0.0,
+      "0"
+    ],
+    "Marion County":[
+      0.0,
+      "0"
+    ],
+    "Martin County":[
+      0.0,
+      "2"
+    ],
+    "Mason County":[
+      0.0,
+      "0"
+    ],
+    "Matagorda County":[
+      0.0,
+      "0"
+    ],
+    "Maverick County":[
+      0.0,
+      "0"
+    ],
+    "Medina County":[
+      1.0,
+      "0"
+    ],
+    "Menard County":[
+      0.0,
+      "0"
+    ],
+    "Midland County":[
+      8.0,
+      "3"
+    ],
+    "Milam County":[
+      3.0,
+      "0"
+    ],
+    "Mills County":[
+      0.0,
+      "0"
+    ],
+    "Mitchell County":[
+      0.0,
+      "0"
+    ],
+    "Montague County":[
+      0.0,
+      "0"
+    ],
+    "Montgomery County":[
+      3.0,
+      "3"
+    ],
+    "Moore County":[
+      0.0,
+      "1"
+    ],
+    "Morris County":[
+      0.0,
+      "0"
+    ],
+    "Motley County":[
+      0.0,
+      "0"
+    ],
+    "Nacogdoches County":[
+      2.0,
+      "7"
+    ],
+    "Navarro County":[
+      0.0,
+      "0"
+    ],
+    "Newton County":[
+      0.0,
+      "0"
+    ],
+    "Nolan County":[
+      0.0,
+      "0"
+    ],
+    "Nueces County":[
+      15.0,
+      "10"
+    ],
+    "Ochiltree County":[
+      1.0,
+      "1"
+    ],
+    "Oldham County":[
+      0.0,
+      "0"
+    ],
+    "Orange County":[
+      0.0,
+      "0"
+    ],
+    "Palo Pinto County":[
+      1.0,
+      "1"
+    ],
+    "Panola County":[
+      0.0,
+      "1"
+    ],
+    "Parker County":[
+      5.0,
+      "12"
+    ],
+    "Parmer County":[
+      0.0,
+      "0"
+    ],
+    "Pecos County":[
+      0.0,
+      "0"
+    ],
+    "Polk County":[
+      2.0,
+      "2"
+    ],
+    "Potter County":[
+      8.0,
+      "6"
+    ],
+    "Presidio County":[
+      0.0,
+      "0"
+    ],
+    "Rains County":[
+      0.0,
+      "0"
+    ],
+    "Randall County":[
+      6.0,
+      "7"
+    ],
+    "Reagan County":[
+      0.0,
+      "0"
+    ],
+    "Real County":[
+      0.0,
+      "0"
+    ],
+    "Red River County":[
+      0.0,
+      "0"
+    ],
+    "Reeves County":[
+      0.0,
+      "0"
+    ],
+    "Refugio County":[
+      0.0,
+      "0"
+    ],
+    "Roberts County":[
+      1.0,
+      "0"
+    ],
+    "Robertson County":[
+      1.0,
+      "0"
+    ],
+    "Rockwall County":[
+      1.0,
+      "0"
+    ],
+    "Runnels County":[
+      0.0,
+      "0"
+    ],
+    "Rusk County":[
+      0.0,
+      "1"
+    ],
+    "Sabine County":[
+      1.0,
+      "0"
+    ],
+    "San Augustine County":[
+      0.0,
+      "2"
+    ],
+    "San Jacinto County":[
+      0.0,
+      "0"
+    ],
+    "San Patricio County":[
+      5.0,
+      "1"
+    ],
+    "San Saba County":[
+      0.0,
+      "0"
+    ],
+    "Schleicher County":[
+      0.0,
+      "0"
+    ],
+    "Scurry County":[
+      0.0,
+      "0"
+    ],
+    "Shackelford County":[
+      1.0,
+      "0"
+    ],
+    "Shelby County":[
+      0.0,
+      "2"
+    ],
+    "Sherman County":[
+      0.0,
+      "1"
+    ],
+    "Smith County":[
+      7.0,
+      "7"
+    ],
+    "Somervell County":[
+      0.0,
+      "0"
+    ],
+    "Starr County":[
+      0.0,
+      "2"
+    ],
+    "Stephens County":[
+      0.0,
+      "0"
+    ],
+    "Sterling County":[
+      0.0,
+      "0"
+    ],
+    "Stonewall County":[
+      0.0,
+      "0"
+    ],
+    "Sutton County":[
+      0.0,
+      "0"
+    ],
+    "Swisher County":[
+      0.0,
+      "0"
+    ],
+    "Tarrant County":[
+      26.0,
+      "73"
+    ],
+    "Taylor County":[
+      3.0,
+      "1"
+    ],
+    "Terrell County":[
+      0.0,
+      "0"
+    ],
+    "Terry County":[
+      0.0,
+      "0"
+    ],
+    "Throckmorton County":[
+      0.0,
+      "0"
+    ],
+    "Titus County":[
+      2.0,
+      "1"
+    ],
+    "Tom Green County":[
+      0.0,
+      "3"
+    ],
+    "Travis County":[
+      139.0,
+      "122"
+    ],
+    "Trinity County":[
+      1.0,
+      "1"
+    ],
+    "Tyler County":[
+      0.0,
+      "0"
+    ],
+    "Upshur County":[
+      1.0,
+      "0"
+    ],
+    "Upton County":[
+      0.0,
+      "0"
+    ],
+    "Uvalde County":[
+      1.0,
+      "1"
+    ],
+    "Val Verde County":[
+      1.0,
+      "0"
+    ],
+    "Van Zandt County":[
+      1.0,
+      "0"
+    ],
+    "Victoria County":[
+      3.0,
+      "1"
+    ],
+    "Walker County":[
+      0.0,
+      "1"
+    ],
+    "Waller County":[
+      1.0,
+      "0"
+    ],
+    "Ward County":[
+      1.0,
+      "1"
+    ],
+    "Washington County":[
+      1.0,
+      "0"
+    ],
+    "Webb County":[
+      1.0,
+      "2"
+    ],
+    "Wharton County":[
+      0.0,
+      "0"
+    ],
+    "Wheeler County":[
+      1.0,
+      "0"
+    ],
+    "Wichita County":[
+      0.0,
+      "1"
+    ],
+    "Wilbarger County":[
+      0.0,
+      "0"
+    ],
+    "Willacy County":[
+      2.0,
+      "1"
+    ],
+    "Williamson County":[
+      109.0,
+      "109"
+    ],
+    "Wilson County":[
+      7.0,
+      "4"
+    ],
+    "Winkler County":[
+      0.0,
+      "0"
+    ],
+    "Wise County":[
+      0.0,
+      "1"
+    ],
+    "Wood County":[
+      1.0,
+      "0"
+    ],
+    "Yoakum County":[
+      0.0,
+      "0"
+    ],
+    "Young County":[
+      0.0,
+      "0"
+    ],
+    "Zapata County":[
+      0.0,
+      "0"
+    ],
+    "Zavala County":[
+      0.0,
+      "0"
+    ]
+  },
+  "varicella":{
+    "Anderson County":[
+      "18",
+      "24"
+    ],
+    "Andrews County":[
+      "1",
+      "0"
+    ],
+    "Angelina County":[
+      "69",
+      "94"
+    ],
+    "Aransas County":[
+      "2",
+      "0"
+    ],
+    "Archer County":[
+      "32",
+      "0"
+    ],
+    "Armstrong County":[
+      "0",
+      "1"
+    ],
+    "Atascosa County":[
+      "56",
+      "96"
+    ],
+    "Austin County":[
+      "13",
+      "1"
+    ],
+    "Bailey County":[
+      "0",
+      "5"
+    ],
+    "Bandera County":[
+      "6",
+      "10"
+    ],
+    "Bastrop County":[
+      "45",
+      "16"
+    ],
+    "Baylor County":[
+      "0",
+      "0"
+    ],
+    "Bee County":[
+      "29",
+      "7"
+    ],
+    "Bell County":[
+      "169",
+      "48"
+    ],
+    "Bexar County":[
+      "827",
+      "683"
+    ],
+    "Blanco County":[
+      "13",
+      "7"
+    ],
+    "Borden County":[
+      "0",
+      "0"
+    ],
+    "Bosque County":[
+      "1",
+      "1"
+    ],
+    "Bowie County":[
+      "97",
+      "0"
+    ],
+    "Brazoria County":[
+      "65",
+      "98"
+    ],
+    "Brazos County":[
+      "42",
+      "52"
+    ],
+    "Brewster County":[
+      "4",
+      "13"
+    ],
+    "Briscoe County":[
+      "0",
+      "0"
+    ],
+    "Brooks County":[
+      "0",
+      "3"
+    ],
+    "Brown County":[
+      "26",
+      "19"
+    ],
+    "Burleson County":[
+      "37",
+      "7"
+    ],
+    "Burnet County":[
+      "24",
+      "21"
+    ],
+    "Caldwell County":[
+      "20",
+      "19"
+    ],
+    "Calhoun County":[
+      "0",
+      "0"
+    ],
+    "Callahan County":[
+      "3",
+      "1"
+    ],
+    "Cameron County":[
+      "202",
+      "172"
+    ],
+    "Camp County":[
+      "20",
+      "1"
+    ],
+    "Carson County":[
+      "0",
+      "1"
+    ],
+    "Cass County":[
+      "2",
+      "18"
+    ],
+    "Castro County":[
+      "0",
+      "1"
+    ],
+    "Chambers County":[
+      "0",
+      "0"
+    ],
+    "Cherokee County":[
+      "99",
+      "35"
+    ],
+    "Childress County":[
+      "1",
+      "0"
+    ],
+    "Clay County":[
+      "23",
+      "0"
+    ],
+    "Cochran County":[
+      "0",
+      "1"
+    ],
+    "Coke County":[
+      "0",
+      "0"
+    ],
+    "Coleman County":[
+      "1",
+      "6"
+    ],
+    "Collin County":[
+      "667",
+      "287"
+    ],
+    "Collingsworth County":[
+      "0",
+      "2"
+    ],
+    "Colorado County":[
+      "7",
+      "0"
+    ],
+    "Comal County":[
+      "79",
+      "41"
+    ],
+    "Comanche County":[
+      "8",
+      "2"
+    ],
+    "Concho County":[
+      "5",
+      "4"
+    ],
+    "Cooke County":[
+      "15",
+      "22"
+    ],
+    "Coryell County":[
+      "31",
+      "7"
+    ],
+    "Cottle County":[
+      "2",
+      "0"
+    ],
+    "Crane County":[
+      "0",
+      "1"
+    ],
+    "Crockett County":[
+      "1",
+      "0"
+    ],
+    "Crosby County":[
+      "1",
+      "0"
+    ],
+    "Culberson County":[
+      "0",
+      "0"
+    ],
+    "Dallam County":[
+      "2",
+      "1"
+    ],
+    "Dallas County":[
+      "852",
+      "672"
+    ],
+    "Dawson County":[
+      "0",
+      "0"
+    ],
+    "Deaf Smith County":[
+      "5",
+      "2"
+    ],
+    "Delta County":[
+      "0",
+      "0"
+    ],
+    "Denton County":[
+      "323",
+      "507"
+    ],
+    "DeWitt County":[
+      "1",
+      "64"
+    ],
+    "Dickens County":[
+      "0",
+      "1"
+    ],
+    "Dimmit County":[
+      "117",
+      "10"
+    ],
+    "Donley County":[
+      "0",
+      "1"
+    ],
+    "Duval County":[
+      "2",
+      "0"
+    ],
+    "Eastland County":[
+      "1",
+      "3"
+    ],
+    "Ector County":[
+      "45",
+      "35"
+    ],
+    "Edwards County":[
+      "1",
+      "1"
+    ],
+    "Ellis County":[
+      "39",
+      "19"
+    ],
+    "El Paso County":[
+      "267",
+      "296"
+    ],
+    "Erath County":[
+      "48",
+      "14"
+    ],
+    "Falls County":[
+      "1",
+      "3"
+    ],
+    "Fannin County":[
+      "13",
+      "4"
+    ],
+    "Fayette County":[
+      "10",
+      "4"
+    ],
+    "Fisher County":[
+      "0",
+      "1"
+    ],
+    "Floyd County":[
+      "1",
+      "0"
+    ],
+    "Foard County":[
+      "0",
+      "0"
+    ],
+    "Fort Bend County":[
+      "143",
+      "125"
+    ],
+    "Franklin County":[
+      "1",
+      "4"
+    ],
+    "Freestone County":[
+      "3",
+      "8"
+    ],
+    "Frio County":[
+      "36",
+      "5"
+    ],
+    "Gaines County":[
+      "1",
+      "0"
+    ],
+    "Galveston County":[
+      "149",
+      "138"
+    ],
+    "Garza County":[
+      "0",
+      "1"
+    ],
+    "Gillespie County":[
+      "51",
+      "16"
+    ],
+    "Glasscock County":[
+      "1",
+      "0"
+    ],
+    "Goliad County":[
+      "15",
+      "3"
+    ],
+    "Gonzales County":[
+      "16",
+      "6"
+    ],
+    "Gray County":[
+      "0",
+      "0"
+    ],
+    "Grayson County":[
+      "64",
+      "33"
+    ],
+    "Gregg County":[
+      "25",
+      "108"
+    ],
+    "Grimes County":[
+      "2",
+      "2"
+    ],
+    "Guadalupe County":[
+      "18",
+      "22"
+    ],
+    "Hale County":[
+      "1",
+      "1"
+    ],
+    "Hall County":[
+      "0",
+      "1"
+    ],
+    "Hamilton County":[
+      "2",
+      "2"
+    ],
+    "Hansford County":[
+      "19",
+      "1"
+    ],
+    "Hardeman County":[
+      "0",
+      "3"
+    ],
+    "Hardin County":[
+      "2",
+      "0"
+    ],
+    "Harris County":[
+      "1568",
+      "1052"
+    ],
+    "Harrison County":[
+      "18",
+      "7"
+    ],
+    "Hartley County":[
+      "0",
+      "3"
+    ],
+    "Haskell County":[
+      "2",
+      "0"
+    ],
+    "Hays County":[
+      "210",
+      "129"
+    ],
+    "Hemphill County":[
+      "1",
+      "0"
+    ],
+    "Henderson County":[
+      "22",
+      "17"
+    ],
+    "Hidalgo County":[
+      "557",
+      "603"
+    ],
+    "Hill County":[
+      "5",
+      "17"
+    ],
+    "Hockley County":[
+      "12",
+      "2"
+    ],
+    "Hood County":[
+      "50",
+      "4"
+    ],
+    "Hopkins County":[
+      "3",
+      "3"
+    ],
+    "Houston County":[
+      "10",
+      "1"
+    ],
+    "Howard County":[
+      "4",
+      "15"
+    ],
+    "Hudspeth County":[
+      "0",
+      "3"
+    ],
+    "Hunt County":[
+      "35",
+      "32"
+    ],
+    "Hutchinson County":[
+      "2",
+      "1"
+    ],
+    "Irion County":[
+      "1",
+      "0"
+    ],
+    "Jack County":[
+      "14",
+      "2"
+    ],
+    "Jackson County":[
+      "2",
+      "36"
+    ],
+    "Jasper County":[
+      "2",
+      "0"
+    ],
+    "Jeff Davis County":[
+      "1",
+      "0"
+    ],
+    "Jefferson County":[
+      "0",
+      "1"
+    ],
+    "Jim Hogg County":[
+      "0",
+      "1"
+    ],
+    "Jim Wells County":[
+      "18",
+      "1"
+    ],
+    "Johnson County":[
+      "105",
+      "37"
+    ],
+    "Jones County":[
+      "1",
+      "3"
+    ],
+    "Karnes County":[
+      "9",
+      "4"
+    ],
+    "Kaufman County":[
+      "52",
+      "13"
+    ],
+    "Kendall County":[
+      "104",
+      "26"
+    ],
+    "Kenedy County":[
+      "0",
+      "0"
+    ],
+    "Kent County":[
+      "0",
+      "0"
+    ],
+    "Kerr County":[
+      "186",
+      "37"
+    ],
+    "Kimble County":[
+      "0",
+      "0"
+    ],
+    "King County":[
+      "0",
+      "0"
+    ],
+    "Kinney County":[
+      "2",
+      "1"
+    ],
+    "Kleberg County":[
+      "1",
+      "38"
+    ],
+    "Knox County":[
+      "1",
+      "0"
+    ],
+    "Lamar County":[
+      "17",
+      "7"
+    ],
+    "Lamb County":[
+      "1",
+      "1"
+    ],
+    "Lampasas County":[
+      "8",
+      "3"
+    ],
+    "La Salle County":[
+      "31",
+      "1"
+    ],
+    "Lavaca County":[
+      "20",
+      "7"
+    ],
+    "Lee County":[
+      "7",
+      "3"
+    ],
+    "Leon County":[
+      "1",
+      "3"
+    ],
+    "Liberty County":[
+      "9",
+      "10"
+    ],
+    "Limestone County":[
+      "11",
+      "5"
+    ],
+    "Lipscomb County":[
+      "0",
+      "1"
+    ],
+    "Live Oak County":[
+      "10",
+      "0"
+    ],
+    "Llano County":[
+      "4",
+      "10"
+    ],
+    "Loving County":[
+      "0",
+      "0"
+    ],
+    "Lubbock County":[
+      "262",
+      "238"
+    ],
+    "Lynn County":[
+      "0",
+      "1"
+    ],
+    "McCulloch County":[
+      "2",
+      "1"
+    ],
+    "McLennan County":[
+      "192",
+      "77"
+    ],
+    "McMullen County":[
+      "0",
+      "0"
+    ],
+    "Madison County":[
+      "7",
+      "0"
+    ],
+    "Marion County":[
+      "24",
+      "1"
+    ],
+    "Martin County":[
+      "0",
+      "1"
+    ],
+    "Mason County":[
+      "0",
+      "4"
+    ],
+    "Matagorda County":[
+      "3",
+      "4"
+    ],
+    "Maverick County":[
+      "116",
+      "63"
+    ],
+    "Medina County":[
+      "8",
+      "20"
+    ],
+    "Menard County":[
+      "0",
+      "1"
+    ],
+    "Midland County":[
+      "35",
+      "240"
+    ],
+    "Milam County":[
+      "27",
+      "4"
+    ],
+    "Mills County":[
+      "1",
+      "0"
+    ],
+    "Mitchell County":[
+      "0",
+      "1"
+    ],
+    "Montague County":[
+      "2",
+      "2"
+    ],
+    "Montgomery County":[
+      "65",
+      "74"
+    ],
+    "Moore County":[
+      "3",
+      "77"
+    ],
+    "Morris County":[
+      "1",
+      "2"
+    ],
+    "Motley County":[
+      "0",
+      "0"
+    ],
+    "Nacogdoches County":[
+      "9",
+      "18"
+    ],
+    "Navarro County":[
+      "1",
+      "5"
+    ],
+    "Newton County":[
+      "0",
+      "0"
+    ],
+    "Nolan County":[
+      "6",
+      "9"
+    ],
+    "Nueces County":[
+      "58",
+      "171"
+    ],
+    "Ochiltree County":[
+      "0",
+      "9"
+    ],
+    "Oldham County":[
+      "0",
+      "1"
+    ],
+    "Orange County":[
+      "1",
+      "0"
+    ],
+    "Palo Pinto County":[
+      "23",
+      "2"
+    ],
+    "Panola County":[
+      "6",
+      "5"
+    ],
+    "Parker County":[
+      "45",
+      "24"
+    ],
+    "Parmer County":[
+      "0",
+      "0"
+    ],
+    "Pecos County":[
+      "0",
+      "7"
+    ],
+    "Polk County":[
+      "23",
+      "14"
+    ],
+    "Potter County":[
+      "119",
+      "222"
+    ],
+    "Presidio County":[
+      "6",
+      "11"
+    ],
+    "Rains County":[
+      "4",
+      "9"
+    ],
+    "Randall County":[
+      "161",
+      "368"
+    ],
+    "Reagan County":[
+      "0",
+      "1"
+    ],
+    "Real County":[
+      "1",
+      "0"
+    ],
+    "Red River County":[
+      "0",
+      "0"
+    ],
+    "Reeves County":[
+      "0",
+      "1"
+    ],
+    "Refugio County":[
+      "5",
+      "0"
+    ],
+    "Roberts County":[
+      "0",
+      "0"
+    ],
+    "Robertson County":[
+      "0",
+      "0"
+    ],
+    "Rockwall County":[
+      "34",
+      "23"
+    ],
+    "Runnels County":[
+      "11",
+      "3"
+    ],
+    "Rusk County":[
+      "5",
+      "3"
+    ],
+    "Sabine County":[
+      "0",
+      "3"
+    ],
+    "San Augustine County":[
+      "1",
+      "2"
+    ],
+    "San Jacinto County":[
+      "3",
+      "1"
+    ],
+    "San Patricio County":[
+      "2",
+      "63"
+    ],
+    "San Saba County":[
+      "1",
+      "1"
+    ],
+    "Schleicher County":[
+      "0",
+      "0"
+    ],
+    "Scurry County":[
+      "8",
+      "1"
+    ],
+    "Shackelford County":[
+      "0",
+      "1"
+    ],
+    "Shelby County":[
+      "9",
+      "5"
+    ],
+    "Sherman County":[
+      "0",
+      "0"
+    ],
+    "Smith County":[
+      "161",
+      "72"
+    ],
+    "Somervell County":[
+      "0",
+      "1"
+    ],
+    "Starr County":[
+      "24",
+      "103"
+    ],
+    "Stephens County":[
+      "7",
+      "1"
+    ],
+    "Sterling County":[
+      "0",
+      "0"
+    ],
+    "Stonewall County":[
+      "0",
+      "0"
+    ],
+    "Sutton County":[
+      "0",
+      "0"
+    ],
+    "Swisher County":[
+      "0",
+      "4"
+    ],
+    "Tarrant County":[
+      "893",
+      "778"
+    ],
+    "Taylor County":[
+      "49",
+      "68"
+    ],
+    "Terrell County":[
+      "0",
+      "0"
+    ],
+    "Terry County":[
+      "0",
+      "0"
+    ],
+    "Throckmorton County":[
+      "0",
+      "0"
+    ],
+    "Titus County":[
+      "1",
+      "17"
+    ],
+    "Tom Green County":[
+      "34",
+      "42"
+    ],
+    "Travis County":[
+      "505",
+      "408"
+    ],
+    "Trinity County":[
+      "7",
+      "1"
+    ],
+    "Tyler County":[
+      "2",
+      "3"
+    ],
+    "Upshur County":[
+      "3",
+      "3"
+    ],
+    "Upton County":[
+      "0",
+      "3"
+    ],
+    "Uvalde County":[
+      "15",
+      "20"
+    ],
+    "Val Verde County":[
+      "41",
+      "29"
+    ],
+    "Van Zandt County":[
+      "16",
+      "19"
+    ],
+    "Victoria County":[
+      "32",
+      "47"
+    ],
+    "Walker County":[
+      "32",
+      "8"
+    ],
+    "Waller County":[
+      "13",
+      "4"
+    ],
+    "Ward County":[
+      "4",
+      "3"
+    ],
+    "Washington County":[
+      "22",
+      "9"
+    ],
+    "Webb County":[
+      "35",
+      "24"
+    ],
+    "Wharton County":[
+      "3",
+      "13"
+    ],
+    "Wheeler County":[
+      "0",
+      "0"
+    ],
+    "Wichita County":[
+      "6",
+      "0"
+    ],
+    "Wilbarger County":[
+      "3",
+      "1"
+    ],
+    "Willacy County":[
+      "12",
+      "2"
+    ],
+    "Williamson County":[
+      "322",
+      "357"
+    ],
+    "Wilson County":[
+      "13",
+      "9"
+    ],
+    "Winkler County":[
+      "0",
+      "0"
+    ],
+    "Wise County":[
+      "16",
+      "23"
+    ],
+    "Wood County":[
+      "13",
+      "59"
+    ],
+    "Yoakum County":[
+      "0",
+      "0"
+    ],
+    "Young County":[
+      "1",
+      "33"
+    ],
+    "Zapata County":[
+      "9",
+      "5"
+    ],
+    "Zavala County":[
+      "27",
+      "13"
+    ]
+  },
+  "aids":{
+    "Anderson County":[
+      "3",
+      "3"
+    ],
+    "Andrews County":[
+      "0",
+      "0"
+    ],
+    "Angelina County":[
+      "5",
+      "6"
+    ],
+    "Aransas County":[
+      "0",
+      "1"
+    ],
+    "Archer County":[
+      "0",
+      "0"
+    ],
+    "Armstrong County":[
+      "0",
+      "0"
+    ],
+    "Atascosa County":[
+      "2",
+      "1"
+    ],
+    "Austin County":[
+      "0",
+      "3"
+    ],
+    "Bailey County":[
+      "0",
+      "0"
+    ],
+    "Bandera County":[
+      "0",
+      "0"
+    ],
+    "Bastrop County":[
+      "0",
+      "3"
+    ],
+    "Baylor County":[
+      "0",
+      "0"
+    ],
+    "Bee County":[
+      "2",
+      "0"
+    ],
+    "Bell County":[
+      "6",
+      "5"
+    ],
+    "Bexar County":[
+      "201",
+      "222"
+    ],
+    "Blanco County":[
+      "0",
+      "0"
+    ],
+    "Borden County":[
+      "0",
+      "0"
+    ],
+    "Bosque County":[
+      "0",
+      "2"
+    ],
+    "Bowie County":[
+      "10",
+      "6"
+    ],
+    "Brazoria County":[
+      "21",
+      "20"
+    ],
+    "Brazos County":[
+      "6",
+      "14"
+    ],
+    "Brewster County":[
+      "0",
+      "0"
+    ],
+    "Briscoe County":[
+      "0",
+      "0"
+    ],
+    "Brooks County":[
+      "1",
+      "0"
+    ],
+    "Brown County":[
+      "4",
+      "2"
+    ],
+    "Burleson County":[
+      "0",
+      "2"
+    ],
+    "Burnet County":[
+      "0",
+      "4"
+    ],
+    "Caldwell County":[
+      "1",
+      "2"
+    ],
+    "Calhoun County":[
+      "0",
+      "0"
+    ],
+    "Callahan County":[
+      "1",
+      "0"
+    ],
+    "Cameron County":[
+      "25",
+      "31"
+    ],
+    "Camp County":[
+      "0",
+      "0"
+    ],
+    "Carson County":[
+      "0",
+      "0"
+    ],
+    "Cass County":[
+      "5",
+      "2"
+    ],
+    "Castro County":[
+      "0",
+      "0"
+    ],
+    "Chambers County":[
+      "0",
+      "1"
+    ],
+    "Cherokee County":[
+      "3",
+      "2"
+    ],
+    "Childress County":[
+      "0",
+      "0"
+    ],
+    "Clay County":[
+      "0",
+      "0"
+    ],
+    "Cochran County":[
+      "0",
+      "0"
+    ],
+    "Coke County":[
+      "0",
+      "0"
+    ],
+    "Coleman County":[
+      "3",
+      "0"
+    ],
+    "Collin County":[
+      "41",
+      "45"
+    ],
+    "Collingsworth County":[
+      "0",
+      "0"
+    ],
+    "Colorado County":[
+      "1",
+      "2"
+    ],
+    "Comal County":[
+      "2",
+      "4"
+    ],
+    "Comanche County":[
+      "0",
+      "0"
+    ],
+    "Concho County":[
+      "0",
+      "0"
+    ],
+    "Cooke County":[
+      "1",
+      "1"
+    ],
+    "Coryell County":[
+      "0",
+      "1"
+    ],
+    "Cottle County":[
+      "0",
+      "0"
+    ],
+    "Crane County":[
+      "0",
+      "0"
+    ],
+    "Crockett County":[
+      "0",
+      "0"
+    ],
+    "Crosby County":[
+      "0",
+      "0"
+    ],
+    "Culberson County":[
+      "0",
+      "0"
+    ],
+    "Dallam County":[
+      "0",
+      "0"
+    ],
+    "Dallas County":[
+      "579",
+      "548"
+    ],
+    "Dawson County":[
+      "0",
+      "0"
+    ],
+    "Deaf Smith County":[
+      "0",
+      "0"
+    ],
+    "Delta County":[
+      "0",
+      "0"
+    ],
+    "Denton County":[
+      "29",
+      "33"
+    ],
+    "DeWitt County":[
+      "2",
+      "0"
+    ],
+    "Dickens County":[
+      "0",
+      "0"
+    ],
+    "Dimmit County":[
+      "0",
+      "0"
+    ],
+    "Donley County":[
+      "0",
+      "0"
+    ],
+    "Duval County":[
+      "0",
+      "1"
+    ],
+    "Eastland County":[
+      "1",
+      "0"
+    ],
+    "Ector County":[
+      "6",
+      "8"
+    ],
+    "Edwards County":[
+      "0",
+      "0"
+    ],
+    "Ellis County":[
+      "4",
+      "6"
+    ],
+    "El Paso County":[
+      "37",
+      "132"
+    ],
+    "Erath County":[
+      "0",
+      "1"
+    ],
+    "Falls County":[
+      "0",
+      "0"
+    ],
+    "Fannin County":[
+      "2",
+      "1"
+    ],
+    "Fayette County":[
+      "0",
+      "0"
+    ],
+    "Fisher County":[
+      "0",
+      "0"
+    ],
+    "Floyd County":[
+      "0",
+      "0"
+    ],
+    "Foard County":[
+      "0",
+      "0"
+    ],
+    "Fort Bend County":[
+      "19",
+      "84"
+    ],
+    "Franklin County":[
+      "0",
+      "0"
+    ],
+    "Freestone County":[
+      "1",
+      "1"
+    ],
+    "Frio County":[
+      "3",
+      "2"
+    ],
+    "Gaines County":[
+      "0",
+      "0"
+    ],
+    "Galveston County":[
+      "62",
+      "27"
+    ],
+    "Garza County":[
+      "0",
+      "0"
+    ],
+    "Gillespie County":[
+      "0",
+      "1"
+    ],
+    "Glasscock County":[
+      "0",
+      "0"
+    ],
+    "Goliad County":[
+      "1",
+      "1"
+    ],
+    "Gonzales County":[
+      "0",
+      "0"
+    ],
+    "Gray County":[
+      "0",
+      "0"
+    ],
+    "Grayson County":[
+      "4",
+      "6"
+    ],
+    "Gregg County":[
+      "24",
+      "10"
+    ],
+    "Grimes County":[
+      "1",
+      "2"
+    ],
+    "Guadalupe County":[
+      "1",
+      "3"
+    ],
+    "Hale County":[
+      "2",
+      "2"
+    ],
+    "Hall County":[
+      "0",
+      "0"
+    ],
+    "Hamilton County":[
+      "0",
+      "0"
+    ],
+    "Hansford County":[
+      "0",
+      "0"
+    ],
+    "Hardeman County":[
+      "0",
+      "0"
+    ],
+    "Hardin County":[
+      "2",
+      "4"
+    ],
+    "Harris County":[
+      "986",
+      "829"
+    ],
+    "Harrison County":[
+      "4",
+      "4"
+    ],
+    "Hartley County":[
+      "0",
+      "0"
+    ],
+    "Haskell County":[
+      "0",
+      "2"
+    ],
+    "Hays County":[
+      "1",
+      "9"
+    ],
+    "Hemphill County":[
+      "0",
+      "0"
+    ],
+    "Henderson County":[
+      "2",
+      "1"
+    ],
+    "Hidalgo County":[
+      "47",
+      "45"
+    ],
+    "Hill County":[
+      "1",
+      "2"
+    ],
+    "Hockley County":[
+      "0",
+      "0"
+    ],
+    "Hood County":[
+      "1",
+      "1"
+    ],
+    "Hopkins County":[
+      "0",
+      "1"
+    ],
+    "Houston County":[
+      "1",
+      "4"
+    ],
+    "Howard County":[
+      "2",
+      "1"
+    ],
+    "Hudspeth County":[
+      "0",
+      "0"
+    ],
+    "Hunt County":[
+      "11",
+      "5"
+    ],
+    "Hutchinson County":[
+      "2",
+      "1"
+    ],
+    "Irion County":[
+      "0",
+      "0"
+    ],
+    "Jack County":[
+      "0",
+      "0"
+    ],
+    "Jackson County":[
+      "0",
+      "0"
+    ],
+    "Jasper County":[
+      "1",
+      "2"
+    ],
+    "Jeff Davis County":[
+      "0",
+      "0"
+    ],
+    "Jefferson County":[
+      "11",
+      "65"
+    ],
+    "Jim Hogg County":[
+      "1",
+      "0"
+    ],
+    "Jim Wells County":[
+      "1",
+      "1"
+    ],
+    "Johnson County":[
+      "9",
+      "7"
+    ],
+    "Jones County":[
+      "1",
+      "0"
+    ],
+    "Karnes County":[
+      "0",
+      "0"
+    ],
+    "Kaufman County":[
+      "5",
+      "6"
+    ],
+    "Kendall County":[
+      "0",
+      "1"
+    ],
+    "Kenedy County":[
+      "0",
+      "0"
+    ],
+    "Kent County":[
+      "0",
+      "0"
+    ],
+    "Kerr County":[
+      "0",
+      "2"
+    ],
+    "Kimble County":[
+      "0",
+      "0"
+    ],
+    "King County":[
+      "0",
+      "0"
+    ],
+    "Kinney County":[
+      "0",
+      "1"
+    ],
+    "Kleberg County":[
+      "0",
+      "4"
+    ],
+    "Knox County":[
+      "0",
+      "0"
+    ],
+    "Lamar County":[
+      "5",
+      "3"
+    ],
+    "Lamb County":[
+      "1",
+      "1"
+    ],
+    "Lampasas County":[
+      "0",
+      "0"
+    ],
+    "La Salle County":[
+      "0",
+      "0"
+    ],
+    "Lavaca County":[
+      "0",
+      "0"
+    ],
+    "Lee County":[
+      "1",
+      "1"
+    ],
+    "Leon County":[
+      "0",
+      "2"
+    ],
+    "Liberty County":[
+      "3",
+      "6"
+    ],
+    "Limestone County":[
+      "0",
+      "0"
+    ],
+    "Lipscomb County":[
+      "0",
+      "0"
+    ],
+    "Live Oak County":[
+      "0",
+      "0"
+    ],
+    "Llano County":[
+      "0",
+      "1"
+    ],
+    "Loving County":[
+      "0",
+      "0"
+    ],
+    "Lubbock County":[
+      "10",
+      "4"
+    ],
+    "Lynn County":[
+      "0",
+      "0"
+    ],
+    "McCulloch County":[
+      "0",
+      "0"
+    ],
+    "McLennan County":[
+      "16",
+      "15"
+    ],
+    "McMullen County":[
+      "0",
+      "0"
+    ],
+    "Madison County":[
+      "1",
+      "2"
+    ],
+    "Marion County":[
+      "2",
+      "0"
+    ],
+    "Martin County":[
+      "0",
+      "0"
+    ],
+    "Mason County":[
+      "0",
+      "0"
+    ],
+    "Matagorda County":[
+      "0",
+      "2"
+    ],
+    "Maverick County":[
+      "1",
+      "4"
+    ],
+    "Medina County":[
+      "0",
+      "2"
+    ],
+    "Menard County":[
+      "0",
+      "1"
+    ],
+    "Midland County":[
+      "9",
+      "4"
+    ],
+    "Milam County":[
+      "1",
+      "2"
+    ],
+    "Mills County":[
+      "0",
+      "0"
+    ],
+    "Mitchell County":[
+      "0",
+      "0"
+    ],
+    "Montague County":[
+      "0",
+      "0"
+    ],
+    "Montgomery County":[
+      "9",
+      "40"
+    ],
+    "Moore County":[
+      "0",
+      "0"
+    ],
+    "Morris County":[
+      "0",
+      "1"
+    ],
+    "Motley County":[
+      "0",
+      "0"
+    ],
+    "Nacogdoches County":[
+      "4",
+      "3"
+    ],
+    "Navarro County":[
+      "7",
+      "2"
+    ],
+    "Newton County":[
+      "0",
+      "2"
+    ],
+    "Nolan County":[
+      "0",
+      "0"
+    ],
+    "Nueces County":[
+      "35",
+      "22"
+    ],
+    "Ochiltree County":[
+      "0",
+      "0"
+    ],
+    "Oldham County":[
+      "0",
+      "0"
+    ],
+    "Orange County":[
+      "5",
+      "11"
+    ],
+    "Palo Pinto County":[
+      "1",
+      "2"
+    ],
+    "Panola County":[
+      "1",
+      "0"
+    ],
+    "Parker County":[
+      "8",
+      "1"
+    ],
+    "Parmer County":[
+      "0",
+      "2"
+    ],
+    "Pecos County":[
+      "0",
+      "0"
+    ],
+    "Polk County":[
+      "0",
+      "4"
+    ],
+    "Potter County":[
+      "8",
+      "5"
+    ],
+    "Presidio County":[
+      "0",
+      "1"
+    ],
+    "Rains County":[
+      "1",
+      "1"
+    ],
+    "Randall County":[
+      "0",
+      "1"
+    ],
+    "Reagan County":[
+      "0",
+      "0"
+    ],
+    "Real County":[
+      "0",
+      "0"
+    ],
+    "Red River County":[
+      "0",
+      "1"
+    ],
+    "Reeves County":[
+      "1",
+      "2"
+    ],
+    "Refugio County":[
+      "1",
+      "0"
+    ],
+    "Roberts County":[
+      "0",
+      "0"
+    ],
+    "Robertson County":[
+      "3",
+      "3"
+    ],
+    "Rockwall County":[
+      "1",
+      "1"
+    ],
+    "Runnels County":[
+      "0",
+      "1"
+    ],
+    "Rusk County":[
+      "4",
+      "0"
+    ],
+    "Sabine County":[
+      "1",
+      "1"
+    ],
+    "San Augustine County":[
+      "0",
+      "0"
+    ],
+    "San Jacinto County":[
+      "1",
+      "1"
+    ],
+    "San Patricio County":[
+      "2",
+      "5"
+    ],
+    "San Saba County":[
+      "0",
+      "0"
+    ],
+    "Schleicher County":[
+      "0",
+      "0"
+    ],
+    "Scurry County":[
+      "0",
+      "0"
+    ],
+    "Shackelford County":[
+      "0",
+      "0"
+    ],
+    "Shelby County":[
+      "2",
+      "4"
+    ],
+    "Sherman County":[
+      "0",
+      "0"
+    ],
+    "Smith County":[
+      "9",
+      "14"
+    ],
+    "Somervell County":[
+      "0",
+      "0"
+    ],
+    "Starr County":[
+      "0",
+      "0"
+    ],
+    "Stephens County":[
+      "0",
+      "1"
+    ],
+    "Sterling County":[
+      "0",
+      "0"
+    ],
+    "Stonewall County":[
+      "0",
+      "0"
+    ],
+    "Sutton County":[
+      "0",
+      "0"
+    ],
+    "Swisher County":[
+      "0",
+      "0"
+    ],
+    "Tarrant County":[
+      "180",
+      "169"
+    ],
+    "Taylor County":[
+      "6",
+      "11"
+    ],
+    "Terrell County":[
+      "0",
+      "0"
+    ],
+    "Terry County":[
+      "1",
+      "0"
+    ],
+    "Throckmorton County":[
+      "0",
+      "0"
+    ],
+    "Titus County":[
+      "2",
+      "1"
+    ],
+    "Tom Green County":[
+      "1",
+      "3"
+    ],
+    "Travis County":[
+      "164",
+      "161"
+    ],
+    "Trinity County":[
+      "2",
+      "1"
+    ],
+    "Tyler County":[
+      "2",
+      "1"
+    ],
+    "Upshur County":[
+      "1",
+      "2"
+    ],
+    "Upton County":[
+      "0",
+      "0"
+    ],
+    "Uvalde County":[
+      "0",
+      "0"
+    ],
+    "Val Verde County":[
+      "1",
+      "4"
+    ],
+    "Van Zandt County":[
+      "3",
+      "1"
+    ],
+    "Victoria County":[
+      "2",
+      "3"
+    ],
+    "Walker County":[
+      "2",
+      "5"
+    ],
+    "Waller County":[
+      "4",
+      "4"
+    ],
+    "Ward County":[
+      "0",
+      "0"
+    ],
+    "Washington County":[
+      "0",
+      "2"
+    ],
+    "Webb County":[
+      "21",
+      "17"
+    ],
+    "Wharton County":[
+      "1",
+      "6"
+    ],
+    "Wheeler County":[
+      "0",
+      "0"
+    ],
+    "Wichita County":[
+      "10",
+      "6"
+    ],
+    "Wilbarger County":[
+      "1",
+      "2"
+    ],
+    "Willacy County":[
+      "3",
+      "2"
+    ],
+    "Williamson County":[
+      "20",
+      "17"
+    ],
+    "Wilson County":[
+      "0",
+      "0"
+    ],
+    "Winkler County":[
+      "0",
+      "0"
+    ],
+    "Wise County":[
+      "0",
+      "3"
+    ],
+    "Wood County":[
+      "0",
+      "1"
+    ],
+    "Yoakum County":[
+      "0",
+      "0"
+    ],
+    "Young County":[
+      "0",
+      "0"
+    ],
+    "Zapata County":[
+      "0",
+      "0"
+    ],
+    "Zavala County":[
+      "2",
+      "1"
+    ]
+  }
+}

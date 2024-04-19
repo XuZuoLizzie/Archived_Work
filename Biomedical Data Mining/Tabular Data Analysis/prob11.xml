@@ -1,0 +1,1526 @@
+<CountyEmploymentInfo>
+  <County name="Anderson County">
+    <Population>56202</Population>
+    <LaborForce>20258</LaborForce>
+    <Unemployed>1195</Unemployed>
+    <PerCapitaIncome>21559</PerCapitaIncome>
+  </County>
+  <County name="Andrews County">
+    <Population>13154</Population>
+    <LaborForce>6797</LaborForce>
+    <Unemployed>238</Unemployed>
+    <PerCapitaIncome>30554</PerCapitaIncome>
+  </County>
+  <County name="Angelina County">
+    <Population>82424</Population>
+    <LaborForce>40033</LaborForce>
+    <Unemployed>1877</Unemployed>
+    <PerCapitaIncome>30977</PerCapitaIncome>
+  </County>
+  <County name="Aransas County">
+    <Population>24900</Population>
+    <LaborForce>11034</LaborForce>
+    <Unemployed>521</Unemployed>
+    <PerCapitaIncome>31537</PerCapitaIncome>
+  </County>
+  <County name="Archer County">
+    <Population>9065</Population>
+    <LaborForce>5458</LaborForce>
+    <Unemployed>185</Unemployed>
+    <PerCapitaIncome>33943</PerCapitaIncome>
+  </County>
+  <County name="Armstrong County">
+    <Population>2170</Population>
+    <LaborForce>1105</LaborForce>
+    <Unemployed>39</Unemployed>
+    <PerCapitaIncome>29839</PerCapitaIncome>
+  </County>
+  <County name="Atascosa County">
+    <Population>42414</Population>
+    <LaborForce>19211</LaborForce>
+    <Unemployed>900</Unemployed>
+    <PerCapitaIncome>24030</PerCapitaIncome>
+  </County>
+  <County name="Austin County">
+    <Population>26928</Population>
+    <LaborForce>12717</LaborForce>
+    <Unemployed>554</Unemployed>
+    <PerCapitaIncome>33174</PerCapitaIncome>
+  </County>
+  <County name="Bailey County">
+    <Population>6514</Population>
+    <LaborForce>3162</LaborForce>
+    <Unemployed>158</Unemployed>
+    <PerCapitaIncome>25454</PerCapitaIncome>
+  </County>
+  <County name="Bandera County">
+    <Population>19773</Population>
+    <LaborForce>9758</LaborForce>
+    <Unemployed>416</Unemployed>
+    <PerCapitaIncome>30512</PerCapitaIncome>
+  </County>
+  <County name="Bastrop County">
+    <Population>71726</Population>
+    <LaborForce>34185</LaborForce>
+    <Unemployed>1590</Unemployed>
+    <PerCapitaIncome>25021</PerCapitaIncome>
+  </County>
+  <County name="Baylor County">
+    <Population>4041</Population>
+    <LaborForce>1926</LaborForce>
+    <Unemployed>80</Unemployed>
+    <PerCapitaIncome>23078</PerCapitaIncome>
+  </County>
+  <County name="Bee County">
+    <Population>33207</Population>
+    <LaborForce>11438</LaborForce>
+    <Unemployed>728</Unemployed>
+    <PerCapitaIncome>19368</PerCapitaIncome>
+  </County>
+  <County name="Bell County">
+    <Population>269073</Population>
+    <LaborForce>115723</LaborForce>
+    <Unemployed>5806</Unemployed>
+    <PerCapitaIncome>32612</PerCapitaIncome>
+  </County>
+  <County name="Bexar County">
+    <Population>1550160</Population>
+    <LaborForce>729640</LaborForce>
+    <Unemployed>34343</Unemployed>
+    <PerCapitaIncome>32991</PerCapitaIncome>
+  </County>
+  <County name="Blanco County">
+    <Population>9383</Population>
+    <LaborForce>4664</LaborForce>
+    <Unemployed>181</Unemployed>
+    <PerCapitaIncome>33803</PerCapitaIncome>
+  </County>
+  <County name="Borden County">
+    <Population>710</Population>
+    <LaborForce>408</LaborForce>
+    <Unemployed>19</Unemployed>
+    <PerCapitaIncome>20444</PerCapitaIncome>
+  </County>
+  <County name="Bosque County">
+    <Population>18272</Population>
+    <LaborForce>8206</LaborForce>
+    <Unemployed>406</Unemployed>
+    <PerCapitaIncome>25418</PerCapitaIncome>
+  </County>
+  <County name="Bowie County">
+    <Population>93286</Population>
+    <LaborForce>42782</LaborForce>
+    <Unemployed>2296</Unemployed>
+    <PerCapitaIncome>28567</PerCapitaIncome>
+  </County>
+  <County name="Brazoria County">
+    <Population>286773</Population>
+    <LaborForce>134940</LaborForce>
+    <Unemployed>6783</Unemployed>
+    <PerCapitaIncome>32953</PerCapitaIncome>
+  </County>
+  <County name="Brazos County">
+    <Population>167228</Population>
+    <LaborForce>87028</LaborForce>
+    <Unemployed>3534</Unemployed>
+    <PerCapitaIncome>25098</PerCapitaIncome>
+  </County>
+  <County name="Brewster County">
+    <Population>9231</Population>
+    <LaborForce>5421</LaborForce>
+    <Unemployed>186</Unemployed>
+    <PerCapitaIncome>28635</PerCapitaIncome>
+  </County>
+  <County name="Briscoe County">
+    <Population>1573</Population>
+    <LaborForce>695</LaborForce>
+    <Unemployed>33</Unemployed>
+    <PerCapitaIncome>23475</PerCapitaIncome>
+  </County>
+  <County name="Brooks County">
+    <Population>7729</Population>
+    <LaborForce>3035</LaborForce>
+    <Unemployed>190</Unemployed>
+    <PerCapitaIncome>19391</PerCapitaIncome>
+  </County>
+  <County name="Brown County">
+    <Population>38617</Population>
+    <LaborForce>19053</LaborForce>
+    <Unemployed>853</Unemployed>
+    <PerCapitaIncome>24735</PerCapitaIncome>
+  </County>
+  <County name="Burleson County">
+    <Population>18101</Population>
+    <LaborForce>8357</LaborForce>
+    <Unemployed>341</Unemployed>
+    <PerCapitaIncome>27152</PerCapitaIncome>
+  </County>
+  <County name="Burnet County">
+    <Population>40642</Population>
+    <LaborForce>21333</LaborForce>
+    <Unemployed>880</Unemployed>
+    <PerCapitaIncome>31809</PerCapitaIncome>
+  </County>
+  <County name="Caldwell County">
+    <Population>35562</Population>
+    <LaborForce>15911</LaborForce>
+    <Unemployed>784</Unemployed>
+    <PerCapitaIncome>23008</PerCapitaIncome>
+  </County>
+  <County name="Calhoun County">
+    <Population>20843</Population>
+    <LaborForce>9389</LaborForce>
+    <Unemployed>460</Unemployed>
+    <PerCapitaIncome>26457</PerCapitaIncome>
+  </County>
+  <County name="Callahan County">
+    <Population>13510</Population>
+    <LaborForce>7120</LaborForce>
+    <Unemployed>277</Unemployed>
+    <PerCapitaIncome>25945</PerCapitaIncome>
+  </County>
+  <County name="Cameron County">
+    <Population>389571</Population>
+    <LaborForce>143218</LaborForce>
+    <Unemployed>9490</Unemployed>
+    <PerCapitaIncome>18624</PerCapitaIncome>
+  </County>
+  <County name="Camp County">
+    <Population>12706</Population>
+    <LaborForce>5504</LaborForce>
+    <Unemployed>280</Unemployed>
+    <PerCapitaIncome>28546</PerCapitaIncome>
+  </County>
+  <County name="Carson County">
+    <Population>6497</Population>
+    <LaborForce>3523</LaborForce>
+    <Unemployed>125</Unemployed>
+    <PerCapitaIncome>27040</PerCapitaIncome>
+  </County>
+  <County name="Cass County">
+    <Population>30567</Population>
+    <LaborForce>13053</LaborForce>
+    <Unemployed>770</Unemployed>
+    <PerCapitaIncome>26090</PerCapitaIncome>
+  </County>
+  <County name="Castro County">
+    <Population>7554</Population>
+    <LaborForce>3236</LaborForce>
+    <Unemployed>152</Unemployed>
+    <PerCapitaIncome>34355</PerCapitaIncome>
+  </County>
+  <County name="Chambers County">
+    <Population>32383</Population>
+    <LaborForce>13814</LaborForce>
+    <Unemployed>722</Unemployed>
+    <PerCapitaIncome>36378</PerCapitaIncome>
+  </County>
+  <County name="Cherokee County">
+    <Population>48320</Population>
+    <LaborForce>20265</LaborForce>
+    <Unemployed>1089</Unemployed>
+    <PerCapitaIncome>26063</PerCapitaIncome>
+  </County>
+  <County name="Childress County">
+    <Population>7728</Population>
+    <LaborForce>3038</LaborForce>
+    <Unemployed>170</Unemployed>
+    <PerCapitaIncome>17306</PerCapitaIncome>
+  </County>
+  <County name="Clay County">
+    <Population>11161</Population>
+    <LaborForce>6460</LaborForce>
+    <Unemployed>246</Unemployed>
+    <PerCapitaIncome>29383</PerCapitaIncome>
+  </County>
+  <County name="Cochran County">
+    <Population>3590</Population>
+    <LaborForce>1459</LaborForce>
+    <Unemployed>88</Unemployed>
+    <PerCapitaIncome>28689</PerCapitaIncome>
+  </County>
+  <County name="Coke County">
+    <Population>3897</Population>
+    <LaborForce>1352</LaborForce>
+    <Unemployed>75</Unemployed>
+    <PerCapitaIncome>20348</PerCapitaIncome>
+  </County>
+  <County name="Coleman County">
+    <Population>8860</Population>
+    <LaborForce>4280</LaborForce>
+    <Unemployed>184</Unemployed>
+    <PerCapitaIncome>24413</PerCapitaIncome>
+  </County>
+  <County name="Collin County">
+    <Population>696306</Population>
+    <LaborForce>385242</LaborForce>
+    <Unemployed>16490</Unemployed>
+    <PerCapitaIncome>45591</PerCapitaIncome>
+  </County>
+  <County name="Collingsworth County">
+    <Population>2933</Population>
+    <LaborForce>1555</LaborForce>
+    <Unemployed>68</Unemployed>
+    <PerCapitaIncome>28363</PerCapitaIncome>
+  </County>
+  <County name="Colorado County">
+    <Population>21629</Population>
+    <LaborForce>10695</LaborForce>
+    <Unemployed>461</Unemployed>
+    <PerCapitaIncome>29286</PerCapitaIncome>
+  </County>
+  <County name="Comal County">
+    <Population>102032</Population>
+    <LaborForce>51323</LaborForce>
+    <Unemployed>2114</Unemployed>
+    <PerCapitaIncome>34906</PerCapitaIncome>
+  </County>
+  <County name="Comanche County">
+    <Population>14097</Population>
+    <LaborForce>6361</LaborForce>
+    <Unemployed>287</Unemployed>
+    <PerCapitaIncome>26139</PerCapitaIncome>
+  </County>
+  <County name="Concho County">
+    <Population>3801</Population>
+    <LaborForce>1325</LaborForce>
+    <Unemployed>72</Unemployed>
+    <PerCapitaIncome>17275</PerCapitaIncome>
+  </County>
+  <County name="Cooke County">
+    <Population>39852</Population>
+    <LaborForce>20792</LaborForce>
+    <Unemployed>791</Unemployed>
+    <PerCapitaIncome>33504</PerCapitaIncome>
+  </County>
+  <County name="Coryell County">
+    <Population>76007</Population>
+    <LaborForce>24565</LaborForce>
+    <Unemployed>1602</Unemployed>
+    <PerCapitaIncome>29552</PerCapitaIncome>
+  </County>
+  <County name="Cottle County">
+    <Population>1627</Population>
+    <LaborForce>791</LaborForce>
+    <Unemployed>40</Unemployed>
+    <PerCapitaIncome>27700</PerCapitaIncome>
+  </County>
+  <County name="Crane County">
+    <Population>3854</Population>
+    <LaborForce>1725</LaborForce>
+    <Unemployed>76</Unemployed>
+    <PerCapitaIncome>27575</PerCapitaIncome>
+  </County>
+  <County name="Crockett County">
+    <Population>3986</Population>
+    <LaborForce>2030</LaborForce>
+    <Unemployed>70</Unemployed>
+    <PerCapitaIncome>20605</PerCapitaIncome>
+  </County>
+  <County name="Crosby County">
+    <Population>6611</Population>
+    <LaborForce>2849</LaborForce>
+    <Unemployed>156</Unemployed>
+    <PerCapitaIncome>27515</PerCapitaIncome>
+  </County>
+  <County name="Culberson County">
+    <Population>2646</Population>
+    <LaborForce>1638</LaborForce>
+    <Unemployed>51</Unemployed>
+    <PerCapitaIncome>19209</PerCapitaIncome>
+  </County>
+  <County name="Dallam County">
+    <Population>6244</Population>
+    <LaborForce>3026</LaborForce>
+    <Unemployed>102</Unemployed>
+    <PerCapitaIncome>28836</PerCapitaIncome>
+  </County>
+  <County name="Dallas County">
+    <Population>2340063</Population>
+    <LaborForce>1148767</LaborForce>
+    <Unemployed>59416</Unemployed>
+    <PerCapitaIncome>43488</PerCapitaIncome>
+  </County>
+  <County name="Dawson County">
+    <Population>14192</Population>
+    <LaborForce>5090</LaborForce>
+    <Unemployed>336</Unemployed>
+    <PerCapitaIncome>21117</PerCapitaIncome>
+  </County>
+  <County name="Deaf Smith County">
+    <Population>18640</Population>
+    <LaborForce>8223</LaborForce>
+    <Unemployed>352</Unemployed>
+    <PerCapitaIncome>23439</PerCapitaIncome>
+  </County>
+  <County name="Delta County">
+    <Population>5267</Population>
+    <LaborForce>2424</LaborForce>
+    <Unemployed>127</Unemployed>
+    <PerCapitaIncome>21642</PerCapitaIncome>
+  </County>
+  <County name="Denton County">
+    <Population>590120</Population>
+    <LaborForce>327479</LaborForce>
+    <Unemployed>13919</Unemployed>
+    <PerCapitaIncome>37752</PerCapitaIncome>
+  </County>
+  <County name="DeWitt County">
+    <Population>20432</Population>
+    <LaborForce>9224</LaborForce>
+    <Unemployed>410</Unemployed>
+    <PerCapitaIncome>24591</PerCapitaIncome>
+  </County>
+  <County name="Dickens County">
+    <Population>2699</Population>
+    <LaborForce>1200</LaborForce>
+    <Unemployed>51</Unemployed>
+    <PerCapitaIncome>18728</PerCapitaIncome>
+  </County>
+  <County name="Dimmit County">
+    <Population>10033</Population>
+    <LaborForce>3835</LaborForce>
+    <Unemployed>293</Unemployed>
+    <PerCapitaIncome>19413</PerCapitaIncome>
+  </County>
+  <County name="Donley County">
+    <Population>3907</Population>
+    <LaborForce>1817</LaborForce>
+    <Unemployed>87</Unemployed>
+    <PerCapitaIncome>24020</PerCapitaIncome>
+  </County>
+  <County name="Duval County">
+    <Population>12600</Population>
+    <LaborForce>5244</LaborForce>
+    <Unemployed>286</Unemployed>
+    <PerCapitaIncome>22390</PerCapitaIncome>
+  </County>
+  <County name="Eastland County">
+    <Population>18361</Population>
+    <LaborForce>8338</LaborForce>
+    <Unemployed>405</Unemployed>
+    <PerCapitaIncome>30377</PerCapitaIncome>
+  </County>
+  <County name="Ector County">
+    <Population>127212</Population>
+    <LaborForce>65319</LaborForce>
+    <Unemployed>2539</Unemployed>
+    <PerCapitaIncome>29171</PerCapitaIncome>
+  </County>
+  <County name="Edwards County">
+    <Population>1923</Population>
+    <LaborForce>961</LaborForce>
+    <Unemployed>41</Unemployed>
+    <PerCapitaIncome>19562</PerCapitaIncome>
+  </County>
+  <County name="Ellis County">
+    <Population>139104</Population>
+    <LaborForce>68526</LaborForce>
+    <Unemployed>3465</Unemployed>
+    <PerCapitaIncome>29622</PerCapitaIncome>
+  </County>
+  <County name="El Paso County">
+    <Population>743319</Population>
+    <LaborForce>291599</LaborForce>
+    <Unemployed>19645</Unemployed>
+    <PerCapitaIncome>25182</PerCapitaIncome>
+  </County>
+  <County name="Erath County">
+    <Population>34308</Population>
+    <LaborForce>17771</LaborForce>
+    <Unemployed>710</Unemployed>
+    <PerCapitaIncome>25526</PerCapitaIncome>
+  </County>
+  <County name="Falls County">
+    <Population>18035</Population>
+    <LaborForce>7077</LaborForce>
+    <Unemployed>443</Unemployed>
+    <PerCapitaIncome>21452</PerCapitaIncome>
+  </County>
+  <County name="Fannin County">
+    <Population>34042</Population>
+    <LaborForce>13480</LaborForce>
+    <Unemployed>813</Unemployed>
+    <PerCapitaIncome>23724</PerCapitaIncome>
+  </County>
+  <County name="Fayette County">
+    <Population>23763</Population>
+    <LaborForce>12001</LaborForce>
+    <Unemployed>444</Unemployed>
+    <PerCapitaIncome>32986</PerCapitaIncome>
+  </County>
+  <County name="Fisher County">
+    <Population>4213</Population>
+    <LaborForce>1955</LaborForce>
+    <Unemployed>79</Unemployed>
+    <PerCapitaIncome>22322</PerCapitaIncome>
+  </County>
+  <County name="Floyd County">
+    <Population>7263</Population>
+    <LaborForce>3132</LaborForce>
+    <Unemployed>186</Unemployed>
+    <PerCapitaIncome>24380</PerCapitaIncome>
+  </County>
+  <County name="Foard County">
+    <Population>1493</Population>
+    <LaborForce>666</LaborForce>
+    <Unemployed>29</Unemployed>
+    <PerCapitaIncome>21153</PerCapitaIncome>
+  </County>
+  <County name="Fort Bend County">
+    <Population>487047</Population>
+    <LaborForce>244977</LaborForce>
+    <Unemployed>11684</Unemployed>
+    <PerCapitaIncome>39823</PerCapitaIncome>
+  </County>
+  <County name="Franklin County">
+    <Population>10270</Population>
+    <LaborForce>5486</LaborForce>
+    <Unemployed>229</Unemployed>
+    <PerCapitaIncome>27055</PerCapitaIncome>
+  </County>
+  <County name="Freestone County">
+    <Population>19381</Population>
+    <LaborForce>10115</LaborForce>
+    <Unemployed>401</Unemployed>
+    <PerCapitaIncome>24734</PerCapitaIncome>
+  </County>
+  <County name="Frio County">
+    <Population>16323</Population>
+    <LaborForce>6470</LaborForce>
+    <Unemployed>353</Unemployed>
+    <PerCapitaIncome>19121</PerCapitaIncome>
+  </County>
+  <County name="Gaines County">
+    <Population>15122</Population>
+    <LaborForce>6051</LaborForce>
+    <Unemployed>280</Unemployed>
+    <PerCapitaIncome>24112</PerCapitaIncome>
+  </County>
+  <County name="Galveston County">
+    <Population>282126</Population>
+    <LaborForce>137741</LaborForce>
+    <Unemployed>7108</Unemployed>
+    <PerCapitaIncome>36701</PerCapitaIncome>
+  </County>
+  <County name="Garza County">
+    <Population>5075</Population>
+    <LaborForce>2552</LaborForce>
+    <Unemployed>98</Unemployed>
+    <PerCapitaIncome>26635</PerCapitaIncome>
+  </County>
+  <County name="Gillespie County">
+    <Population>24083</Population>
+    <LaborForce>12835</LaborForce>
+    <Unemployed>422</Unemployed>
+    <PerCapitaIncome>35236</PerCapitaIncome>
+  </County>
+  <County name="Glasscock County">
+    <Population>1241</Population>
+    <LaborForce>579</LaborForce>
+    <Unemployed>26</Unemployed>
+    <PerCapitaIncome>30473</PerCapitaIncome>
+  </County>
+  <County name="Goliad County">
+    <Population>7195</Population>
+    <LaborForce>3446</LaborForce>
+    <Unemployed>140</Unemployed>
+    <PerCapitaIncome>24982</PerCapitaIncome>
+  </County>
+  <County name="Gonzales County">
+    <Population>19256</Population>
+    <LaborForce>9743</LaborForce>
+    <Unemployed>394</Unemployed>
+    <PerCapitaIncome>25583</PerCapitaIncome>
+  </County>
+  <County name="Gray County">
+    <Population>22437</Population>
+    <LaborForce>10890</LaborForce>
+    <Unemployed>428</Unemployed>
+    <PerCapitaIncome>32027</PerCapitaIncome>
+  </County>
+  <County name="Grayson County">
+    <Population>118438</Population>
+    <LaborForce>56289</LaborForce>
+    <Unemployed>2753</Unemployed>
+    <PerCapitaIncome>27468</PerCapitaIncome>
+  </County>
+  <County name="Gregg County">
+    <Population>117743</Population>
+    <LaborForce>61510</LaborForce>
+    <Unemployed>2800</Unemployed>
+    <PerCapitaIncome>36342</PerCapitaIncome>
+  </County>
+  <County name="Grimes County">
+    <Population>24802</Population>
+    <LaborForce>10473</LaborForce>
+    <Unemployed>565</Unemployed>
+    <PerCapitaIncome>23143</PerCapitaIncome>
+  </County>
+  <County name="Guadalupe County">
+    <Population>111122</Population>
+    <LaborForce>54331</LaborForce>
+    <Unemployed>2364</Unemployed>
+    <PerCapitaIncome>30554</PerCapitaIncome>
+  </County>
+  <County name="Hale County">
+    <Population>35921</Population>
+    <LaborForce>16578</LaborForce>
+    <Unemployed>867</Unemployed>
+    <PerCapitaIncome>22777</PerCapitaIncome>
+  </County>
+  <County name="Hall County">
+    <Population>3660</Population>
+    <LaborForce>1458</LaborForce>
+    <Unemployed>90</Unemployed>
+    <PerCapitaIncome>18370</PerCapitaIncome>
+  </County>
+  <County name="Hamilton County">
+    <Population>8480</Population>
+    <LaborForce>4005</LaborForce>
+    <Unemployed>169</Unemployed>
+    <PerCapitaIncome>28060</PerCapitaIncome>
+  </County>
+  <County name="Hansford County">
+    <Population>5119</Population>
+    <LaborForce>2390</LaborForce>
+    <Unemployed>86</Unemployed>
+    <PerCapitaIncome>33660</PerCapitaIncome>
+  </County>
+  <County name="Hardeman County">
+    <Population>4436</Population>
+    <LaborForce>2336</LaborForce>
+    <Unemployed>94</Unemployed>
+    <PerCapitaIncome>24536</PerCapitaIncome>
+  </County>
+  <County name="Hardin County">
+    <Population>50419</Population>
+    <LaborForce>25462</LaborForce>
+    <Unemployed>1339</Unemployed>
+    <PerCapitaIncome>30837</PerCapitaIncome>
+  </County>
+  <County name="Harris County">
+    <Population>3830130</Population>
+    <LaborForce>1878297</LaborForce>
+    <Unemployed>95701</Unemployed>
+    <PerCapitaIncome>46132</PerCapitaIncome>
+  </County>
+  <County name="Harrison County">
+    <Population>63715</Population>
+    <LaborForce>31503</LaborForce>
+    <Unemployed>1612</Unemployed>
+    <PerCapitaIncome>29729</PerCapitaIncome>
+  </County>
+  <County name="Hartley County">
+    <Population>5520</Population>
+    <LaborForce>2202</LaborForce>
+    <Unemployed>88</Unemployed>
+    <PerCapitaIncome>28685</PerCapitaIncome>
+  </County>
+  <County name="Haskell County">
+    <Population>5662</Population>
+    <LaborForce>2947</LaborForce>
+    <Unemployed>116</Unemployed>
+    <PerCapitaIncome>25185</PerCapitaIncome>
+  </County>
+  <County name="Hays County">
+    <Population>133913</Population>
+    <LaborForce>69639</LaborForce>
+    <Unemployed>2927</Unemployed>
+    <PerCapitaIncome>28076</PerCapitaIncome>
+  </County>
+  <County name="Hemphill County">
+    <Population>3438</Population>
+    <LaborForce>2317</LaborForce>
+    <Unemployed>63</Unemployed>
+    <PerCapitaIncome>41736</PerCapitaIncome>
+  </County>
+  <County name="Henderson County">
+    <Population>79331</Population>
+    <LaborForce>34509</LaborForce>
+    <Unemployed>1787</Unemployed>
+    <PerCapitaIncome>26228</PerCapitaIncome>
+  </County>
+  <County name="Hidalgo County">
+    <Population>708235</Population>
+    <LaborForce>266210</LaborForce>
+    <Unemployed>19690</Unemployed>
+    <PerCapitaIncome>17390</PerCapitaIncome>
+  </County>
+  <County name="Hill County">
+    <Population>34886</Population>
+    <LaborForce>15145</LaborForce>
+    <Unemployed>847</Unemployed>
+    <PerCapitaIncome>24500</PerCapitaIncome>
+  </County>
+  <County name="Hockley County">
+    <Population>22352</Population>
+    <LaborForce>11363</LaborForce>
+    <Unemployed>475</Unemployed>
+    <PerCapitaIncome>27515</PerCapitaIncome>
+  </County>
+  <County name="Hood County">
+    <Population>49058</Population>
+    <LaborForce>23036</LaborForce>
+    <Unemployed>1133</Unemployed>
+    <PerCapitaIncome>34253</PerCapitaIncome>
+  </County>
+  <County name="Hopkins County">
+    <Population>33910</Population>
+    <LaborForce>17371</LaborForce>
+    <Unemployed>734</Unemployed>
+    <PerCapitaIncome>25897</PerCapitaIncome>
+  </County>
+  <County name="Houston County">
+    <Population>23630</Population>
+    <LaborForce>8064</LaborForce>
+    <Unemployed>497</Unemployed>
+    <PerCapitaIncome>22989</PerCapitaIncome>
+  </County>
+  <County name="Howard County">
+    <Population>32918</Population>
+    <LaborForce>13685</LaborForce>
+    <Unemployed>668</Unemployed>
+    <PerCapitaIncome>26484</PerCapitaIncome>
+  </County>
+  <County name="Hudspeth County">
+    <Population>3483</Population>
+    <LaborForce>1428</LaborForce>
+    <Unemployed>100</Unemployed>
+    <PerCapitaIncome>16306</PerCapitaIncome>
+  </County>
+  <County name="Hunt County">
+    <Population>83050</Population>
+    <LaborForce>38533</LaborForce>
+    <Unemployed>2019</Unemployed>
+    <PerCapitaIncome>27648</PerCapitaIncome>
+  </County>
+  <County name="Hutchinson County">
+    <Population>22739</Population>
+    <LaborForce>11017</LaborForce>
+    <Unemployed>486</Unemployed>
+    <PerCapitaIncome>32274</PerCapitaIncome>
+  </County>
+  <County name="Irion County">
+    <Population>1748</Population>
+    <LaborForce>995</LaborForce>
+    <Unemployed>36</Unemployed>
+    <PerCapitaIncome>30053</PerCapitaIncome>
+  </County>
+  <County name="Jack County">
+    <Population>8844</Population>
+    <LaborForce>4368</LaborForce>
+    <Unemployed>183</Unemployed>
+    <PerCapitaIncome>25910</PerCapitaIncome>
+  </County>
+  <County name="Jackson County">
+    <Population>14559</Population>
+    <LaborForce>6411</LaborForce>
+    <Unemployed>296</Unemployed>
+    <PerCapitaIncome>25407</PerCapitaIncome>
+  </County>
+  <County name="Jasper County">
+    <Population>34863</Population>
+    <LaborForce>15604</LaborForce>
+    <Unemployed>984</Unemployed>
+    <PerCapitaIncome>26637</PerCapitaIncome>
+  </County>
+  <County name="Jeff Davis County">
+    <Population>2486</Population>
+    <LaborForce>1198</LaborForce>
+    <Unemployed>48</Unemployed>
+    <PerCapitaIncome>22612</PerCapitaIncome>
+  </County>
+  <County name="Jefferson County">
+    <Population>245922</Population>
+    <LaborForce>112101</LaborForce>
+    <Unemployed>6825</Unemployed>
+    <PerCapitaIncome>32381</PerCapitaIncome>
+  </County>
+  <County name="Jim Hogg County">
+    <Population>5090</Population>
+    <LaborForce>2695</LaborForce>
+    <Unemployed>117</Unemployed>
+    <PerCapitaIncome>24698</PerCapitaIncome>
+  </County>
+  <County name="Jim Wells County">
+    <Population>41102</Population>
+    <LaborForce>20474</LaborForce>
+    <Unemployed>959</Unemployed>
+    <PerCapitaIncome>27037</PerCapitaIncome>
+  </County>
+  <County name="Johnson County">
+    <Population>150981</Population>
+    <LaborForce>72699</LaborForce>
+    <Unemployed>3373</Unemployed>
+    <PerCapitaIncome>28192</PerCapitaIncome>
+  </County>
+  <County name="Jones County">
+    <Population>20366</Population>
+    <LaborForce>8000</LaborForce>
+    <Unemployed>424</Unemployed>
+    <PerCapitaIncome>20655</PerCapitaIncome>
+  </County>
+  <County name="Karnes County">
+    <Population>15408</Population>
+    <LaborForce>5331</LaborForce>
+    <Unemployed>328</Unemployed>
+    <PerCapitaIncome>18615</PerCapitaIncome>
+  </County>
+  <County name="Kaufman County">
+    <Population>93807</Population>
+    <LaborForce>44477</LaborForce>
+    <Unemployed>2244</Unemployed>
+    <PerCapitaIncome>28369</PerCapitaIncome>
+  </County>
+  <County name="Kendall County">
+    <Population>30547</Population>
+    <LaborForce>15084</LaborForce>
+    <Unemployed>590</Unemployed>
+    <PerCapitaIncome>42151</PerCapitaIncome>
+  </County>
+  <County name="Kenedy County">
+    <Population>392</Population>
+    <LaborForce>244</LaborForce>
+    <Unemployed>7</Unemployed>
+    <PerCapitaIncome>30353</PerCapitaIncome>
+  </County>
+  <County name="Kent County">
+    <Population>815</Population>
+    <LaborForce>404</LaborForce>
+    <Unemployed>16</Unemployed>
+    <PerCapitaIncome>23239</PerCapitaIncome>
+  </County>
+  <County name="Kerr County">
+    <Population>47235</Population>
+    <LaborForce>22531</LaborForce>
+    <Unemployed>920</Unemployed>
+    <PerCapitaIncome>36522</PerCapitaIncome>
+  </County>
+  <County name="Kimble County">
+    <Population>4612</Population>
+    <LaborForce>2228</LaborForce>
+    <Unemployed>86</Unemployed>
+    <PerCapitaIncome>23731</PerCapitaIncome>
+  </County>
+  <County name="King County">
+    <Population>359</Population>
+    <LaborForce>161</LaborForce>
+    <Unemployed>7</Unemployed>
+    <PerCapitaIncome>25692</PerCapitaIncome>
+  </County>
+  <County name="Kinney County">
+    <Population>3327</Population>
+    <LaborForce>1334</LaborForce>
+    <Unemployed>78</Unemployed>
+    <PerCapitaIncome>21732</PerCapitaIncome>
+  </County>
+  <County name="Kleberg County">
+    <Population>30415</Population>
+    <LaborForce>16224</LaborForce>
+    <Unemployed>742</Unemployed>
+    <PerCapitaIncome>26573</PerCapitaIncome>
+  </County>
+  <County name="Knox County">
+    <Population>3972</Population>
+    <LaborForce>1759</LaborForce>
+    <Unemployed>73</Unemployed>
+    <PerCapitaIncome>26322</PerCapitaIncome>
+  </County>
+  <County name="Lamar County">
+    <Population>49787</Population>
+    <LaborForce>23686</LaborForce>
+    <Unemployed>1283</Unemployed>
+    <PerCapitaIncome>25464</PerCapitaIncome>
+  </County>
+  <County name="Lamb County">
+    <Population>14640</Population>
+    <LaborForce>7046</LaborForce>
+    <Unemployed>327</Unemployed>
+    <PerCapitaIncome>23607</PerCapitaIncome>
+  </County>
+  <County name="Lampasas County">
+    <Population>20461</Population>
+    <LaborForce>10511</LaborForce>
+    <Unemployed>423</Unemployed>
+    <PerCapitaIncome>32010</PerCapitaIncome>
+  </County>
+  <County name="La Salle County">
+    <Population>5914</Population>
+    <LaborForce>2744</LaborForce>
+    <Unemployed>139</Unemployed>
+    <PerCapitaIncome>18760</PerCapitaIncome>
+  </County>
+  <County name="Lavaca County">
+    <Population>19368</Population>
+    <LaborForce>10243</LaborForce>
+    <Unemployed>375</Unemployed>
+    <PerCapitaIncome>30343</PerCapitaIncome>
+  </County>
+  <County name="Lee County">
+    <Population>16798</Population>
+    <LaborForce>8807</LaborForce>
+    <Unemployed>352</Unemployed>
+    <PerCapitaIncome>28457</PerCapitaIncome>
+  </County>
+  <County name="Leon County">
+    <Population>16218</Population>
+    <LaborForce>7630</LaborForce>
+    <Unemployed>384</Unemployed>
+    <PerCapitaIncome>26324</PerCapitaIncome>
+  </County>
+  <County name="Liberty County">
+    <Population>77176</Population>
+    <LaborForce>30705</LaborForce>
+    <Unemployed>1778</Unemployed>
+    <PerCapitaIncome>28992</PerCapitaIncome>
+  </County>
+  <County name="Limestone County">
+    <Population>22378</Population>
+    <LaborForce>10249</LaborForce>
+    <Unemployed>488</Unemployed>
+    <PerCapitaIncome>24835</PerCapitaIncome>
+  </County>
+  <County name="Lipscomb County">
+    <Population>3146</Population>
+    <LaborForce>1738</LaborForce>
+    <Unemployed>58</Unemployed>
+    <PerCapitaIncome>29632</PerCapitaIncome>
+  </County>
+  <County name="Live Oak County">
+    <Population>12061</Population>
+    <LaborForce>5061</LaborForce>
+    <Unemployed>231</Unemployed>
+    <PerCapitaIncome>23525</PerCapitaIncome>
+  </County>
+  <County name="Llano County">
+    <Population>18948</Population>
+    <LaborForce>8148</LaborForce>
+    <Unemployed>383</Unemployed>
+    <PerCapitaIncome>29880</PerCapitaIncome>
+  </County>
+  <County name="Loving County">
+    <Population>60</Population>
+    <LaborForce>38</LaborForce>
+    <Unemployed>4</Unemployed>
+    <PerCapitaIncome>83298</PerCapitaIncome>
+  </County>
+  <County name="Lubbock County">
+    <Population>253601</Population>
+    <LaborForce>137779</LaborForce>
+    <Unemployed>5468</Unemployed>
+    <PerCapitaIncome>29002</PerCapitaIncome>
+  </County>
+  <County name="Lynn County">
+    <Population>6237</Population>
+    <LaborForce>2747</LaborForce>
+    <Unemployed>155</Unemployed>
+    <PerCapitaIncome>20779</PerCapitaIncome>
+  </County>
+  <County name="McCulloch County">
+    <Population>8113</Population>
+    <LaborForce>3714</LaborForce>
+    <Unemployed>169</Unemployed>
+    <PerCapitaIncome>24968</PerCapitaIncome>
+  </County>
+  <County name="McLennan County">
+    <Population>224167</Population>
+    <LaborForce>111827</LaborForce>
+    <Unemployed>5376</Unemployed>
+    <PerCapitaIncome>28361</PerCapitaIncome>
+  </County>
+  <County name="McMullen County">
+    <Population>863</Population>
+    <LaborForce>341</LaborForce>
+    <Unemployed>20</Unemployed>
+    <PerCapitaIncome>27061</PerCapitaIncome>
+  </County>
+  <County name="Madison County">
+    <Population>13534</Population>
+    <LaborForce>4953</LaborForce>
+    <Unemployed>261</Unemployed>
+    <PerCapitaIncome>23346</PerCapitaIncome>
+  </County>
+  <County name="Marion County">
+    <Population>10880</Population>
+    <LaborForce>5008</LaborForce>
+    <Unemployed>268</Unemployed>
+    <PerCapitaIncome>22704</PerCapitaIncome>
+  </County>
+  <County name="Martin County">
+    <Population>4820</Population>
+    <LaborForce>2131</LaborForce>
+    <Unemployed>89</Unemployed>
+    <PerCapitaIncome>24960</PerCapitaIncome>
+  </County>
+  <County name="Mason County">
+    <Population>3719</Population>
+    <LaborForce>2432</LaborForce>
+    <Unemployed>74</Unemployed>
+    <PerCapitaIncome>25407</PerCapitaIncome>
+  </County>
+  <County name="Matagorda County">
+    <Population>37063</Population>
+    <LaborForce>15998</LaborForce>
+    <Unemployed>1133</Unemployed>
+    <PerCapitaIncome>24175</PerCapitaIncome>
+  </County>
+  <County name="Maverick County">
+    <Population>52162</Population>
+    <LaborForce>19587</LaborForce>
+    <Unemployed>2537</Unemployed>
+    <PerCapitaIncome>15672</PerCapitaIncome>
+  </County>
+  <County name="Medina County">
+    <Population>43472</Population>
+    <LaborForce>19784</LaborForce>
+    <Unemployed>911</Unemployed>
+    <PerCapitaIncome>24966</PerCapitaIncome>
+  </County>
+  <County name="Menard County">
+    <Population>2297</Population>
+    <LaborForce>1068</LaborForce>
+    <Unemployed>44</Unemployed>
+    <PerCapitaIncome>22995</PerCapitaIncome>
+  </County>
+  <County name="Midland County">
+    <Population>124383</Population>
+    <LaborForce>69741</LaborForce>
+    <Unemployed>2352</Unemployed>
+    <PerCapitaIncome>48992</PerCapitaIncome>
+  </County>
+  <County name="Milam County">
+    <Population>25618</Population>
+    <LaborForce>12127</LaborForce>
+    <Unemployed>556</Unemployed>
+    <PerCapitaIncome>25773</PerCapitaIncome>
+  </County>
+  <County name="Mills County">
+    <Population>5240</Population>
+    <LaborForce>2405</LaborForce>
+    <Unemployed>97</Unemployed>
+    <PerCapitaIncome>25304</PerCapitaIncome>
+  </County>
+  <County name="Mitchell County">
+    <Population>9596</Population>
+    <LaborForce>3367</LaborForce>
+    <Unemployed>200</Unemployed>
+    <PerCapitaIncome>17487</PerCapitaIncome>
+  </County>
+  <County name="Montague County">
+    <Population>19773</Population>
+    <LaborForce>9997</LaborForce>
+    <Unemployed>408</Unemployed>
+    <PerCapitaIncome>29633</PerCapitaIncome>
+  </County>
+  <County name="Montgomery County">
+    <Population>399941</Population>
+    <LaborForce>195544</LaborForce>
+    <Unemployed>8652</Unemployed>
+    <PerCapitaIncome>40811</PerCapitaIncome>
+  </County>
+  <County name="Moore County">
+    <Population>19944</Population>
+    <LaborForce>10389</LaborForce>
+    <Unemployed>355</Unemployed>
+    <PerCapitaIncome>27269</PerCapitaIncome>
+  </County>
+  <County name="Morris County">
+    <Population>13155</Population>
+    <LaborForce>6166</LaborForce>
+    <Unemployed>335</Unemployed>
+    <PerCapitaIncome>27380</PerCapitaIncome>
+  </County>
+  <County name="Motley County">
+    <Population>1381</Population>
+    <LaborForce>632</LaborForce>
+    <Unemployed>26</Unemployed>
+    <PerCapitaIncome>21167</PerCapitaIncome>
+  </County>
+  <County name="Nacogdoches County">
+    <Population>62867</Population>
+    <LaborForce>30764</LaborForce>
+    <Unemployed>1464</Unemployed>
+    <PerCapitaIncome>23228</PerCapitaIncome>
+  </County>
+  <County name="Navarro County">
+    <Population>48715</Population>
+    <LaborForce>21134</LaborForce>
+    <Unemployed>1179</Unemployed>
+    <PerCapitaIncome>23695</PerCapitaIncome>
+  </County>
+  <County name="Newton County">
+    <Population>14338</Population>
+    <LaborForce>5671</LaborForce>
+    <Unemployed>410</Unemployed>
+    <PerCapitaIncome>20952</PerCapitaIncome>
+  </County>
+  <County name="Nolan County">
+    <Population>15038</Population>
+    <LaborForce>7593</LaborForce>
+    <Unemployed>329</Unemployed>
+    <PerCapitaIncome>24937</PerCapitaIncome>
+  </County>
+  <County name="Nueces County">
+    <Population>318651</Population>
+    <LaborForce>157595</LaborForce>
+    <Unemployed>7703</Unemployed>
+    <PerCapitaIncome>31984</PerCapitaIncome>
+  </County>
+  <County name="Ochiltree County">
+    <Population>9300</Population>
+    <LaborForce>5094</LaborForce>
+    <Unemployed>155</Unemployed>
+    <PerCapitaIncome>34964</PerCapitaIncome>
+  </County>
+  <County name="Oldham County">
+    <Population>2200</Population>
+    <LaborForce>1020</LaborForce>
+    <Unemployed>42</Unemployed>
+    <PerCapitaIncome>23216</PerCapitaIncome>
+  </County>
+  <County name="Orange County">
+    <Population>84026</Population>
+    <LaborForce>41045</LaborForce>
+    <Unemployed>2407</Unemployed>
+    <PerCapitaIncome>29401</PerCapitaIncome>
+  </County>
+  <County name="Palo Pinto County">
+    <Population>28038</Population>
+    <LaborForce>14412</LaborForce>
+    <Unemployed>620</Unemployed>
+    <PerCapitaIncome>28339</PerCapitaIncome>
+  </County>
+  <County name="Panola County">
+    <Population>23225</Population>
+    <LaborForce>12015</LaborForce>
+    <Unemployed>522</Unemployed>
+    <PerCapitaIncome>28617</PerCapitaIncome>
+  </County>
+  <County name="Parker County">
+    <Population>106811</Population>
+    <LaborForce>51942</LaborForce>
+    <Unemployed>2397</Unemployed>
+    <PerCapitaIncome>32897</PerCapitaIncome>
+  </County>
+  <County name="Parmer County">
+    <Population>9788</Population>
+    <LaborForce>4376</LaborForce>
+    <Unemployed>167</Unemployed>
+    <PerCapitaIncome>24416</PerCapitaIncome>
+  </County>
+  <County name="Pecos County">
+    <Population>16422</Population>
+    <LaborForce>6725</LaborForce>
+    <Unemployed>314</Unemployed>
+    <PerCapitaIncome>17937</PerCapitaIncome>
+  </County>
+  <County name="Polk County">
+    <Population>46349</Population>
+    <LaborForce>16947</LaborForce>
+    <Unemployed>1034</Unemployed>
+    <PerCapitaIncome>29839</PerCapitaIncome>
+  </County>
+  <County name="Potter County">
+    <Population>121375</Population>
+    <LaborForce>57748</LaborForce>
+    <Unemployed>2450</Unemployed>
+    <PerCapitaIncome>27635</PerCapitaIncome>
+  </County>
+  <County name="Presidio County">
+    <Population>8105</Population>
+    <LaborForce>3221</LaborForce>
+    <Unemployed>342</Unemployed>
+    <PerCapitaIncome>16345</PerCapitaIncome>
+  </County>
+  <County name="Rains County">
+    <Population>10645</Population>
+    <LaborForce>5128</LaborForce>
+    <Unemployed>249</Unemployed>
+    <PerCapitaIncome>23215</PerCapitaIncome>
+  </County>
+  <County name="Randall County">
+    <Population>111427</Population>
+    <LaborForce>66934</LaborForce>
+    <Unemployed>2210</Unemployed>
+    <PerCapitaIncome>32580</PerCapitaIncome>
+  </County>
+  <County name="Reagan County">
+    <Population>3041</Population>
+    <LaborForce>2289</LaborForce>
+    <Unemployed>57</Unemployed>
+    <PerCapitaIncome>27635</PerCapitaIncome>
+  </County>
+  <County name="Real County">
+    <Population>3295</Population>
+    <LaborForce>1347</LaborForce>
+    <Unemployed>66</Unemployed>
+    <PerCapitaIncome>23166</PerCapitaIncome>
+  </County>
+  <County name="Red River County">
+    <Population>13972</Population>
+    <LaborForce>6239</LaborForce>
+    <Unemployed>345</Unemployed>
+    <PerCapitaIncome>22752</PerCapitaIncome>
+  </County>
+  <County name="Reeves County">
+    <Population>11606</Population>
+    <LaborForce>4130</LaborForce>
+    <Unemployed>255</Unemployed>
+    <PerCapitaIncome>19784</PerCapitaIncome>
+  </County>
+  <County name="Refugio County">
+    <Population>7497</Population>
+    <LaborForce>3813</LaborForce>
+    <Unemployed>175</Unemployed>
+    <PerCapitaIncome>27743</PerCapitaIncome>
+  </County>
+  <County name="Roberts County">
+    <Population>860</Population>
+    <LaborForce>554</LaborForce>
+    <Unemployed>17</Unemployed>
+    <PerCapitaIncome>25727</PerCapitaIncome>
+  </County>
+  <County name="Robertson County">
+    <Population>16171</Population>
+    <LaborForce>7471</LaborForce>
+    <Unemployed>363</Unemployed>
+    <PerCapitaIncome>27203</PerCapitaIncome>
+  </County>
+  <County name="Rockwall County">
+    <Population>69658</Population>
+    <LaborForce>35238</LaborForce>
+    <Unemployed>1570</Unemployed>
+    <PerCapitaIncome>39162</PerCapitaIncome>
+  </County>
+  <County name="Runnels County">
+    <Population>11020</Population>
+    <LaborForce>4403</LaborForce>
+    <Unemployed>237</Unemployed>
+    <PerCapitaIncome>23182</PerCapitaIncome>
+  </County>
+  <County name="Rusk County">
+    <Population>48093</Population>
+    <LaborForce>22931</LaborForce>
+    <Unemployed>1071</Unemployed>
+    <PerCapitaIncome>26232</PerCapitaIncome>
+  </County>
+  <County name="Sabine County">
+    <Population>10449</Population>
+    <LaborForce>3424</LaborForce>
+    <Unemployed>300</Unemployed>
+    <PerCapitaIncome>27043</PerCapitaIncome>
+  </County>
+  <County name="San Augustine County">
+    <Population>9217</Population>
+    <LaborForce>3552</LaborForce>
+    <Unemployed>224</Unemployed>
+    <PerCapitaIncome>23201</PerCapitaIncome>
+  </County>
+  <County name="San Jacinto County">
+    <Population>24739</Population>
+    <LaborForce>9959</LaborForce>
+    <Unemployed>587</Unemployed>
+    <PerCapitaIncome>26546</PerCapitaIncome>
+  </County>
+  <County name="San Patricio County">
+    <Population>69477</Population>
+    <LaborForce>29459</LaborForce>
+    <Unemployed>1621</Unemployed>
+    <PerCapitaIncome>27025</PerCapitaIncome>
+  </County>
+  <County name="San Saba County">
+    <Population>6102</Population>
+    <LaborForce>2559</LaborForce>
+    <Unemployed>126</Unemployed>
+    <PerCapitaIncome>22500</PerCapitaIncome>
+  </County>
+  <County name="Schleicher County">
+    <Population>2911</Population>
+    <LaborForce>1359</LaborForce>
+    <Unemployed>52</Unemployed>
+    <PerCapitaIncome>21687</PerCapitaIncome>
+  </County>
+  <County name="Scurry County">
+    <Population>15895</Population>
+    <LaborForce>7123</LaborForce>
+    <Unemployed>336</Unemployed>
+    <PerCapitaIncome>27989</PerCapitaIncome>
+  </County>
+  <County name="Shackelford County">
+    <Population>3257</Population>
+    <LaborForce>2015</LaborForce>
+    <Unemployed>62</Unemployed>
+    <PerCapitaIncome>34021</PerCapitaIncome>
+  </County>
+  <County name="Shelby County">
+    <Population>25687</Population>
+    <LaborForce>11963</LaborForce>
+    <Unemployed>595</Unemployed>
+    <PerCapitaIncome>24737</PerCapitaIncome>
+  </County>
+  <County name="Sherman County">
+    <Population>3108</Population>
+    <LaborForce>1315</LaborForce>
+    <Unemployed>53</Unemployed>
+    <PerCapitaIncome>37007</PerCapitaIncome>
+  </County>
+  <County name="Smith County">
+    <Population>194792</Population>
+    <LaborForce>96418</LaborForce>
+    <Unemployed>4517</Unemployed>
+    <PerCapitaIncome>33284</PerCapitaIncome>
+  </County>
+  <County name="Somervell County">
+    <Population>7979</Population>
+    <LaborForce>3753</LaborForce>
+    <Unemployed>181</Unemployed>
+    <PerCapitaIncome>29800</PerCapitaIncome>
+  </County>
+  <County name="Starr County">
+    <Population>62432</Population>
+    <LaborForce>21487</LaborForce>
+    <Unemployed>2509</Unemployed>
+    <PerCapitaIncome>13074</PerCapitaIncome>
+  </County>
+  <County name="Stephens County">
+    <Population>9495</Population>
+    <LaborForce>4427</LaborForce>
+    <Unemployed>181</Unemployed>
+    <PerCapitaIncome>27319</PerCapitaIncome>
+  </County>
+  <County name="Sterling County">
+    <Population>1223</Population>
+    <LaborForce>871</LaborForce>
+    <Unemployed>27</Unemployed>
+    <PerCapitaIncome>21359</PerCapitaIncome>
+  </County>
+  <County name="Stonewall County">
+    <Population>1490</Population>
+    <LaborForce>876</LaborForce>
+    <Unemployed>30</Unemployed>
+    <PerCapitaIncome>32056</PerCapitaIncome>
+  </County>
+  <County name="Sutton County">
+    <Population>4205</Population>
+    <LaborForce>2836</LaborForce>
+    <Unemployed>76</Unemployed>
+    <PerCapitaIncome>32702</PerCapitaIncome>
+  </County>
+  <County name="Swisher County">
+    <Population>8097</Population>
+    <LaborForce>3508</LaborForce>
+    <Unemployed>157</Unemployed>
+    <PerCapitaIncome>25147</PerCapitaIncome>
+  </County>
+  <County name="Tarrant County">
+    <Population>1667306</Population>
+    <LaborForce>861246</LaborForce>
+    <Unemployed>41027</Unemployed>
+    <PerCapitaIncome>37214</PerCapitaIncome>
+  </County>
+  <County name="Taylor County">
+    <Population>128115</Population>
+    <LaborForce>66461</LaborForce>
+    <Unemployed>2583</Unemployed>
+    <PerCapitaIncome>30810</PerCapitaIncome>
+  </County>
+  <County name="Terrell County">
+    <Population>1006</Population>
+    <LaborForce>387</LaborForce>
+    <Unemployed>21</Unemployed>
+    <PerCapitaIncome>23061</PerCapitaIncome>
+  </County>
+  <County name="Terry County">
+    <Population>12362</Population>
+    <LaborForce>5629</LaborForce>
+    <Unemployed>293</Unemployed>
+    <PerCapitaIncome>25982</PerCapitaIncome>
+  </County>
+  <County name="Throckmorton County">
+    <Population>1762</Population>
+    <LaborForce>972</LaborForce>
+    <Unemployed>34</Unemployed>
+    <PerCapitaIncome>27400</PerCapitaIncome>
+  </County>
+  <County name="Titus County">
+    <Population>30191</Population>
+    <LaborForce>14514</LaborForce>
+    <Unemployed>629</Unemployed>
+    <PerCapitaIncome>27131</PerCapitaIncome>
+  </County>
+  <County name="Tom Green County">
+    <Population>103123</Population>
+    <LaborForce>52211</LaborForce>
+    <Unemployed>2176</Unemployed>
+    <PerCapitaIncome>29692</PerCapitaIncome>
+  </County>
+  <County name="Travis County">
+    <Population>928037</Population>
+    <LaborForce>516055</LaborForce>
+    <Unemployed>21091</Unemployed>
+    <PerCapitaIncome>40037</PerCapitaIncome>
+  </County>
+  <County name="Trinity County">
+    <Population>14247</Population>
+    <LaborForce>5761</LaborForce>
+    <Unemployed>335</Unemployed>
+    <PerCapitaIncome>23150</PerCapitaIncome>
+  </County>
+  <County name="Tyler County">
+    <Population>21042</Population>
+    <LaborForce>8210</LaborForce>
+    <Unemployed>519</Unemployed>
+    <PerCapitaIncome>24323</PerCapitaIncome>
+  </County>
+  <County name="Upshur County">
+    <Population>37379</Population>
+    <LaborForce>18854</LaborForce>
+    <Unemployed>871</Unemployed>
+    <PerCapitaIncome>26066</PerCapitaIncome>
+  </County>
+  <County name="Upton County">
+    <Population>3169</Population>
+    <LaborForce>1606</LaborForce>
+    <Unemployed>60</Unemployed>
+    <PerCapitaIncome>28146</PerCapitaIncome>
+  </County>
+  <County name="Uvalde County">
+    <Population>25719</Population>
+    <LaborForce>11372</LaborForce>
+    <Unemployed>681</Unemployed>
+    <PerCapitaIncome>23500</PerCapitaIncome>
+  </County>
+  <County name="Val Verde County">
+    <Population>47362</Population>
+    <LaborForce>20248</LaborForce>
+    <Unemployed>1217</Unemployed>
+    <PerCapitaIncome>23944</PerCapitaIncome>
+  </County>
+  <County name="Van Zandt County">
+    <Population>51827</Population>
+    <LaborForce>25241</LaborForce>
+    <Unemployed>1156</Unemployed>
+    <PerCapitaIncome>29888</PerCapitaIncome>
+  </County>
+  <County name="Victoria County">
+    <Population>86334</Population>
+    <LaborForce>44392</LaborForce>
+    <Unemployed>1817</Unemployed>
+    <PerCapitaIncome>33331</PerCapitaIncome>
+  </County>
+  <County name="Walker County">
+    <Population>64026</Population>
+    <LaborForce>26261</LaborForce>
+    <Unemployed>1415</Unemployed>
+    <PerCapitaIncome>20107</PerCapitaIncome>
+  </County>
+  <County name="Waller County">
+    <Population>38475</Population>
+    <LaborForce>15730</LaborForce>
+    <Unemployed>840</Unemployed>
+    <PerCapitaIncome>29646</PerCapitaIncome>
+  </County>
+  <County name="Ward County">
+    <Population>10369</Population>
+    <LaborForce>4726</LaborForce>
+    <Unemployed>220</Unemployed>
+    <PerCapitaIncome>26524</PerCapitaIncome>
+  </County>
+  <County name="Washington County">
+    <Population>32181</Population>
+    <LaborForce>16059</LaborForce>
+    <Unemployed>682</Unemployed>
+    <PerCapitaIncome>33323</PerCapitaIncome>
+  </County>
+  <County name="Webb County">
+    <Population>234498</Population>
+    <LaborForce>88054</LaborForce>
+    <Unemployed>4786</Unemployed>
+    <PerCapitaIncome>20262</PerCapitaIncome>
+  </County>
+  <County name="Wharton County">
+    <Population>42252</Population>
+    <LaborForce>20585</LaborForce>
+    <Unemployed>989</Unemployed>
+    <PerCapitaIncome>27981</PerCapitaIncome>
+  </County>
+  <County name="Wheeler County">
+    <Population>5069</Population>
+    <LaborForce>2807</LaborForce>
+    <Unemployed>93</Unemployed>
+    <PerCapitaIncome>35980</PerCapitaIncome>
+  </County>
+  <County name="Wichita County">
+    <Population>130521</Population>
+    <LaborForce>62764</LaborForce>
+    <Unemployed>2754</Unemployed>
+    <PerCapitaIncome>32640</PerCapitaIncome>
+  </County>
+  <County name="Wilbarger County">
+    <Population>14115</Population>
+    <LaborForce>7882</LaborForce>
+    <Unemployed>284</Unemployed>
+    <PerCapitaIncome>28105</PerCapitaIncome>
+  </County>
+  <County name="Willacy County">
+    <Population>20884</Population>
+    <LaborForce>7637</LaborForce>
+    <Unemployed>699</Unemployed>
+    <PerCapitaIncome>18714</PerCapitaIncome>
+  </County>
+  <County name="Williamson County">
+    <Population>349982</Population>
+    <LaborForce>188933</LaborForce>
+    <Unemployed>7980</Unemployed>
+    <PerCapitaIncome>33638</PerCapitaIncome>
+  </County>
+  <County name="Wilson County">
+    <Population>39142</Population>
+    <LaborForce>18260</LaborForce>
+    <Unemployed>811</Unemployed>
+    <PerCapitaIncome>27814</PerCapitaIncome>
+  </County>
+  <County name="Winkler County">
+    <Population>6805</Population>
+    <LaborForce>3219</LaborForce>
+    <Unemployed>127</Unemployed>
+    <PerCapitaIncome>29349</PerCapitaIncome>
+  </County>
+  <County name="Wise County">
+    <Population>56495</Population>
+    <LaborForce>27909</LaborForce>
+    <Unemployed>1229</Unemployed>
+    <PerCapitaIncome>27950</PerCapitaIncome>
+  </County>
+  <County name="Wood County">
+    <Population>41661</Population>
+    <LaborForce>17878</LaborForce>
+    <Unemployed>916</Unemployed>
+    <PerCapitaIncome>24726</PerCapitaIncome>
+  </County>
+  <County name="Yoakum County">
+    <Population>7264</Population>
+    <LaborForce>3585</LaborForce>
+    <Unemployed>143</Unemployed>
+    <PerCapitaIncome>31279</PerCapitaIncome>
+  </County>
+  <County name="Young County">
+    <Population>18067</Population>
+    <LaborForce>9671</LaborForce>
+    <Unemployed>371</Unemployed>
+    <PerCapitaIncome>33613</PerCapitaIncome>
+  </County>
+  <County name="Zapata County">
+    <Population>14125</Population>
+    <LaborForce>4924</LaborForce>
+    <Unemployed>302</Unemployed>
+    <PerCapitaIncome>16318</PerCapitaIncome>
+  </County>
+  <County name="Zavala County">
+    <Population>11694</Population>
+    <LaborForce>3759</LaborForce>
+    <Unemployed>444</Unemployed>
+    <PerCapitaIncome>14639</PerCapitaIncome>
+  </County>
+</CountyEmploymentInfo>
