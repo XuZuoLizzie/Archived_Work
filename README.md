@@ -1,20 +1,20 @@
 # Archived Work from Xu Zuo
 ## Overview
-This repository archived in biostatical analysis, and 
+This repository archived a collection of biomedical data science work from Xu Zuo
 
 ## Catalogs
 **Colab Notebooks**
 
-The directory archived a set of Jupyter Notebooks for a varity of tasks in biomedical data science.
+The directory archived a set of Jupyter Notebooks for a varity of tasks in biomedical data science. All notebooks can be imported and run in Google Colab.
 
-- Bio Entity Extration
+- Bio Entity Extration: The notebook introduces a demo that uses data from Europe PMC Annotations to train an NLP pipeline that extracts Cell entities from full-text articles.
 
-- Heart Failture Prediction
+- Heart Failture Prediction: The notebook implements and tests a series of deep learning models for predict diabetic patients risk to develop heart failure using their available electronic health records (EHRs) data
 
 
 **Preprint Classification**
 
-The directory includes source codes and documentations for COVID-19 preprint classification. The goal of this project is to assist literature screening by developing an automated approach to identify the study type (“RCT”, “observational study”, or “other”) of studies related to COVID-19 treatments. The classifcation pipeline can be run either the Python script or Docker container.
+The directory includes source codes and documentations for COVID-19 preprint classification. The goal of this project is to assist literature screening by developing an automated approach to identify the study type (“RCT”, “observational study”, or “other”) of studies related to COVID-19 treatments. In this task, both machine learning-based and transformer-based approaches are implemented and evaluated. The classifcation pipeline can be run using either the Python script or Docker container.
 
 **FindU**
 
