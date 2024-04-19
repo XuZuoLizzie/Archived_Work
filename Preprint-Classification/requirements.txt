@@ -1,0 +1,5 @@
+imbalanced_learn==0.8.0
+xgboost==1.4.1
+pandas==1.2.3
+imblearn==0.0
+scikit_learn==0.24.1
