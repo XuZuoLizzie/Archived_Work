@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+{% load static %}
+{% load template_tags %}  
+<title>Home</title>
+<!-- custom-theme -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //custom-theme -->
+<link href="{% static 'css/bootstrap.css' %}" rel="stylesheet" type="text/css" media="all" />
+<link href="{% static 'css/easy-responsive-tabs.css' %}" rel='stylesheet' type="text/css"/>
+<link href="{% static 'css/style.css' %}" rel="stylesheet" type="text/css" media="all" />
+
+
+<script src="{% static 'js/bootstrap.js' %}"></script>
+
+<link href="{% static 'css/font-awesome.css' %}" rel="stylesheet"> 
+
+<link href="http://fonts.googleapis.com/css?family=Josefin+Sans:300,400,600,700" rel="stylesheet">
+<link href="http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet">
+
+
+
+</head>
+<body> 
+<!-- banner -->
+	<div id="home" class="w3ls-banner"> 
+<!-- header -->
+	<div class="header-w3l">
+		 <div class="header-main">
+			 <div class="header-top-agileits">
+		   	 <div class="container">
+				<div class="header-left">
+					<h3><i class="fa fa-language" aria-hidden="true"></i>Language</h3>
+				</div>
+				<ul class="agile_forms"  data-aos="fade-left">
+					<li><a class="active" href="#" data-toggle="modal" data-target="#myModal2"><i class="fa fa-sign-in" aria-hidden="true"></i> Login</a> </li>
+					<li><a href="#" data-toggle="modal" data-target="#myModal3"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Register</a> </li>
+				</ul>
+				<div class="clearfix"> </div>
+				</div>
+			</div>
+		   	 <div class="container">
+			<nav class="navbar navbar-default">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<h1 data-aos="fade-down"><a  href="#">FindU</a></h1>
+					</div>
+					<!-- navbar-header -->
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+						<ul class="nav navbar-nav navbar-right" data-aos="fade-up">
+							<li><a href="#" class="active">Home</a></li>
+							<li><a href="compare">Compare</a></li>
+							<li><a href="about">About</a></li>
+							<li><a href="mailto:contact@findu.com?Subject=From FindU website">Contact</a></li>
+						</ul>
+
+					</div>
+					<div class="clearfix"> </div>	
+				</nav>
+		   </div>
+		   </div>
+		<div class="clearfix"> </div>
+		<!-- //Nav -->
+	</div>	
+	<!-- //header -->
+
+		<!-- banner-text -->
+		<div class="slider">
+						<div class="w3layouts-banner-top">
+						<!-- 
+							<div class="agileits-banner-info">
+									<h3>Professional & Expert</h3>
+							</div>
+						-->
+						</div>
+
+			<div class="clearfix"> </div>
+			
+			<!--//banner text-->
+		</div>
+<!--banner form-->
+<div id="horizontalTab" class="controls radio inline">
+					<ul class="resp-tabs-list">
+    					<li>Simple Search</li>
+    					<li>Advanced Search</li>
+					</ul>
+					
+					<div class="resp-tabs-container">
+					<div class="tab1">
+					<h6>Simple Search</h6>
+							<form action="{% url 'index' %}" method="get">
+                              <label for="loc_drop" >Select Country: </label>
+                            <select name="loc_drop">
+                                <option value='All'> All </option>
+                                {%if loc_list%}
+                                  {%for item in loc_list %}
+                                  <option value="{{item}}">{{item}} </option>
+                                  {% endfor %}
+                          </select>
+                          {% else %}
+                            <p></p>
+                          {% endif %}
+                          <form action="{% url 'index' %}" method="get" style="right:left">
+                              <label for="sub_drop" >Select Subject:</label>
+                            <select name="sub_drop">
+                                <option value='All'> All </option>
+                                  <option value="Computer Science">Computer Science </option>
+                                  <option value="Engineering">Engineering </option>
+                          </select>
+                        <input type="submit" name="loc_button" onclick="fn1()" value="Filter" />
+							<div class="clearfix"></div>
+							</form>
+					</div>
+					
+					<div class="tab2">
+
+						<h6>Advanced Search</h6>
+                       <form action="{% url 'index' %}" method="get">
+                          <label for="loc_drop">Select Country: </label>
+                        <select name="loc_drop" >
+                            <option value='All'> All </option>
+                            {%if loc_list%}
+                              {%for item in loc_list %}
+                              <option value="{{item}}">{{item}} </option>
+                              {% endfor %}
+                      </select>
+                      {% else %}
+                        <p></p>
+                      {% endif %}
+                      <form action="{% url 'index' %}" method="get">
+                          <label for="sub_drop">Select Subject: </label>
+                        <select name="sub_drop">
+                            <option value='All'> All </option>
+                              <option value="Computer Science">Computer Science </option>
+                              <option value="Engineering">Engineering </option>
+                      </select>
+                    <br/>
+                      <br>
+                         <table style="width:90%">
+                            <thead style="display:table-header-group">
+                            <tr> <b style="color:red"> Reminder: </b> <b>Move the slider to rate the criteria that matter to you from 0 to 10. </b> </tr>
+                            <br>
+                            <tr>
+                                <td> Citations </td>
+                            <td> 0 </td>
+                            <td>
+                                <div class="slidecontainer">
+                                <input type="range" min="0" max="10" value="0" class="slider" id="myRange" name="v_scores[]">
+                                </div>
+                            </td>
+                            <td> 10 </td>
+                        </tr>
+                        <tr>
+                            <td> Industrial Income </td>
+                            <td> 0 </td>
+                            <td>
+                                <div class="slidecontainer">
+                                <input type="range" min="0" max="10" value="0" class="slider" id="myRange" name="v_scores[]">
+                                </div>
+                            </td>
+                            <td> 10 </td>
+                        </tr>
+                        <tr>
+                            <td> International Outlook </td>
+                            <td> 0 </td>
+                            <td>
+                                <div class="slidecontainer">
+                                <input type="range" min="0" max="10" value="0" class="slider" id="myRange" name="v_scores[]">
+                                </div>
+                            </td>
+                            <td> 10 </td>
+                        </tr>
+                        <tr>
+                            <td> Research </td>
+                            <td> 0 </td>
+                            <td>
+                                <div class="slidecontainer">
+                                <input type="range" min="0" max="10" value="0" class="slider" id="myRange" name="v_scores[]">
+                                </div>
+                            </td>
+                            <td> 10 </td>
+                        </tr>
+                        <tr>
+                            <td> Teaching </td>
+                            <td> 0 </td>
+                            <td>
+                                 <div class="slidecontainer">
+                                 <input type="range" min="0" max="10" value="0" class="slider" id="myRange" name="v_scores[]">
+                                 </div>
+                            </td>
+                            <td> 10 </td>
+                        </tr>
+                        <tr>
+                            <td> Ratio of Students to Staff </td>
+                            <td> 0 </td>
+                           <td>
+                                <div class="slidecontainer">
+                                <input type="range" min="0" max="10" value="0" class="slider" id="myRange" name="v_scores[]">
+                                </div>
+                          </td>
+                            <td> 10 </td>
+                     </tr>
+                    <tr>
+                        <td> Percentage of International Students </td>
+                            <td> 0 </td>
+                         <td>
+                                <div class="slidecontainer">
+                                <input type="range" min="0" max="10" value="0" class="slider" id="myRange" name="v_scores[]">
+                                </div>
+                        </td>
+                            <td> 10 </td>
+                 </tr>
+                <tr>
+                    <td> Number of Students </td>
+                            <td> 0 </td>
+                         <td>
+                                <div class="slidecontainer">
+                                <input type="range" min="0" max="10" value="0" class="slider" id="myRange" name="v_scores[]">
+                                </div>
+                        </td>
+                            <td> 10 </td>
+                       </tr>
+                        <tr>
+                    <td> Quaility of Life </td>
+                            <td> 0 </td>
+                         <td>
+                                <div class="slidecontainer">
+                                <input type="range" min="0" max="10" value="0" class="slider" id="myRange" name="v_scores[]">
+                                </div>
+                         </td>
+                            <td> 10 </td>
+                </tr>
+                 <tr>
+                     <td> Safety </td>
+                            <td> 0 </td>
+                        <td>
+                                <div class="slidecontainer">
+                                <input type="range" min="0" max="10" value="0" class="slider" id="myRange" name="v_scores[]">
+                                </div>
+                        </td>
+                            <td> 10 </td>
+                </tr>
+                <tr>
+                    <td> Cost of Living </td>
+                            <td> 0 </td>
+                        <td>
+                                <div class="slidecontainer">
+                                <input type="range" min="0" max="10" value="0" class="slider" id="myRange" name="v_scores[]">
+                                </div>
+                        </td>
+                            <td> 10 </td>
+                </tr>
+                <tr>
+                    <td> Climate </td>
+                            <td> 0 </td>
+                         <td>
+                                <div class="slidecontainer">
+                                <input type="range" min="0" max="10" value="0" class="slider" id="myRange" name="v_scores[]">
+                                </div>
+                        </td>
+                            <td> 10 </td>
+                </tr>
+                </table>
+                    <input type="submit" name="loc_button" value="Filter" />
+                      </form>
+                      </div>
+					</div>
+					</div>	
+			</div>
+
+	<!-- //banner --> 
+	<div class="container">
+            <div class="table-responsive" id="table2">          
+              <table class="table table-hover">
+                <thead style="display:table-header-group">
+                  <tr>
+                      <th class="center">Favourite</th>
+                  {%for value in uni_name.0 %}
+                  <th class="center">{{ uni_name|queryset_field_verbose_name:value }}</th>
+                  {% endfor %}
+                  </tr>
+                  </thead>
+                   {%if uni_list%}
+                      {%for uni in uni_list %}
+                  <tbody>
+                      <tr>
+                          <td>
+                            <p id="like" onclick="like()" style="font-size:20px;  color:#ccc; cursor:pointer;  text-align:center;">&#10084;</p>
+                            <script>
+                                function like() {
+                                  document.getElementById("like").style.color = "#f00";
+                                }
+                            </script>
+                          </td>
+                          {%if uni.rank%} <td class="center">{{uni.rank}} </td> {% endif %}
+                          {%if uni.new_rank%} <td class="center">{{uni.new_rank}} </td> {% endif %}
+                          {%if uni.s_rank%}<td class="center">{{uni.s_rank}} </td> {% endif %}
+                          {%if uni.s_rank_country%}<td class="center">{{uni.s_rank_country}} </td> {% endif %}
+                          {%if uni.name%}<td class="center">{{uni.name}} </td> {% endif %}
+                          {%if uni.location%}<td class="center">{{uni.location}} </td> {% endif %}
+                          {%if uni.city%}<td class="center">{{uni.city}} </td> {% endif %}
+                          {%if uni.scores_overall%} <td class="center">{{uni.scores_overall}} </td> {% endif %}
+                          {%if uni.scores_citations%} <td class="center">{{uni.scores_citations}} </td> {% endif %}
+                          {%if uni.scores_industry_income%} <td class="center">{{uni.scores_industry_income}} </td> {% endif %}                         
+                          {%if uni.scores_international_outlook%} <td class="center">{{uni.scores_international_outlook}} </td> {% endif %}
+                          {%if uni.scores_research%} <td class="center">{{uni.scores_research}} </td>{% endif %}
+                          {%if uni.scores_teaching%}<td class="center">{{uni.scores_teaching}} </td> {% endif %}
+                          {%if uni.stats_student_staff_ratio%}<td class="center">{{uni.stats_student_staff_ratio}} </td> {% endif %}
+                          {%if uni.stats_pc_intl_students %} <td class="center">{{uni.stats_pc_intl_students}} </td> {% endif %}
+                          {%if uni.stats_number_students %} <td class="center">{{uni.stats_number_students}} </td> {% endif %}
+                          {%if uni.stats_female_male_ratio %}<td class="center">{{uni.stats_female_male_ratio}} </td> {% endif %}
+                          {%if uni.quality_of_life_index %} <td class="center">{{uni.quality_of_life_index}} </td> {% endif %}
+                          {%if uni.safety_index %} <td class="center">{{uni.safety_index}} </td> {% endif %}
+                          {%if uni.cost_of_living_index %} <td class="center">{{uni.cost_of_living_index}} </td> {% endif %}
+                          {%if uni.climate_index %}<td class="center">{{uni.climate_index}} </td> {% endif %}
+                      </tr>
+                      {% endfor %}
+                      {% else %}
+                      <tr></tr>
+                   {% endif %}
+                  </tbody>
+                </table>
+                <nav>
+                    <ul class="pagination" style="margin-left:500px">
+                        {% if uni_list.has_previous %}
+                        <li class="">
+                        <a href="?{% param_replace page=uni_list.previous_page_number %}" aria-label="Previous">
+                        <span aria_hidden="true">&laquo;</span></a>
+                        </li>
+                        {% endif %}
+                         <li class="active"><a href="?page={{ uni_list.number }}">{{ uni_list.number}} / {{ uni_list.paginator.num_pages}}</a> </li> 
+                        {% if uni_list.has_next %}
+                         <li class="">
+                              <a href="?{% param_replace page=uni_list.next_page_number %}" aria-label="Next">
+                                  <span aria_hidden="true">&raquo;</span></a>
+                        </li>
+                      {% endif %}
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+<!-- Modal2 -->
+		<div class="modal fade" id="myModal2" tabindex="-1" role="dialog">
+														<div class="modal-dialog">
+														<!-- Modal content-->
+															<div class="modal-content">
+																<div class="modal-header">
+																	<button type="button" class="close" data-dismiss="modal">&times;</button>
+																	
+																	<div class="signin-form profile">
+																	<h3 class="agileinfo_sign">Login</h3>	
+																			<div class="login-form">
+																				<form action="#" method="post">
+																					<input type="email" name="email" placeholder="E-mail" required="">
+																					<input type="password" name="password" placeholder="Password" required="">
+																					<div class="tp">
+																						<input type="submit" value="Login">
+																					</div>
+																				</form>
+																			</div>
+																			
+																			<p><a href="#" data-toggle="modal" data-target="#myModal3" > Don't have an account?</a></p>
+																		</div>
+																</div>
+															</div>
+														</div>
+													</div>
+													<!-- //Modal2 -->	
+													<!-- Modal3 -->
+													<div class="modal fade" id="myModal3" tabindex="-1" role="dialog">
+														<div class="modal-dialog">
+														<!-- Modal content-->
+															<div class="modal-content">
+																<div class="modal-header">
+																	<button type="button" class="close" data-dismiss="modal">&times;</button>
+																	
+																	<div class="signin-form profile">
+																	<h3 class="agileinfo_sign">Register</h3>	
+																			<div class="login-form">
+																				<form action="#" method="post">
+																				   <input type="text" name="name" placeholder="Username" required="">
+																					<input type="email" name="email" placeholder="Email" required="">
+																					<input type="password" name="password" placeholder="Password"  id="password1" required="">
+																					<input type="password" name="password" placeholder="Confirm Password"  id="password2" required="">
+																					<input type="submit" value="Register">
+																				</form>
+																			</div>
+																			<p><a href="#"> By clicking register, I agree to your terms</a></p>
+																		</div>
+																</div>
+															</div>
+														</div>
+													</div>
+													
+		<!-- //Modal3 -->
+
+<!-- contact -->
+	<div class="w3l_footer">
+		<div class="container">
+	<div class="col-md-4">
+	<h2><a href="#">FindU</a></h2>
+	</div>
+	<div class="col-md-8 botttom-nav-agileits">
+		<ul class="nav-w3ls">
+			<li><a href="#">Home</a></li>
+			<li><a href="about/">About</a></li>
+			<li><a href="mailto:contact@findu.com?Subject=From FindU website">Contact</a></li>
+		</ul>
+		<div class="w3l-social">
+			<ul>
+				<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+				<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+				<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+			</ul>
+		</div>
+		<div class="clearfix"> </div>
+	</div>	
+	<div class="clearfix"> </div>
+	</div>
+</div>
+<!-- //contact -->
+<!-- footer -->
+	<div class="w3_agile_footer">
+		<div class="container">
+			<p>Copyright &copy; 2019.Software Development Group 5 All rights reserved.</p>
+			<div class="arrow-container animated fadeInDown">
+				<a href="#home" class="arrow-2 scroll">
+					<i class="fa fa-angle-up"></i>
+				</a>
+				<div class="arrow-1 animated hinge infinite zoomIn"></div>
+			</div>
+		</div>
+	</div>
+<!-- //footer -->
+<!-- js -->
+<script type="text/javascript" src="{% static 'js/jquery-2.1.4.min.js' %}"></script>
+<!-- //js -->
+<!--banner form script-->
+						
+									<script type="text/javascript" src="{% static 'js/jquery-ui.js' %}"></script>
+<!--//banner form script-->
+						<script src="{% static 'js/responsiveslides.min.js' %}"></script>
+
+<!--Rersponsive tabs-->
+<script src="{% static 'js/easy-responsive-tabs.js' %}"></script>
+<script>
+$(document).ready(function () {
+$('#horizontalTab').easyResponsiveTabs({
+type: 'default', //Types: default, vertical, accordion           
+width: 'auto', //auto or any width like 600px
+fit: true,   // 100% fit in a container
+closed: 'accordion', // Start closed if in accordion view
+activate: function(event) { // Callback function if tab is switched
+var $tab = $(this);
+var $info = $('#tabInfo');
+var $name = $('span', $info);
+$name.text($tab.text());
+$info.show();
+}
+});
+
+});
+</script>
+<!-- //Rersponsive tabs -->
+
+<!-- for bootstrap working -->
+	<script src="{% static 'js/bootstrap.js' %}"></script>
+<!-- //for bootstrap working -->
+<!-- start-smooth-scrolling -->
+	<script type="text/javascript">
+		jQuery(document).ready(function($) {
+			$(".scroll").click(function(event){		
+				event.preventDefault();
+				$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+			});
+		});
+	</script>
+<!-- start-smooth-scrolling -->
+<!-- password-script -->  
+<script type="text/javascript">
+		window.onload = function () {
+			document.getElementById("password1").onchange = validatePassword;
+			document.getElementById("password2").onchange = validatePassword;
+		}
+		function validatePassword(){
+			var pass2=document.getElementById("password2").value;
+			var pass1=document.getElementById("password1").value;
+			if(pass1!=pass2)
+				document.getElementById("password2").setCustomValidity("Passwords Don't Match");
+			else
+				document.getElementById("password2").setCustomValidity('');	 
+				//empty string means no validation error
+		}
+
+</script>
+<!-- //password-script -->
+
+
+</body>
+</html>
