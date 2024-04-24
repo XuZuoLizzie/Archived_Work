@@ -1,4 +1,13 @@
 # Software-Development
+
+**Overview**
+The direcotry includes the source codes of FindU, a web application that helps students to search and find universities based on their preferences. The web application is build using MangoDB and Django.
+
+A screenshot of the landing paage is here:
+![Screenshot](final.png)
+
+**How to build the website locally**
+
 1- Install python 3 and pip on Windows, Follow the link below: https://www.youtube.com/watch?v=gFNApsyhpKk
 
 2- Install Ruby and RubyGems on Windows https://forwardhq.com/help/installing-ruby-windows
@@ -7,23 +16,21 @@
 
 3- As you install MongoDB, MongoDG Compass will be automatically installed.
 
-4- In CMD: gem install mongo
+4- Open an commandline window and run the following command: 
+
+`gem install mongo`
 
 5- Install django and djongo: 
 
-pip install django 
-
-pip install djongo
+`pip install django
+pip install djongo`
 
 6- Install modules:
 
-pip install djangorestframework 
-
+`pip install djangorestframework 
 pip install requests 
-
 pip install beautifulsoup4
-
-pip install numpy
+pip install numpy`
 
 7- Open new window in your command prompt and type and keep the window open: 
 "C:\Program Files\MongoDB\Server\4.0\bin\mongo.exe"
