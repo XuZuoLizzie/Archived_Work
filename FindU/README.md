@@ -1,9 +1,10 @@
 # Software-Development
 
 **Overview**
+
 The direcotry includes the source codes of FindU, a web application that helps students to search and find universities based on their preferences. The web application is build using MangoDB and Django.
 
-A screenshot of the landing paage is here:
+A screenshot of the landing page is here:
 ![Screenshot](final.png)
 
 **How to build the website locally**
